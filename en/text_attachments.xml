@@ -1,0 +1,2467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry key="sp_default_name">
+		<original value="Default Suppressor"/>
+		<translation value="Default Suppressor"/>
+	</entry>
+	<entry key="ui_accessories_sp_default">
+		<original value="Default Suppressor"/>
+		<translation value="Default Suppressor"/>
+	</entry>
+	<entry key="is_default_name">
+		<original value="Iron sight"/>
+		<translation value="Iron Sight"/>
+	</entry>
+	<entry key="ui_accessories_is_default">
+		<original value="Iron sight"/>
+		<translation value="Iron Sight"/>
+	</entry>
+	<entry key="ar02_gp_d_name">
+		<original value="Default Grip"/>
+		<translation value="Rifleman Grip"/>
+	</entry>
+	<entry key="ui_ar02_gp_d">
+		<original value="Default Grip"/>
+		<translation value="Default Grip"/>
+	</entry>
+	<entry key="ui_accessories_ss06">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 5.5X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 5.5X&lt;/font&gt; ]"/>
+	</entry>
+	<entry key="ui_ss08_ingame">
+		<original value="TBD"/>
+		<translation value="TBD"/>
+	</entry>
+	<entry key="ui_accessories_gp04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces stamina consumption by 10% &lt;/font&gt; when running"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decreases the stamina consumption by 10% &lt;/font&gt; while running"/>
+	</entry>
+	<entry key="ui_accessories_gp05">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Iincreases haste speed by 20%&lt;/font&gt; when running"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Increases speed by 20%&lt;/font&gt; while running"/>
+	</entry>
+	<entry key="ui_accessories_gp06">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Iincreases haste speed by 10%&lt;/font&gt; when running"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Increases speed by 20%&lt;/font&gt; while running"/>
+	</entry>
+	<entry key="ui_accessories_gp07">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;decreases spread in non-aiming mode by 20% &lt;/font&gt;at all stances"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decreases spread while unzoomed by 20% &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_gp08">
+		<original value="TBD"/>
+		<translation value="TBD"/>
+	</entry>
+	<entry key="ui_accessories_gp09">
+		<original value="TBD"/>
+		<translation value="TBD"/>
+	</entry>
+	<entry key="ui_accessories_rds06">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; while aiming.\nImproves &lt;font color='#42ebf8'&gt;accuracy by 30%&lt;/font&gt; .\nDecreases &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;.\nIncrease &lt;font color='#42ebf8'&gt;aim speed&lt;/font&gt;."/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; while aiming.\nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; .\nDecreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;.\nIncrease &lt;font color='#42ebf8'&gt;aim speed&lt;/font&gt;."/>
+	</entry>
+	<entry key="ui_rds06_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;\n Improves &lt;font color='#42ebf8'&gt;accuracy by 30%&lt;/font&gt; .\nDecreases &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;.\nIncrease &lt;font color='#42ebf8'&gt;aim speed&lt;/font&gt;."/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; while aiming.\nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;.\nDecreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;.\nIncrease &lt;font color='#42ebf8'&gt;aim speed&lt;/font&gt;."/>
+	</entry>
+	<entry key="sp09_shop_name">
+		<original value="TBD"/>
+		<translation value="TBD"/>
+	</entry>
+	<entry key="sp10_shop_name">
+		<original value="TBD"/>
+		<translation value="TBD"/>
+	</entry>
+	<entry key="ui_accessories_sp07">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces recoil and spread by 10%&lt;/font&gt; at all stance &lt;font color='#42ebf8'&gt;TBD_removes light&lt;/font&gt; at barrel"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decreases the recoil and spread by 10%&lt;/font&gt; at all times &lt;font color='#42ebf8'&gt;TBD_removes light&lt;/font&gt; at barrel"/>
+	</entry>
+	<entry key="ui_accessories_sp09">
+		<original value="TBD"/>
+		<translation value="TBD"/>
+	</entry>
+	<entry key="ui_accessories_sp10">
+		<original value="TBD"/>
+		<translation value="TBD"/>
+	</entry>
+	<entry key="ui_accessories_ugl02">
+		<original value="&lt;font size='14'&gt;allows player to throw grenade long distance but it &lt;font color='#42ebf8'&gt;increses stamina consumption by 5%&lt;/font&gt; and &lt;font color='#42ebf8'&gt;Sway by 50%.&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;Increases max range of thrown grenades, but also &lt;font color='#42ebf8'&gt;increases stamina consumption by 5%&lt;/font&gt; and &lt;font color='#42ebf8'&gt;sway by 50%.&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_ubrs01">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE1&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE1&lt;/b&gt;&lt;/font&gt;\nTBD_changes weapon's crosshair color to red"/>
+	</entry>
+	<entry key="ui_accessories_ubrs02">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE2&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE2&lt;/b&gt;&lt;/font&gt;\nTBD_changes weapon's crosshair color to red"/>
+	</entry>
+	<entry key="ui_accessories_ubrs03">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE3&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE3&lt;/b&gt;&lt;/font&gt;\nTBD_changes weapon's crosshair color to red"/>
+	</entry>
+	<entry key="ui_accessories_ubrs04">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE4&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE4&lt;/b&gt;&lt;/font&gt;\nTBD_changes weapon's crosshair color to red"/>
+	</entry>
+	<entry key="ui_accessories_ubrs05">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE5&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE5&lt;/b&gt;&lt;/font&gt;\nTBD_changes weapon's crosshair color to red"/>
+	</entry>
+	<entry key="ui_accessories_ubrs06">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE6&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE6&lt;/b&gt;&lt;/font&gt;\nTBD_changes weapon's crosshair color to red"/>
+	</entry>
+	<entry key="ui_accessories_ubrs07">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE7&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE7&lt;/b&gt;&lt;/font&gt;\nTBD_changes weapon's crosshair color to red"/>
+	</entry>
+	<entry key="ui_accessories_ubrs08">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE8&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE8&lt;/b&gt;&lt;/font&gt;\nTBD_changes weapon's crosshair color to red"/>
+	</entry>
+	<entry key="ui_accessories_ubrs09">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE9&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE9&lt;/b&gt;&lt;/font&gt;\nTBD_changes weapon's crosshair color to red"/>
+	</entry>
+	<entry key="ui_accessories_ubrs10">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE10&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE10&lt;/b&gt;&lt;/font&gt;\nTBD_changes weapon's crosshair color to red"/>
+	</entry>
+	<entry key="ui_accessories_bn04">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bp04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces spread by 20%&lt;/font&gt; at prone and slide stance"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decreases the spread by 20%&lt;/font&gt; while prone"/>
+	</entry>
+	<entry key="ui_accessories_bp05">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces sway by 25%&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;spread by 20%&lt;/font&gt; at prone stance"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decreases the sway and spread by 15%&lt;/font&gt; while prone"/>
+	</entry>
+	<entry key="ui_accessories_bp06">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces recoil by 15%&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;spread by 15%&lt;/font&gt; at prone stance"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decreases the sway and spread by 15%&lt;/font&gt; while prone"/>
+	</entry>
+	<entry key="ui_accessories_bp07">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces sway by 15%&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil by 15%&lt;/font&gt; at prone stance"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decreases the sway and spread by 15%&lt;/font&gt; while prone"/>
+	</entry>
+	<entry key="ui_bp04_ingame">
+		<original value="Reduces&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; spread by 20%&lt;/font&gt; at prone and slide stance"/>
+		<translation value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; while prone\nDecreases the &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; while prone\nDecreases the &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; while prone\n"/>
+	</entry>
+	<entry key="ui_bp05_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone \n"/>
+		<translation value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; while prone\nDecreases the &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; while prone\nDecreases the &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; while prone\n"/>
+	</entry>
+	<entry key="ui_bp06_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone \n"/>
+		<translation value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; while prone\nDecreases the &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; while prone\nDecreases the &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; while prone\n"/>
+	</entry>
+	<entry key="ui_bp07_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone \n"/>
+		<translation value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; while prone\nDecreases the &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; while prone\nDecreases the &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; while prone\n"/>
+	</entry>
+	<entry key="ui_gpp03_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil by 10%&lt;/font&gt; \n"/>
+		<translation value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; while prone"/>
+	</entry>
+	<entry key="ui_gpp04_ingame">
+		<original value="Decrease &lt;font color='#42ebf8'&gt;sway by 25%&lt;/font&gt; in prone"/>
+		<translation value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; while prone"/>
+	</entry>
+	<entry key="ui_gpp05_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil by 10%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone"/>
+		<translation value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; while prone"/>
+	</entry>
+	<entry key="ui_gpp06_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil by 10%&lt;/font&gt; \n"/>
+		<translation value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; while prone"/>
+	</entry>
+	<entry key="ui_accessories_psb01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#FF4400'&gt;decreases aiming speed by 30%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff4400'&gt;Decreases aiming speed by 30%.&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_pt24_sc_d_ingame">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n &lt;font color='#42ebf8'&gt;Do not decreases &lt;/font&gt;damage"/>
+		<translation value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n&lt;font color='#42ebf8'&gt;Does not decrease &lt;/font&gt;damage"/>
+	</entry>
+	<entry key="ui_accessories_bn01_camo02">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 25%&lt;/font&gt;"/>
+		<translation value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn02_camo02">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 25%&lt;/font&gt;"/>
+		<translation value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn03_camo02">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 25%&lt;/font&gt;"/>
+		<translation value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn05_camo02">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 20%&lt;/font&gt;"/>
+		<translation value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc01_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;direction of attack&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;improves accuracy&lt;/font&gt;\n&lt;font color='#ff4400'&gt;decreases damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc02_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font color='#FF4400'&gt;Decreases damage by 15%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;direction of attack&lt;/font&gt;\n&lt;font color='#ff4400'&gt;Strongly decreases damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc03_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;direction of attack&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;improves accuracy&lt;/font&gt;\n&lt;font color='#ff4400'&gt;decreases damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc04_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;direction of attack&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;improves accuracy&lt;/font&gt;\n&lt;font color='#ff4400'&gt;decreases damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc05_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;direction of attack&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;improves accuracy&lt;/font&gt;\n&lt;font color='#ff4400'&gt;decreases damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc06_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;direction of attack&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;improves accuracy&lt;/font&gt;\n&lt;font color='#ff4400'&gt;decreases damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc01_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font color='#ff4400'&gt;damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc02_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Decrease &lt;font color='#FF4400'&gt;damage by 15%&lt;/font&gt;"/>
+		<translation value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt;\nGreatly decrease &lt;font color='#ff4400'&gt;damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc03_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font color='#ff4400'&gt;damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc04_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font color='#ff4400'&gt;damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc05_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font color='#ff4400'&gt;damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc06_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font color='#ff4400'&gt;damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sp02_camo02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 30%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp03_camo02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp04_camo02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp05_camo02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp06_camo02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp02_camo02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n IImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nIImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp03_camo02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp04_camo02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp05_camo02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp06_camo02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_as01_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; &lt;br&gt; &lt;font color='#dddddd'&gt;[ Magnification: &lt;/font&gt;&lt;font color='#42ebf8'&gt;2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; &lt;br&gt;"/>
+	</entry>
+	<entry key="ui_accessories_as02_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; &lt;font color='#dddddd'&gt;[ Magnification: &lt;/font&gt;&lt;font color='#42ebf8'&gt;2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_as03_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt;\n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt; and &lt;font color='#42ebf8'&gt;spread by 10%&lt;/font&gt; in aiming stance.\n"/>
+	</entry>
+	<entry key="ui_accessories_as04_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt; in aiming stance.\n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt; in aiming stance.\n"/>
+	</entry>
+	<entry key="ui_accessories_as05_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom &lt;/font&gt; in aiming stance. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom &lt;/font&gt; in aiming stance.\n"/>
+	</entry>
+	<entry key="ui_accessories_as06_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom &lt;/font&gt;\n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom &lt;/font&gt; and &lt;font color='#42ebf8'&gt;decreases spread by 15%&lt;/font&gt; in aiming stance.\n"/>
+	</entry>
+	<entry key="ui_as01_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_as02_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_as03_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt;\nFast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_as04_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt;\nFast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_as05_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_as06_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_rds01_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode.\n"/>
+	</entry>
+	<entry key="ui_accessories_rds02_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode.\n"/>
+	</entry>
+	<entry key="ui_accessories_rds05_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode.\n"/>
+	</entry>
+	<entry key="ui_accessories_rds04_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]Improves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt; .\nDecreases &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;.\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode.\n"/>
+	</entry>
+	<entry key="ui_ar41_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3.5X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3.5X zoom&lt;/font&gt; in aiming mode.\n&lt;font color='#dddddd'&gt;"/>
+	</entry>
+	<entry key="ui_accessories_as01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; &lt;br&gt; &lt;font color='#dddddd'&gt;[ Magnification: &lt;/font&gt;&lt;font color='#42ebf8'&gt;2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; &lt;br&gt;"/>
+	</entry>
+	<entry key="ui_accessories_as02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; &lt;font color='#dddddd'&gt;[ Magnification: &lt;/font&gt;&lt;font color='#42ebf8'&gt;2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_as03">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt; and &lt;font color='#42ebf8'&gt;spread by 10%&lt;/font&gt; in aiming stance. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt; and &lt;font color='#42ebf8'&gt; decreases the spread by 10%&lt;/font&gt; while aiming.\n"/>
+	</entry>
+	<entry key="ui_accessories_as04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt; in aiming stance.\n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt; while aiming.\n"/>
+	</entry>
+	<entry key="ui_accessories_as05">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom &lt;/font&gt; in aiming stance. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 2X&lt;/font&gt; ]\nImproves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt; in any position\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom &lt;/font&gt; while aiming.\n"/>
+	</entry>
+	<entry key="ui_accessories_as06">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom &lt;/font&gt;\n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; and &lt;font color='#42ebf8'&gt; decreases the spread by 10%&lt;/font&gt; while aiming.\n"/>
+	</entry>
+	<entry key="ui_as04_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt;\nFast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_ss02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 4X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 4X&lt;/font&gt; ]"/>
+	</entry>
+	<entry key="ui_accessories_ss04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 4.5X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 4.5X&lt;/font&gt; ]"/>
+	</entry>
+	<entry key="ui_accessories_gp01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy by 25%&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decrease recoil by 25%&lt;/font&gt; in hip and in aiming mode\n Not applied in prone"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy &lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decrease recoil&lt;/font&gt; from hip and while aiming\nNot applied in prone."/>
+	</entry>
+	<entry key="ui_accessories_gp02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy by 25%&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decrease recoil by 10%&lt;/font&gt; in hip and in aiming mode\n Not applied in prone"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy &lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decrease recoil&lt;/font&gt; from hip and while aiming\nNot applied in prone."/>
+	</entry>
+	<entry key="ui_accessories_gp03">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Lightly improves accuracy by 10%&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Lightly decrease recoil by 10%&lt;/font&gt; in hip and in aiming mode\n Not applied in prone"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Lightly improves accuracy &lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Lightly decreases recoil&lt;/font&gt; from hip and while aiming\nNot applied in prone."/>
+	</entry>
+	<entry key="ui_accessories_rds01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.4X zoom&lt;/font&gt; while aiming.\n"/>
+	</entry>
+	<entry key="ui_accessories_rds02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; while aiming.\n"/>
+	</entry>
+	<entry key="ui_accessories_rds03">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]&lt;font color='#42ebf8'&gt;Improves accuracy by 20%&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decrease recoil by 20%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; while aiming.\n"/>
+	</entry>
+	<entry key="ui_accessories_rds04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]&lt;font color='#42ebf8'&gt;Improves accuracy by 20%&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decrease recoil by 20%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; while aiming.\n"/>
+	</entry>
+	<entry key="ui_accessories_sc01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;direction of attack.&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy.&lt;/font&gt;\n&lt;font color='#ff4400'&gt;Decreases damage.&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font color='#FF4400'&gt;Strongly decreases damage by 15%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;direction of attack&lt;/font&gt;\n&lt;font color='#ff4400'&gt;Significantly decreases damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc03">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;direction of attack.&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy.&lt;/font&gt;\n&lt;font color='#ff4400'&gt;Decreases damage.&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;direction of attack.&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy.&lt;/font&gt;\n&lt;font color='#ff4400'&gt;Decreases damage.&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc05">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;direction of attack.&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy.&lt;/font&gt;\n&lt;font color='#ff4400'&gt;Decreases damage.&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc06">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;direction of attack.&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy.&lt;/font&gt;\n&lt;font color='#ff4400'&gt;Decreases damage.&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sp02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 30%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; bullet penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp03">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; bullet penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp04">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; bullet penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp05">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; bullet penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp06">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; bullet penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 30%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_ugl01">
+		<original value="&lt;font size='14'&gt;Grenade launcher &lt;/font&gt; Increases &lt;font color='#ff4400'&gt;recoil by 20%&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt; \n"/>
+		<translation value="&lt;font size='14'&gt;Grenade Launcher &lt;/font&gt;\nSlightly increases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn02">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 25%&lt;/font&gt;"/>
+		<translation value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn03">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 25%&lt;/font&gt;"/>
+		<translation value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn05">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 20%&lt;/font&gt;"/>
+		<translation value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bp03">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy by 15%&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;recoil by 30%&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;sway by 90%&lt;/font&gt;\n - in prone and zoom"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decreases the recoil by 20%&lt;/font&gt; while in prone"/>
+	</entry>
+	<entry key="ui_bp02_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;sway by 90%&lt;/font&gt;\n - in prone and zoom"/>
+		<translation value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; while prone\nDecreases the &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; while prone\nDecreases the &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; while prone\n"/>
+	</entry>
+	<entry key="ui_accessories_gpp02">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway by 90%&lt;/font&gt; in prone and slide"/>
+		<translation value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases the &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nDecreases the &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt; while prone"/>
+	</entry>
+	<entry key="ui_gpp01_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway by 90%&lt;/font&gt; in prone and slide"/>
+		<translation value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; while prone"/>
+	</entry>
+	<entry key="ui_gpp02_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway by 90%&lt;/font&gt; in prone and slide"/>
+		<translation value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; while prone"/>
+	</entry>
+	<entry key="ui_accessories_ps01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; at aiming stance &lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X Zoom&lt;/font&gt; while aiming\n"/>
+	</entry>
+	<entry key="ui_ss06_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;5.5X&lt;/font&gt; \n"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;5.5X&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_ss01">
+		<original value="&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 5X&lt;/font&gt; ]"/>
+		<translation value="&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 5X&lt;/font&gt; ]"/>
+	</entry>
+	<entry key="ui_accessories_sp01">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; bullet penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_bn01">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 25%&lt;/font&gt;"/>
+		<translation value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bp01">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;recoil by 10%&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;sway by 50%&lt;/font&gt;\n - in prone and zoom"/>
+		<translation value="Lightly Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway and recoil&lt;/font&gt; while in &lt;font size='14'&gt;&lt;font color='#ff6660'&gt;prone &lt;/font&gt;stance"/>
+	</entry>
+	<entry key="ui_accessories_bp02">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;sway by 90%&lt;/font&gt;\n - in prone and zoom"/>
+		<translation value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy and decreases the sway and recoil&lt;/font&gt; while &lt;font size='14'&gt;&lt;font color='#ff4400'&gt;prone&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_gpp01">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway by 90%&lt;/font&gt; in prone and slide"/>
+		<translation value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases the &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nDecreases the &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt; while prone"/>
+	</entry>
+	<entry key="ui_pt24_sc_d">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n &lt;font color='#42ebf8'&gt;Do not decreases &lt;/font&gt;damage"/>
+		<translation value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n&lt;font color='#42ebf8'&gt;Does not decrease &lt;/font&gt;damage"/>
+	</entry>
+	<entry key="ui_sr09_sc_d_ingame">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;"/>
+		<translation value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n&lt;font color='#ff4400'&gt;Decreases damage by 5%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_ss02_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 4X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 4X&lt;/font&gt; ]"/>
+	</entry>
+	<entry key="ui_accessories_ss04_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 4.5X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 4.5X&lt;/font&gt; ]"/>
+	</entry>
+	<entry key="ui_accessories_ss06_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 5.5X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 5.5X&lt;/font&gt; ]"/>
+	</entry>
+	<entry key="ui_accessories_ss03_camo02">
+		<original value="&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 5X&lt;/font&gt; ]"/>
+		<translation value="&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 5X&lt;/font&gt; ]"/>
+	</entry>
+	<entry key="ui_shg31_bn_d_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack range&lt;/font&gt;\n Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 35%&lt;/font&gt;"/>
+		<translation value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack range&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_pt14_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.4X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.4X zoom&lt;/font&gt; in aiming mode.\n"/>
+	</entry>
+	<entry key="ui_pt14_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;Eliminates&lt;font color='#42ebf8'&gt; sound &lt;/font&gt;\n &lt;font size='14'&gt;Imroves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage per meter by 50%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;Eliminates&lt;font color='#42ebf8'&gt; sound &lt;/font&gt;\n&lt;font size='14'&gt;Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n&lt;font color='#42ebf8'&gt;Does not decrease damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_shg33_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.4X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.4X zoom&lt;/font&gt; in aiming mode.\n"/>
+	</entry>
+	<entry key="ui_sr31_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;4.5X zoom&lt;/font&gt; in aiming mode.\n"/>
+	</entry>
+	<entry key="ui_sr31_sc_d_ingame">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n &lt;font color='#42ebf8'&gt;Do not decrease &lt;/font&gt;damage"/>
+		<translation value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n&lt;font color='#42ebf8'&gt;Do not decrease &lt;/font&gt;damage"/>
+	</entry>
+	<entry key="as01_shop_name">
+		<original value="Advanced Assault Scope"/>
+		<translation value="Advanced Rifleman Scope"/>
+	</entry>
+	<entry key="as02_shop_name">
+		<original value="ELCAN SpecterOS"/>
+		<translation value="Basic Rifleman Scope"/>
+	</entry>
+	<entry key="as03_shop_name">
+		<original value="Ultra-rare SMG Scope"/>
+		<translation value="Ultra-rare SMG Scope"/>
+	</entry>
+	<entry key="as04_shop_name">
+		<original value="Trijicon ACOG"/>
+		<translation value="MCA Scope"/>
+	</entry>
+	<entry key="as05_shop_name">
+		<original value="Advanced SMG Scope"/>
+		<translation value="Advanced SMG Scope"/>
+	</entry>
+	<entry key="as06_shop_name">
+		<original value="Basic SMG Scope"/>
+		<translation value="Basic SMG Scope"/>
+	</entry>
+	<entry key="ui_as01_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_as02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_as03_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt;\nFast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_as05_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt; in any position\n"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_as06_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ss01_default_name">
+		<original value="Fast Mid Range Scope 5X"/>
+		<translation value="Fast Mid-Range Scope 5x"/>
+	</entry>
+	<entry key="ss02_shop_name">
+		<original value="Short Range Sniper Scope 4X"/>
+		<translation value="Short-Range Sniper Scope 4x"/>
+	</entry>
+	<entry key="ss04_shop_name">
+		<original value="Mid Range Sniper Scope 4.5X"/>
+		<translation value="Mid-Range Sniper Scope 4.5x"/>
+	</entry>
+	<entry key="ss06_shop_name">
+		<original value="Default Sniper Scope 5.5X"/>
+		<translation value="Default Sniper Scope 5.5X"/>
+	</entry>
+	<entry key="ui_ss01_ingame">
+		<original value="Fast Zoom &lt;font color='#42ebf8'&gt;5X&lt;/font&gt;"/>
+		<translation value="Fast Zoom &lt;font color='#42ebf8'&gt;5X&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_ss02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;4X&lt;/font&gt;"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;4X&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_ss04_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;4.5X&lt;/font&gt; \n"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;4.5X&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_ss06_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;5.5X&lt;/font&gt; \n"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;5.5X&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_ss07_ingame">
+		<original value="TBD"/>
+		<translation value="TBD"/>
+	</entry>
+	<entry key="gp01_shop_name">
+		<original value="SMG Grip"/>
+		<translation value="SMG Grip"/>
+	</entry>
+	<entry key="gp02_shop_name">
+		<original value="Assault Grip"/>
+		<translation value="Rifleman Grip"/>
+	</entry>
+	<entry key="gp03_shop_name">
+		<original value="Shared Grip"/>
+		<translation value="Shared Grip"/>
+	</entry>
+	<entry key="gp04_shop_name">
+		<original value="Light Weight Grip"/>
+		<translation value="Light Weight Grip"/>
+	</entry>
+	<entry key="gp05_shop_name">
+		<original value="Haste Grip II"/>
+		<translation value="Haste Grip II"/>
+	</entry>
+	<entry key="gp06_shop_name">
+		<original value="Haste Grip"/>
+		<translation value="Haste Grip"/>
+	</entry>
+	<entry key="gp07_shop_name">
+		<original value="Spread Grip"/>
+		<translation value="Spread Grip"/>
+	</entry>
+	<entry key="gp08_shop_name">
+		<original value="Crywar Grip"/>
+		<translation value="Crywar Grip"/>
+	</entry>
+	<entry key="gp09_shop_name">
+		<original value="Crywar Grip II"/>
+		<translation value="Crywar Grip II"/>
+	</entry>
+	<entry key="ui_gp01_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy by 10%&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decrease recoil by 10%&lt;/font&gt; in hip and in aiming mode\n Not applied in prone"/>
+		<translation value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="ui_gp02_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy by 10%&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decrease recoil by 10%&lt;/font&gt; in hip and in aiming mode\n Not applied in prone"/>
+		<translation value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="ui_gp03_ingame">
+		<original value="Lightly improves &lt;font color='#42ebf8'&gt;accuracy by 5%&lt;/font&gt; \n Lightly decrease &lt;font color='#42ebf8'&gt;recoil by 5%&lt;/font&gt; \n Not applied in prone"/>
+		<translation value="Lightly improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nLightly decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="ui_gp04_ingame">
+		<original value="Don't have any special&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; abilities&lt;/font&gt;\n"/>
+		<translation value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases the &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp05_ingame">
+		<original value="Haste Speed &lt;font color='#42ebf8'&gt;+20%&lt;/font&gt;"/>
+		<translation value="Sprint speed &lt;font color='#42ebf8'&gt;+20%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp06_ingame">
+		<original value="Haste Speed &lt;font color='#42ebf8'&gt;+10%&lt;/font&gt;"/>
+		<translation value="Sprint speed &lt;font color='#42ebf8'&gt;+10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp07_ingame">
+		<original value="Spread in none aiming mode &lt;font color='#42ebf8'&gt;-20%&lt;/font&gt;"/>
+		<translation value="Spread when not aiming &lt;font color='#42ebf8'&gt;-20%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp08_ingame">
+		<original value="Reload &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt; \n Spread in none aiming mode &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt;"/>
+		<translation value="Reload &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt;\nSpread when not aiming &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp09_ingame">
+		<original value="Stamina Consumption &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt; \n Haste Speed &lt;font color='#42ebf8'&gt;+10%&lt;/font&gt;"/>
+		<translation value="Stamina consumption &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt;\nSprint speed &lt;font color='#42ebf8'&gt;+10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="rds01_shop_name">
+		<original value="EOTech 553"/>
+		<translation value="Reflex Sight"/>
+	</entry>
+	<entry key="rds02_shop_name">
+		<original value="TRUGLO Red Dot Sight"/>
+		<translation value="Red Dot Sight"/>
+	</entry>
+	<entry key="rds03_shop_name">
+		<original value="Aimpoint CompM4s"/>
+		<translation value="Aimpointer"/>
+	</entry>
+	<entry key="rds03_camo02_shop_name">
+		<original value="Aimpoint CompM4s Winter Camouflage"/>
+		<translation value="Aimpointer Winter Camouflage"/>
+	</entry>
+	<entry key="rds04_shop_name">
+		<original value="Mojji Zero"/>
+		<translation value="Advanced Reflex Sight"/>
+	</entry>
+	<entry key="rds06_shop_name">
+		<original value="RDS06"/>
+		<translation value="Special reflex sight"/>
+	</entry>
+	<entry key="ui_rds01_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+		<translation value="Zoom Range &lt;font color='#42ebf8'&gt;1.4X&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_rds02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+		<translation value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_rds03_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;"/>
+		<translation value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_rds03_camo02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.5X&lt;/font&gt;"/>
+		<translation value="Zoom Range &lt;font color='#42ebf8'&gt;1.5X&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_rds04_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;\n Fast zoom \n Improves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;"/>
+		<translation value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;\nFast zoom\nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;"/>
+	</entry>
+	<entry key="sc01_shop_name">
+		<original value="SMG Silencer"/>
+		<translation value="SMG Silencer"/>
+	</entry>
+	<entry key="sc02_shop_name">
+		<original value="Shared Silencer"/>
+		<translation value="Shared Silencer"/>
+	</entry>
+	<entry key="sc03_shop_name">
+		<original value="Custom Pistol Silencer"/>
+		<translation value="Custom Pistol Silencer"/>
+	</entry>
+	<entry key="sc04_shop_name">
+		<original value="SHOTGUN Silencer"/>
+		<translation value="Shotgun Silencer"/>
+	</entry>
+	<entry key="sc05_shop_name">
+		<original value="Assault Silencer"/>
+		<translation value="Rifleman Silencer"/>
+	</entry>
+	<entry key="sc06_shop_name">
+		<original value="Sniper rifle Silencer"/>
+		<translation value="Sniper Rifle Silencer"/>
+	</entry>
+	<entry key="ui_sc01_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="Elliminates &lt;font color='#42ebf8'&gt;sound.&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;accuracy.&lt;/font&gt;\nDecreases &lt;font color='#ff4400'&gt;damage.&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Decrease &lt;font color='#FF4400'&gt;damage by 15%&lt;/font&gt;"/>
+		<translation value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt;\nSignificantly decrease &lt;font color='#ff4400'&gt;damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc03_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy  by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="Elliminates &lt;font color='#42ebf8'&gt;sound.&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;accuracy.&lt;/font&gt;\nDecreases &lt;font color='#ff4400'&gt;damage.&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc04_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy  by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage  by 10%&lt;/font&gt;"/>
+		<translation value="Elliminates &lt;font color='#42ebf8'&gt;sound.&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;accuracy.&lt;/font&gt;\nDecreases &lt;font color='#ff4400'&gt;damage.&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc05_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy  by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="Elliminates &lt;font color='#42ebf8'&gt;sound.&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;accuracy.&lt;/font&gt;\nDecreases &lt;font color='#ff4400'&gt;damage.&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc06_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="Elliminates &lt;font color='#42ebf8'&gt;sound.&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;accuracy.&lt;/font&gt;\nDecreases &lt;font color='#ff4400'&gt;damage.&lt;/font&gt;"/>
+	</entry>
+	<entry key="sp01_shop_name">
+		<original value="Machinegun Suppressor"/>
+		<translation value="Machinegun Suppressor"/>
+	</entry>
+	<entry key="sp02_shop_name">
+		<original value="SMG Suppressor"/>
+		<translation value="SMG Suppressor"/>
+	</entry>
+	<entry key="sp03_shop_name">
+		<original value="Assault Suppressor"/>
+		<translation value="Rifleman Suppressor"/>
+	</entry>
+	<entry key="sp04_shop_name">
+		<original value="Sniper Rifle Suppressor"/>
+		<translation value="Sniper Rifle Suppressor"/>
+	</entry>
+	<entry key="sp05_shop_name">
+		<original value="Pistol Suppressor"/>
+		<translation value="Pistol Suppressor"/>
+	</entry>
+	<entry key="sp06_shop_name">
+		<original value="SHOTGUN Suppressor"/>
+		<translation value="Shotgun Suppressor"/>
+	</entry>
+	<entry key="sp07_shop_name">
+		<original value="Crywar Suppressor I"/>
+		<translation value="Crywar Suppressor I"/>
+	</entry>
+	<entry key="ui_sp01_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration by 30%&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp03_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration by 30%&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp04_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration by 30%&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp05_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration by 50%&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp06_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration by 50%&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp07_ingame">
+		<original value="Recoil &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt; \n Spread &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt; \n TBD_Light Remove"/>
+		<translation value="Recoil &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt;\nSpread &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt;\nTBD_Light Remove"/>
+	</entry>
+	<entry key="ui_sp09_ingame">
+		<original value="Recoil &lt;font color='#42ebf8'&gt;-15%&lt;/font&gt; \n Spread &lt;font color='#42ebf8'&gt;-5%&lt;/font&gt; \n TBD_Light Remove"/>
+		<translation value="Recoil &lt;font color='#42ebf8'&gt;-15%&lt;/font&gt;\nSpread &lt;font color='#42ebf8'&gt;-5%&lt;/font&gt;\nTBD_Light Remove"/>
+	</entry>
+	<entry key="ui_sp10_ingame">
+		<original value="TBD_Light remove"/>
+		<translation value="TBD_Light remove"/>
+	</entry>
+	<entry key="ugl02_shop_name">
+		<original value="UB Grenade Launcher"/>
+		<translation value="Grenade Launcher"/>
+	</entry>
+	<entry key="ui_ugl02_ingame">
+		<original value="Stamina consumption &lt;font color='#FF4400'&gt;+10%&lt;/font&gt; \n Sway &lt;font color='#FF4400'&gt;+50%&lt;/font&gt; \n"/>
+		<translation value="Stamina Consumption &lt;font color='#ff4400'&gt;+10%&lt;/font&gt;\nSway &lt;font color='#ff4400'&gt;+50%&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ugl01_shop_name">
+		<original value="UB Grenade Launcher"/>
+		<translation value="Grenade Launcher"/>
+	</entry>
+	<entry key="ui_ugl01_ingame">
+		<original value="Underbarrel &lt;font color='#42ebf8'&gt; grenade launcher&lt;/font&gt; \nSlightly increases &lt;font color='#ff4400'&gt;recoil&lt;/font&gt;"/>
+		<translation value="Underbarrel &lt;font color='#42ebf8'&gt; Grenade Launcher&lt;/font&gt;\nSlightly increases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;"/>
+	</entry>
+	<entry key="gl_is_01_shop_name">
+		<original value="Grenade meter"/>
+		<translation value="Grenade Meter"/>
+	</entry>
+	<entry key="ui_accessories_gl_is_01">
+		<original value="is working with Under Grenade Launcher but it &lt;font color='#42ebf8'&gt;decreases haste speed by 10%&lt;/font&gt; and &lt;font color='#42ebf8'&gt;Sway by 50%.&lt;/font&gt;"/>
+		<translation value="Works with the Underbarrel Grenade Launcher, &lt;font color='#42ebf8'&gt;decreases sprint speed by 10%&lt;/font&gt; and &lt;font color='#42ebf8'&gt;increases sway by 50%.&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gl_is_01_ingame">
+		<original value="Haste speed &lt;font color='#FF4400'&gt;-10%&lt;/font&gt; \n Sway &lt;font color='#FF4400'&gt;+50%&lt;/font&gt;"/>
+		<translation value="Sprint Speed &lt;font color='#ff4400'&gt;-10%&lt;/font&gt;\nSway &lt;font color='#ff4400'&gt;+50%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ubrs01_shop_name">
+		<original value="UBRS Type1"/>
+		<translation value="UBRS Type1"/>
+	</entry>
+	<entry key="ubrs02_shop_name">
+		<original value="UBRS Type2"/>
+		<translation value="UBRS Type2"/>
+	</entry>
+	<entry key="ubrs03_shop_name">
+		<original value="UBRS Type3"/>
+		<translation value="UBRS Type3"/>
+	</entry>
+	<entry key="ubrs04_shop_name">
+		<original value="UBRS Type4"/>
+		<translation value="UBRS Type4"/>
+	</entry>
+	<entry key="ubrs05_shop_name">
+		<original value="UBRS Type5"/>
+		<translation value="UBRS Type5"/>
+	</entry>
+	<entry key="ubrs06_shop_name">
+		<original value="UBRS Type6"/>
+		<translation value="UBRS Type6"/>
+	</entry>
+	<entry key="ubrs07_shop_name">
+		<original value="UBRS Type7"/>
+		<translation value="UBRS Type7"/>
+	</entry>
+	<entry key="ubrs08_shop_name">
+		<original value="UBRS Type8"/>
+		<translation value="UBRS Type8"/>
+	</entry>
+	<entry key="ubrs09_shop_name">
+		<original value="UBRS Type9"/>
+		<translation value="UBRS Type9"/>
+	</entry>
+	<entry key="ubrs10_shop_name">
+		<original value="UBRS Type10"/>
+		<translation value="UBRS Type10"/>
+	</entry>
+	<entry key="ui_ubrs01_ingame">
+		<original value="Crosshair type#1"/>
+		<translation value="Crosshair Type 1"/>
+	</entry>
+	<entry key="ui_ubrs02_ingame">
+		<original value="Crosshair type#2"/>
+		<translation value="Crosshair Type 2"/>
+	</entry>
+	<entry key="ui_ubrs03_ingame">
+		<original value="Crosshair type#3"/>
+		<translation value="Crosshair Type 3"/>
+	</entry>
+	<entry key="ui_ubrs04_ingame">
+		<original value="Crosshair type#4"/>
+		<translation value="Crosshair Type 4"/>
+	</entry>
+	<entry key="ui_ubrs05_ingame">
+		<original value="Crosshair type#5"/>
+		<translation value="Crosshair Type 5"/>
+	</entry>
+	<entry key="ui_ubrs06_ingame">
+		<original value="Crosshair type#6"/>
+		<translation value="Crosshair Type 6"/>
+	</entry>
+	<entry key="ui_ubrs07_ingame">
+		<original value="Crosshair type#7"/>
+		<translation value="Crosshair Type 7"/>
+	</entry>
+	<entry key="ui_ubrs08_ingame">
+		<original value="Crosshair type#8"/>
+		<translation value="Crosshair Type 8"/>
+	</entry>
+	<entry key="ui_ubrs09_ingame">
+		<original value="Crosshair type#9"/>
+		<translation value="Crosshair Type 9"/>
+	</entry>
+	<entry key="ui_ubrs10_ingame">
+		<original value="Crosshair type#10"/>
+		<translation value="Crosshair Type 10"/>
+	</entry>
+	<entry key="bn01_shop_name">
+		<original value="SHOTGUN Bayonet"/>
+		<translation value="Shotgun Bayonet"/>
+	</entry>
+	<entry key="bn02_shop_name">
+		<original value="Assault Bayonet"/>
+		<translation value="Rifleman Bayonet"/>
+	</entry>
+	<entry key="bn03_shop_name">
+		<original value="SMG Bayonet"/>
+		<translation value="SMG Bayonet"/>
+	</entry>
+	<entry key="bn04_shop_name">
+		<original value="Machinegun Bayonet"/>
+		<translation value="Machine Gun Bayonet"/>
+	</entry>
+	<entry key="bn05_shop_name">
+		<original value="Pistol Bayonet"/>
+		<translation value="Pistol Bayonet"/>
+	</entry>
+	<entry key="ui_bn01_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn02_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn03_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn04_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn05_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="bp01_shop_name">
+		<original value="Sniper Rifle Bipod"/>
+		<translation value="Sniper Rifle Bipod"/>
+	</entry>
+	<entry key="bp02_shop_name">
+		<original value="Machinegun Bipod"/>
+		<translation value="Machine Gun Bipod"/>
+	</entry>
+	<entry key="bp03_shop_name">
+		<original value="Special Sniper Bipod"/>
+		<translation value="Special Sniper Bipod"/>
+	</entry>
+	<entry key="bp04_shop_name">
+		<original value="Spread Bipod"/>
+		<translation value="Spread Bipod"/>
+	</entry>
+	<entry key="bp05_shop_name">
+		<original value="Cry Bipod I"/>
+		<translation value="Cry Bipod I"/>
+	</entry>
+	<entry key="bp06_shop_name">
+		<original value="Cry Bipod II"/>
+		<translation value="Cry Bipod II"/>
+	</entry>
+	<entry key="bp07_shop_name">
+		<original value="Cry Bipod III"/>
+		<translation value="Cry Bipod III"/>
+	</entry>
+	<entry key="ui_bp01_ingame">
+		<original value="Lightly: \n Decreases &lt;font color='#42ebf8'&gt;recoil by 10%&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway by 50%&lt;/font&gt; in prone by 10%\n"/>
+		<translation value="Lightly:\nDecreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone\nDecreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone\n"/>
+	</entry>
+	<entry key="ui_bp03_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;recoil by 30%&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway by 90%&lt;/font&gt; in prone by 15%\n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone\nDecreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone\n"/>
+	</entry>
+	<entry key="gpp01_shop_name">
+		<original value="Assault Grippod"/>
+		<translation value="Rifleman Grip Pod"/>
+	</entry>
+	<entry key="gpp02_shop_name">
+		<original value="SMG Grippod"/>
+		<translation value="SMG Grip Pod"/>
+	</entry>
+	<entry key="gpp03_shop_name">
+		<original value="TBD_gpp03"/>
+		<translation value="TBD_gpp03"/>
+	</entry>
+	<entry key="gpp04_shop_name">
+		<original value="TBD_gpp04"/>
+		<translation value="TBD_gpp04"/>
+	</entry>
+	<entry key="gpp05_shop_name">
+		<original value="TBD_gpp05"/>
+		<translation value="TBD_gpp05"/>
+	</entry>
+	<entry key="gpp06_shop_name">
+		<original value="TBD_gpp06"/>
+		<translation value="TBD_gpp06"/>
+	</entry>
+	<entry key="ui_accessories_gpp03">
+		<original value="TBD \n Stamina consumption -10% \n Recoil in prone -10% \n Crosshair type#3"/>
+		<translation value="TBD\nStamina consumption -10%\nRecoil in prone -10%\nCrosshair type#3"/>
+	</entry>
+	<entry key="ui_accessories_gpp04">
+		<original value="TBD \n Haste speed -10% \n Sway -25% \n Crosshair type#4"/>
+		<translation value="TBD\nHaste speed -10%\nSway -25%\nCrosshair type#4"/>
+	</entry>
+	<entry key="ui_accessories_gpp05">
+		<original value="TBD \n Spread in none aiming mode -10% \n Spread in prone -10% \n Crosshair type#5"/>
+		<translation value="TBD\nSpread in none aiming mode -10%\nSpread in prone -10%\nCrosshair type#5"/>
+	</entry>
+	<entry key="ui_accessories_gpp06">
+		<original value="TBD \n Recoil in none aiming mode -10% \n Recoil in prone -10% \n Crosshair type#6"/>
+		<translation value="TBD\nRecoil in none aiming mode -10%\nRecoil in prone -10%\nCrosshair type#6"/>
+	</entry>
+	<entry key="ps01_shop_name">
+		<original value="Pistol Scope 1.5X"/>
+		<translation value="Pistol Scope 2X"/>
+	</entry>
+	<entry key="ps02_shop_name">
+		<original value="TBD_ps02"/>
+		<translation value="TBD_ps02"/>
+	</entry>
+	<entry key="ps03_shop_name">
+		<original value="TBD_ps03"/>
+		<translation value="TBD_ps03"/>
+	</entry>
+	<entry key="ui_accessories_ps02">
+		<original value="TBD \n 2X zoom range \n Aiming recoil -30%"/>
+		<translation value="TBD\n2X zoom range\nAiming recoil -30%"/>
+	</entry>
+	<entry key="ui_accessories_ps03">
+		<original value="TBD \n 3X zoom range \n Aiming speed +30%"/>
+		<translation value="TBD\n3X zoom range\nAiming speed +30%"/>
+	</entry>
+	<entry key="ui_ps01_ingame">
+		<original value="Zoom range &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="Zoom range increased &lt;font color='#42ebf8'&gt;2X&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_ps02_ingame">
+		<original value="Zoom range &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n Aiming recoil &lt;font color='#42ebf8'&gt;+30%&lt;/font&gt;"/>
+		<translation value="Zoom range increased &lt;font color='#42ebf8'&gt;2X&lt;/font&gt;\nAiming recoil improved by &lt;font color='#42ebf8'&gt;+30%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_ps03_ingame">
+		<original value="Zoom range &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n Aiming speed &lt;font color='#42ebf8'&gt;+15%&lt;/font&gt;"/>
+		<translation value="Zoom range increased &lt;font color='#42ebf8'&gt;3X&lt;/font&gt;\nAiming speed improved by &lt;font color='#42ebf8'&gt;+15%&lt;/font&gt;"/>
+	</entry>
+	<entry key="psb01_shop_name">
+		<original value="Crywar Pistol bayobnet"/>
+		<translation value="Crywar Pistol bayonet"/>
+	</entry>
+	<entry key="psb02_shop_name">
+		<original value="TBD_psb02"/>
+		<translation value="TBD_psb02"/>
+	</entry>
+	<entry key="psb03_shop_name">
+		<original value="TBD_psb03"/>
+		<translation value="TBD_psb03"/>
+	</entry>
+	<entry key="ui_accessories_psb02">
+		<original value="TBD \n Aiming speed +15%"/>
+		<translation value="TBD\nAiming speed +15%"/>
+	</entry>
+	<entry key="ui_accessories_psb03">
+		<original value="TBD \n Reload +5% \n Aiming speed +10%"/>
+		<translation value="TBD\nReload +5%\nAiming speed +10%"/>
+	</entry>
+	<entry key="ui_psb01_ingame">
+		<original value="Aiming speed &lt;font color='#FF4400'&gt;+30%&lt;/font&gt;"/>
+		<translation value="Aiming speed &lt;font color='#ff4400'&gt;+30%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_psb02_ingame">
+		<original value="Aiming speed &lt;font color='#FF4400'&gt;+15%&lt;/font&gt;"/>
+		<translation value="Aiming speed &lt;font color='#ff4400'&gt;+15%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_psb03_ingame">
+		<original value="Reload &lt;font color='#FF4400'&gt;+5%&lt;/font&gt; \n Aiming speed &lt;font color='#FF4400'&gt;+10%&lt;/font&gt;"/>
+		<translation value="Reload &lt;font color='#ff4400'&gt;+5%&lt;/font&gt;\nAiming speed &lt;font color='#ff4400'&gt;+10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="pt24_sc_d_name">
+		<original value="BraMit silencer"/>
+		<translation value="SesMit silencer"/>
+	</entry>
+	<entry key="sr09_sc_d_name">
+		<original value="McMillan CS5 Silencer"/>
+		<translation value="CS5 McMillan Silencer"/>
+	</entry>
+	<entry key="ui_sr09_sc_d">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ss02_camo02_shop_name">
+		<original value="Short Range Sniper Scope 4X Winter Camo"/>
+		<translation value="Short Range Sniper Scope 4X Winter Camo"/>
+	</entry>
+	<entry key="ui_ss02_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;4X&lt;/font&gt;"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;4X&lt;/font&gt;"/>
+	</entry>
+	<entry key="ss04_camo02_shop_name">
+		<original value="Mid Range Sniper Scope 4.5X Winter Camo"/>
+		<translation value="Mid Range Sniper Scope 4.5X Winter Camo"/>
+	</entry>
+	<entry key="ui_ss04_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;4.5X&lt;/font&gt; \n"/>
+		<translation value="Zoom &lt;font color='#42ebf8'&gt;4.5X&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ss06_camo02_shop_name">
+		<original value="Default Sniper Scope 5.5X Winter Camo"/>
+		<translation value="Default Sniper Scope 5.5X Winter Camo"/>
+	</entry>
+	<entry key="ss03_camo02_shop_name">
+		<original value="Fast Mid Range Scope 5X Winter Camo"/>
+		<translation value="Fast Mid Range Scope 5X Winter Camo"/>
+	</entry>
+	<entry key="ui_ss03_camo02_ingame">
+		<original value="Fast Zoom &lt;font color='#42ebf8'&gt;5X&lt;/font&gt;"/>
+		<translation value="Fast Zoom &lt;font color='#42ebf8'&gt;5X&lt;/font&gt;"/>
+	</entry>
+	<entry key="bn01_camo02_shop_name">
+		<original value="Shotgun Bayonet Winter Camo"/>
+		<translation value="Shotgun Bayonet Winter Camo"/>
+	</entry>
+	<entry key="bn02_camo02_shop_name">
+		<original value="Assault Bayonet Winter Camo"/>
+		<translation value="Rifleman Bayonet Winter Camo"/>
+	</entry>
+	<entry key="bn03_camo02_shop_name">
+		<original value="SMG Bayonet Winter Camo"/>
+		<translation value="SMG Bayonet Winter Camo"/>
+	</entry>
+	<entry key="bn05_camo02_shop_name">
+		<original value="Pistol Bayonet Winter Camo"/>
+		<translation value="Pistol Bayonet Winter Camo"/>
+	</entry>
+	<entry key="ui_bn01_camo02_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn02_camo02_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn03_camo02_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn05_camo02_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="sc01_camo02_shop_name">
+		<original value="SMG Silencer Winter Camo"/>
+		<translation value="SMG Silencer Winter Camo"/>
+	</entry>
+	<entry key="sc02_camo02_shop_name">
+		<original value="Shared Silencer Winter Camo"/>
+		<translation value="Shared Silencer Winter Camo"/>
+	</entry>
+	<entry key="sc03_camo02_shop_name">
+		<original value="Custom Pistol Silencer Winter Camo"/>
+		<translation value="Custom Pistol Silencer Winter Camo"/>
+	</entry>
+	<entry key="sc04_camo02_shop_name">
+		<original value="Shotgun Silencer Winter Camo"/>
+		<translation value="Shotgun Silencer Winter Camo"/>
+	</entry>
+	<entry key="sc05_camo02_shop_name">
+		<original value="Assault Silencer Winter Camo"/>
+		<translation value="Rifleman Silencer Winter Camo"/>
+	</entry>
+	<entry key="sc06_camo02_shop_name">
+		<original value="Sniper rifle Silencer Winter Camo"/>
+		<translation value="Sniper rifle Silencer Winter Camo"/>
+	</entry>
+	<entry key="sp02_camo02_shop_name">
+		<original value="SMG Suppressor Winter Camo"/>
+		<translation value="SMG Suppressor Winter Camo"/>
+	</entry>
+	<entry key="sp03_camo02_shop_name">
+		<original value="Assault Suppressor Winter Camo"/>
+		<translation value="Assault Suppressor Winter Camo"/>
+	</entry>
+	<entry key="sp04_camo02_shop_name">
+		<original value="Sniper Rifle Suppressor Winter Camo"/>
+		<translation value="Sniper Rifle Suppressor Winter Camo"/>
+	</entry>
+	<entry key="sp05_camo02_shop_name">
+		<original value="Pistol Suppressor Winter Camo"/>
+		<translation value="Pistol Suppressor Winter Camo"/>
+	</entry>
+	<entry key="sp06_camo02_shop_name">
+		<original value="Shotgun Suppressor Winter Camo"/>
+		<translation value="Shotgun Suppressor Winter Camo"/>
+	</entry>
+	<entry key="as01_camo02_shop_name">
+		<original value="Advanced Assault Scope Winter Camo"/>
+		<translation value="Advanced Assault Scope Winter Camo"/>
+	</entry>
+	<entry key="as02_camo02_shop_name">
+		<original value="ELCAN SpecterOS Winter Camo"/>
+		<translation value="Basic Machine Gun Scope Winter Camo"/>
+	</entry>
+	<entry key="as03_camo02_shop_name">
+		<original value="Ultra-rare SMG Scope Winter Camo"/>
+		<translation value="Ultra-rare SMG Scope Winter Camo"/>
+	</entry>
+	<entry key="as04_camo02_shop_name">
+		<original value="Trijicon ACOG Winter Camo"/>
+		<translation value="MCA Winter Camo"/>
+	</entry>
+	<entry key="as05_camo02_shop_name">
+		<original value="Advanced SMG Scope Winter Camo"/>
+		<translation value="Advanced SMG Scope Winter Camo"/>
+	</entry>
+	<entry key="as06_camo02_shop_name">
+		<original value="Basic SMG Scope Winter Camo"/>
+		<translation value="Basic SMG Scope Winter Camo"/>
+	</entry>
+	<entry key="rds01_camo02_shop_name">
+		<original value="EOTech 553 Winter Camo"/>
+		<translation value="Reflex Sight Winter Camo"/>
+	</entry>
+	<entry key="rds02_camo02_shop_name">
+		<original value="TRUGLO Red Dot Sight Winter Camo"/>
+		<translation value="Red Dot Sight Winter Camo"/>
+	</entry>
+	<entry key="rds05_camo02_shop_name">
+		<original value="Aimpoint CompM4s Winter Camo"/>
+		<translation value="Aimpointer Winter Camo"/>
+	</entry>
+	<entry key="rds04_camo02_shop_name">
+		<original value="Mojji Zero Winter Camo"/>
+		<translation value="Advanced Reflex Sight Winter Camo"/>
+	</entry>
+	<entry key="ui_rds01_camo02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+		<translation value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_rds02_camo02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+		<translation value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_rds05_camo02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.5X&lt;/font&gt;"/>
+		<translation value="Zoom Range &lt;font color='#42ebf8'&gt;1.5X&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_rds04_camo02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;\n Fast zoom \n Improves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;"/>
+		<translation value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;\nFast zoom\nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;"/>
+	</entry>
+	<entry key="shg31_bn_d_shop_name">
+		<original value="Trenchgun M97 Bayonet"/>
+		<translation value="Trenchgun M97 Bayonet"/>
+	</entry>
+	<entry key="ar41_ss_d_shop_name">
+		<original value="ZF4 Scope"/>
+		<translation value="ZF4 Scope"/>
+	</entry>
+	<entry key="pt14_rds_d_name">
+		<original value="Trijicon RMR Adjustable LED"/>
+		<translation value="Trijicon RMR Adjustable LED"/>
+	</entry>
+	<entry key="pt14_sc_d_name">
+		<original value="Custom tactical silencer"/>
+		<translation value="Custom tactical silencer"/>
+	</entry>
+	<entry key="shg33_rds_d_name">
+		<original value="Trijicon RMR Adjustable LED"/>
+		<translation value="Trijicon RMR Adjustable LED"/>
+	</entry>
+	<entry key="sr31_ss_d_shop_name">
+		<original value="Schmidt &amp; Bender Scope H2CMR"/>
+		<translation value="Schmidt &amp; Bender Scope H2CMR"/>
+	</entry>
+	<entry key="sr31_sc_d_name">
+		<original value="AX 308 Custom Tactical Silencer"/>
+		<translation value="AX 308 Custom Tactical Silencer"/>
+	</entry>
+	<entry key="smg31_gp_d_name">
+		<original value="SCAR-L PDW Tactical Grip"/>
+		<translation value="SCAR-L PDW Tactical Grip"/>
+	</entry>
+	<entry key="ui_smg31_gp_d">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ui_smg31_gp_d_ingame">
+		<original value="Improves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy by 15%&lt;/font&gt;\nIncreases &lt;font color='#42ebf8' size='14'&gt;reload speed by 15%&lt;/font&gt;\nGreatly decrease &lt;font color='#42ebf8' size='14'&gt;sway by 80%&lt;/font&gt;Not applied in prone"/>
+		<translation value="Improves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="pt30_sp_d_name">
+		<original value="Silver suppressor"/>
+		<translation value="Silver suppressor"/>
+	</entry>
+	<entry key="ui_pt30_pink01_sp_d">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ui_pt30_pink01_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration by 30%&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="pt30_pink01_sc_d_name">
+		<original value="Silver silencer"/>
+		<translation value="Silver silencer"/>
+	</entry>
+	<entry key="ui_pt30_pink01_sc_d">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ui_pt30_pink01_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;Eliminates&lt;font color='#42ebf8'&gt; sound &lt;/font&gt;\n &lt;font color='#42ebf8'&gt;Do not decreases damage&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;Eliminates&lt;font color='#42ebf8'&gt; sound &lt;/font&gt;\n&lt;font size='14'&gt;Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n&lt;font color='#42ebf8'&gt;Does not decrease damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr34_sp_d_name">
+		<original value="Steyr Scout Custom Silencer"/>
+		<translation value="Steyr Scout Custom Silencer"/>
+	</entry>
+	<entry key="ui_sr34_sp_d_ingame">
+		<original value="&lt;font size='14'&gt;Eliminates&lt;font color='#42ebf8'&gt; sound &lt;/font&gt;\n &lt;font size='14'&gt;Decreases &lt;font color='#ff6660'&gt;range by 18%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;Eliminates&lt;font color='#42ebf8'&gt; sound &lt;/font&gt;\n&lt;font size='14'&gt;Decreases &lt;font color='#ff6660'&gt;range&lt;/font&gt;\n&lt;font color='#ff6660'&gt;Decreases damage by 18%&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr34_bp_d_shop_name">
+		<original value="Steyr Scout Custom Bipod (Released)"/>
+		<translation value="Steyr Scout Custom Bipod (Released)"/>
+	</entry>
+	<entry key="ui_sr34_bp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;recoil by 70%&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway by 1%&lt;/font&gt; in prone \n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone\nDecreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone\n"/>
+	</entry>
+	<entry key="sr34_gp_d_shop_name">
+		<original value="Steyr Scout Custom Bipod (Collapsed)"/>
+		<translation value="Steyr Scout Custom Bipod (Collapsed)"/>
+	</entry>
+	<entry key="ui_sr34_gp_d_ingame">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed by 30%&lt;/font&gt;\n"/>
+		<translation value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg39_gp01_d_name">
+		<original value="Venom Wraptor Forend"/>
+		<translation value="Sidewinder Venom Wraptor Forend"/>
+	</entry>
+	<entry key="ui_shg39_gp01_d_ingame">
+		<original value="Don't have any special&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; abilities&lt;/font&gt;\n"/>
+		<translation value="Improves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg39_gp02_d_name">
+		<original value="Venom Wraptor Grip"/>
+		<translation value="Sidewinder Venom Wraptor Grip"/>
+	</entry>
+	<entry key="ui_shg39_gp02_d_ingame">
+		<original value="Increases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; RPM by 35&lt;/font&gt;\nIncreases &lt;font color='#42ebf8'&gt;spread by 11%&lt;/font&gt;"/>
+		<translation value="Increases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; RPM&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr36_bp_d_shop_name">
+		<original value="Dragunov SVU Bipod (Released)"/>
+		<translation value="Dragunov SVU Bipod (Released)"/>
+	</entry>
+	<entry key="ui_sr36_bp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;recoil by 55%&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway by 1%&lt;/font&gt; in prone \n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; when prone\nDecreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; when prone\n"/>
+	</entry>
+	<entry key="sr36_gp_d_shop_name">
+		<original value="Dragunov SVU Bipod (Collapsed)"/>
+		<translation value="Dragunov SVU Bipod (Collapsed)"/>
+	</entry>
+	<entry key="ui_sr36_gp_d_ingame">
+		<original value="Slightly increases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; HIP accuracy by 5%&lt;/font&gt;\n Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed by 30%&lt;/font&gt;\n"/>
+		<translation value="Slightly increases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; hip accuracy&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg36_is_d_name">
+		<original value="Magpul Iron Sight"/>
+		<translation value="Magpul Iron Sight"/>
+	</entry>
+	<entry key="ui_smg36_is_d_ingame">
+		<original value="Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="rds07_shop_name">
+		<original value="EOTech 553"/>
+		<translation value="EOTech 553"/>
+	</entry>
+	<entry key="ui_accessories_rds07">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; while aiming.\n"/>
+	</entry>
+	<entry key="ui_rds07_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+		<translation value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+	</entry>
+	<entry key="shg41_sc_d_name">
+		<original value="Custom tactical silencer"/>
+		<translation value="Custom tactical silencer"/>
+	</entry>
+	<entry key="ui_shg41_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Imroves accuracy by 30%&lt;/font&gt; \n &lt;font color='#ff6660'&gt;Decreases damage by 30%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy by 30%&lt;/font&gt;\n&lt;font color='#ff6660'&gt;Decreases damage by 30%&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr39_ss_d_shop_name">
+		<original value="Razor HD Gen II"/>
+		<translation value="Razor HD Gen II"/>
+	</entry>
+	<entry key="ui_sr39_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.7X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.7X zoom&lt;/font&gt; in aiming mode.\n"/>
+	</entry>
+	<entry key="ar28_sp_d_name">
+		<original value="Jailbreak muzzle"/>
+		<translation value="Jailbreak Flash Guard"/>
+	</entry>
+	<entry key="ui_ar28_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;accuracy by 25%&lt;/font&gt;\n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;accuracy by 25%&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg39_rds_d_shop_name">
+		<original value="RAMBO SP-6"/>
+		<translation value="RAMBO SP-6"/>
+	</entry>
+	<entry key="ui_smg39_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.8X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.8x faster zoom&lt;/font&gt; while aiming.\n"/>
+	</entry>
+	<entry key="ui_pt33_rds_d_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.3X&lt;/font&gt;\n Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="Zoom Range &lt;font color='#42ebf8'&gt;1.3X&lt;/font&gt;\nFast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="pt33_rds_d_shop_name">
+		<original value="Leupold Deltapoint reflex sight"/>
+		<translation value="Leupold Deltapoint reflex sight"/>
+	</entry>
+	<entry key="ar15_rds_d_shop_name">
+		<original value="Leupold Deltapoint reflex sight"/>
+		<translation value="Leupold Deltapoint reflex sight"/>
+	</entry>
+	<entry key="ui_ar15_rds_d_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.3X&lt;/font&gt; \n Greatly Improves &lt;font color='#42ebf8'&gt;accuracy by 25%&lt;/font&gt; \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.3X&lt;/font&gt;\nZoom Greatly improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="pt34_sc_d_name">
+		<original value="Tactical Silencer"/>
+		<translation value="Tactical silencer"/>
+	</entry>
+	<entry key="ui_pt34_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n Slightly increases &lt;font color='#ff6660'&gt;damage drop by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt;\nSlightly reduces &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop from range&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar29_rds_d_shop_name">
+		<original value="Hartman MH1"/>
+		<translation value="Hartman MH1"/>
+	</entry>
+	<entry key="ui_ar29_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.4X zoom&lt;/font&gt; in aiming mode \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.4X zoom&lt;/font&gt; in aiming mode \n"/>
+	</entry>
+	<entry key="ar29_as_d_shop_name">
+		<original value="Sig Sauer Romeo 4"/>
+		<translation value="Sig Sauer Romeo 4"/>
+	</entry>
+	<entry key="ui_ar29_as_d _ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.8X zoom&lt;/font&gt; in aiming mode \nIncreases &lt;font color='#42ebf8'&gt;aiming speed&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.8X zoom&lt;/font&gt; in aiming mode \nIncreases &lt;font color='#42ebf8'&gt;aiming speed&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar29_sc_d_shop_name">
+		<original value="Tactical Silencer"/>
+		<translation value="Tactical Silencer"/>
+	</entry>
+	<entry key="ui_ar29_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;Eliminates&lt;font color='#42ebf8'&gt; sound &lt;/font&gt;\n&lt;font size='14'&gt;Imroves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt; \n&lt;font color='#42ebf8'&gt;Decreases &lt;font color='#ff6660'&gt;damage 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;Eliminates&lt;font color='#42ebf8'&gt; sound &lt;/font&gt;\n&lt;font size='14'&gt;Imroves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n&lt;font color='#42ebf8'&gt;Decreases &lt;font color='#ff6660'&gt;damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar29_sp_d_shop_name">
+		<original value="AK-Alpha suppressor"/>
+		<translation value="AK Alpha suppressor"/>
+	</entry>
+	<entry key="ui_ar29_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 10%&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration by 30%&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="ar29_gp_d_shop_name">
+		<original value="Tactical grip"/>
+		<translation value="Tactical grip"/>
+	</entry>
+	<entry key="ui_ar29_gp_d_ingame">
+		<original value="Slightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil by 15%&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed by 10%&lt;/font&gt; Not applied in prone"/>
+		<translation value="Slightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; Not applied in prone"/>
+	</entry>
+	<entry key="sr43_ss_d_shop_name">
+		<original value="Schmidt &amp; Bender Scope v2 4.6X"/>
+		<translation value="Schmidt &amp; Bender Scope v2 4.6X"/>
+	</entry>
+	<entry key="ui_sr43_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;4.6X zoom&lt;/font&gt; in aiming mode. \nIncreases &lt;font color='#42ebf8'&gt;aiming speed&lt;/font&gt;."/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;4.6X zoom&lt;/font&gt; in aiming mode. \nIncreases &lt;font color='#42ebf8'&gt;aiming speed&lt;/font&gt;."/>
+	</entry>
+	<entry key="ulb01_shop_name">
+		<original value="UB Laser Sight"/>
+		<translation value="UB Laser Sight"/>
+	</entry>
+	<entry key="ui_ulb01_ingame">
+		<original value="Underbarrel &lt;font color='#42ebf8'&gt; laser sight&lt;/font&gt; \n"/>
+		<translation value="Underbarrel &lt;font color='#42ebf8'&gt; laser sight&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="ui_accessories_ulb01">
+		<original value="&lt;font size='14'&gt;Laser sight &lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;Laser sight &lt;/font&gt;"/>
+	</entry>
+	<entry key="ar30_gp_d_name">
+		<original value="FN FAL DSA-58 Tactical Grip"/>
+		<translation value="FN FAL DSA-58 Tactical Grip"/>
+	</entry>
+	<entry key="ui_ar30_gp_d_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg42_gp01_d_name">
+		<original value="Uzi Pro Standart Grip"/>
+		<translation value="Uzi Pro Standart Grip"/>
+	</entry>
+	<entry key="ui_smg42_gp01_d_ingame">
+		<original value="Decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nLightly improves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt; \nNot applied in prone"/>
+		<translation value="Decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nLightly improves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="smg42_gp02_d_name">
+		<original value="Uzi Pro Special Grip"/>
+		<translation value="Uzi Pro Special Grip"/>
+	</entry>
+	<entry key="ui_smg42_gp02_d_ingame">
+		<original value="Lightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nImproves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt; \nNot applied in prone"/>
+		<translation value="Lightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nImproves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="smg42_rds_d_shop_name">
+		<original value="MEPRO M21"/>
+		<translation value="MEPRO M21"/>
+	</entry>
+	<entry key="ui_smg42_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode. \n"/>
+	</entry>
+	<entry key="smg42_sp01_d_name">
+		<original value="Uzi Pro Suppressor"/>
+		<translation value="Uzi Pro Suppressor"/>
+	</entry>
+	<entry key="ui_smg42_sp01_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg42_sp02_d_name">
+		<original value="Uzi Pro Silencer"/>
+		<translation value="Uzi Pro Silencer"/>
+	</entry>
+	<entry key="ui_smg42_sp02_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar31_default_name">
+		<original value="Special scope for VHS-2"/>
+		<translation value="Special scope for VHS-2"/>
+	</entry>
+	<entry key="ar31_accessories_is_default">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2.5X zoom&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2.5X zoom&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar31_sp_d_name">
+		<original value="Special suppressor for VHS-2"/>
+		<translation value="Special suppressor for VHS-2"/>
+	</entry>
+	<entry key="ui_ar31_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="ui_accessories_ar31_sp_d">
+		<original value="&lt;font size='14'&gt;Special suppressor for VHS-2 &lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;Special suppressor for VHS-2 &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_ar31_is_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar31_ugl_d_shop_name">
+		<original value="VHS-2 Grenade Launcher"/>
+		<translation value="VHS-2 Grenade Launcher"/>
+	</entry>
+	<entry key="ui_accessories_ar31_ugl_d">
+		<original value="&lt;font size='14'&gt;Grenade launcher &lt;/font&gt;Slightly increases &lt;font color='#ff4400'&gt;recoil&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt; Grenade Launcher&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;breaching capabilities&lt;/font&gt;\nReduces &lt;font color='#ff4400'&gt;accuracy&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_ar31_ugl_d_ingame">
+		<original value="Underbarrel &lt;font color='#42ebf8'&gt; Grenade launcher&lt;/font&gt;\nSlightly increases &lt;font color='#ff4400'&gt;recoil&lt;/font&gt;"/>
+		<translation value="Underbarrel Grenade Launcher&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;breaching capabilities&lt;/font&gt;\nReduces &lt;font color='#ff4400'&gt;accuracy&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar31_gp_d_shop_name">
+		<original value="VHS-2 Grip"/>
+		<translation value="VHS-2 Grip"/>
+	</entry>
+	<entry key="ui_accessories_ar31_gp_d">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nNot applied in prone."/>
+	</entry>
+	<entry key="ui_ar31_gp_d_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nNot applied in prone."/>
+	</entry>
+	<entry key="sr44_ss_d_shop_name">
+		<original value="Bushnell 4x scope"/>
+		<translation value="Bushnell 4x scope"/>
+	</entry>
+	<entry key="ui_sr44_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4X zoom&lt;/font&gt; in aiming mode. \n"/>
+	</entry>
+	<entry key="sr44_sp_d_shop_name">
+		<original value="Remignton MSR Suppressor"/>
+		<translation value="Remington MSR Suppressor"/>
+	</entry>
+	<entry key="ui_sr44_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;minimal damage&lt;/font&gt;"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;minimal damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr41_sc_d_name">
+		<original value="BraMit silencer"/>
+		<translation value="SesMit silencer"/>
+	</entry>
+	<entry key="ui_sr41_sc_d">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n&lt;font color='#ff4400'&gt;Decreases damage &lt;/font&gt;damage"/>
+		<translation value="Elliminates &lt;font color='#42ebf8'&gt;sound.&lt;/font&gt;\nDecreases &lt;font color='#ff4400'&gt;damage.&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sr41_sc_d_ingame">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n&lt;font color='#ff4400'&gt;Decreases damage &lt;/font&gt;damage"/>
+		<translation value="Elliminates &lt;font color='#42ebf8'&gt;sound.&lt;/font&gt;\nDecreases &lt;font color='#ff4400'&gt;damage.&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg44_gp_d_name">
+		<original value="Vector Tactical Grip"/>
+		<translation value="Vector Tactical Grip"/>
+	</entry>
+	<entry key="ui_smg44_gp_d_ingame">
+		<original value="Decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nImproves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in &lt;font color='#FF4400'&gt;prone&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg44_sc_d_name">
+		<original value="Vector Special Silencer"/>
+		<translation value="Vector Special Silencer"/>
+	</entry>
+	<entry key="ui_smg44_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Lightly Decreases damage&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Reduces sound&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hides the shooter’s location&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nSlightly decreases &lt;font color='#42ebf8'&gt;&lt;font color='#ff6660'&gt;damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg44_rds_d_name">
+		<original value="Redring MK2"/>
+		<translation value="Redring MK2 Sight"/>
+	</entry>
+	<entry key="ui_smg44_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="Rapid &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.3X zoom&lt;/font&gt; increase\nSignificantly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle shake&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg44_is_d_name">
+		<original value="Vector Iron Sight"/>
+		<translation value="Vector Iron Sight"/>
+	</entry>
+	<entry key="ui_smg44_is_d_ingame">
+		<original value="Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt;"/>
+		<translation value="Rapid &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="rds10_name">
+		<original value="RAMBO SP-6"/>
+		<translation value="RAMBO SP-6 Sight"/>
+	</entry>
+	<entry key="ui_rds10_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.8X zoom&lt;/font&gt; in aiming mode.&lt;/font&gt;"/>
+		<translation value="Fast &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.8X zoom&lt;/font&gt; increase\n"/>
+	</entry>
+	<entry key="smg43_gp01_d_name">
+		<original value="Micro-Roni CAA Laser Sight Grip"/>
+		<translation value="Micro-Roni CAA Laser Sight Grip"/>
+	</entry>
+	<entry key="ui_smg43_gp01_d_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil shake&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil shake&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="smg43_gp02_d_name">
+		<original value="Micro-Roni CAA Special Grip"/>
+		<translation value="Micro-Roni CAA Special Grip"/>
+	</entry>
+	<entry key="ui_smg43_gp02_d_ingame">
+		<original value="Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nDecreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil shake&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nDecreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil shake&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="rds09_name">
+		<original value="Hartman MH1"/>
+		<translation value="Hartman MH1"/>
+	</entry>
+	<entry key="ui_rds09_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.4X zoom&lt;/font&gt; in aiming mode \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.4X zoom&lt;/font&gt; in aiming mode \n"/>
+	</entry>
+	<entry key="pt37_rds_d_name">
+		<original value="C-More red-dot sight"/>
+		<translation value="C-More Red Dot Sight"/>
+	</entry>
+	<entry key="ui_pt37_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.2X zoom&lt;/font&gt; in aiming mode \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.2X zoom&lt;/font&gt; in aiming mode\n"/>
+	</entry>
+	<entry key="sp08_shop_name">
+		<original value="Special Shotgun Suppressor"/>
+		<translation value="Special Shotgun Suppressor"/>
+	</entry>
+	<entry key="ui_accessories_sp08">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="ui_sp08_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="ui_sr46_bp_d_ingame">
+		<original value="Decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nDecrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt; \n"/>
+		<translation value="Decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nDecrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="sr46_bp_d_shop_name">
+		<original value="Defence Falcon Bipod"/>
+		<translation value="Defence Falcon Bipod"/>
+	</entry>
+	<entry key="sr46_sc_d_name">
+		<original value="Cadex Defence Precision Silencer"/>
+		<translation value="Cadex Defence Precision Silencer"/>
+	</entry>
+	<entry key="ui_sr46_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage&lt;/font&gt;\n&lt;font size='14'&gt;Greatly decreases &lt;font color='#ff6660'&gt;range&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage&lt;/font&gt; \n&lt;font size='14'&gt;Greatly decreases &lt;font color='#ff6660'&gt;range&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr46_sp_d_shop_name">
+		<original value="Kraken Special Suppressor"/>
+		<translation value="Special Kraken Suppressor"/>
+	</entry>
+	<entry key="ui_sr46_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="sr46_ss_d_shop_name">
+		<original value="ATACR 4.5x scope"/>
+		<translation value="ATACR 4.5x scope"/>
+	</entry>
+	<entry key="ui_sr46_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+	</entry>
+	<entry key="shg49_xmas_rds_d_name">
+		<original value="Paper Cup Sight"/>
+		<translation value="Paper Cup Sight"/>
+	</entry>
+	<entry key="ui_accessories_shg49_xmas_rds_d">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.1X zoom&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.1X zoom&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr45_gp_d_shop_name">
+		<original value="HK type Vertical Grip"/>
+		<translation value="HK Type Vertical Grip"/>
+	</entry>
+	<entry key="ui_sr45_gp_d_ingame">
+		<original value="Lightly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\nNot applied in prone&lt;/font&gt;"/>
+		<translation value="Lightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\nNot applied in prone&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr45_rds_d_shop_name">
+		<original value="Vector Optics Maverick Red Dot Sight"/>
+		<translation value="Vector Optics Maverick Red Dot Sight"/>
+	</entry>
+	<entry key="ui_sr45_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2.5X zoom&lt;/font&gt; in aiming mode \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2.5X zoom&lt;/font&gt; in aiming mode \n"/>
+	</entry>
+	<entry key="sr45_ss_d_shop_name">
+		<original value="Schmidt Bender 3 Scope 4.5x"/>
+		<translation value="Schmidt Bender 3 Scope 4.5x"/>
+	</entry>
+	<entry key="ui_sr45_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+	</entry>
+	<entry key="sr45_sc_d_shop_name">
+		<original value="HK G28 Silencer"/>
+		<translation value="H&amp;K G28 Silencer"/>
+	</entry>
+	<entry key="ui_sr45_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage&lt;/font&gt;"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage&lt;/font&gt; "/>
+	</entry>
+	<entry key="sr45_sp_d_shop_name">
+		<original value="HK G28 suppressor"/>
+		<translation value="H&amp;K G28 Suppressor"/>
+	</entry>
+	<entry key="ui_sr45_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration &lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Lightly decrease recoil&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration &lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Lightly decreases recoil&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="smg45_rds_d_shop_name">
+		<original value="LWRC SMG-45 RDS"/>
+		<translation value="LWRC SMG-45 RDS"/>
+	</entry>
+	<entry key="ui_smg45_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode. \n"/>
+	</entry>
+	<entry key="smg45_gp_d_name">
+		<original value="LWRC SMG-45 Angled Fore Grip"/>
+		<translation value="LWRC SMG-45 Angled Fore Grip"/>
+	</entry>
+	<entry key="ui_smg45_gp_d_ingame">
+		<original value="Slightly improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nGreatly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\n"/>
+		<translation value="Slightly improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nGreatly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg48_rds_d_name">
+		<original value="Railway Red Dot Sight"/>
+		<translation value="C-MORE Red Dot Sight"/>
+	</entry>
+	<entry key="ui_shg48_rds_d_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.3X&lt;/font&gt;\nFast zoom \nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n"/>
+		<translation value="Zoom Range &lt;font color='#42ebf8'&gt;1.3X&lt;/font&gt;\nFast zoom \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar32_sp_d_name">
+		<original value="Hera Arms CQR Supressor"/>
+		<translation value="Hera Arms CQR Supressor"/>
+	</entry>
+	<entry key="ui_ar32_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nSlightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nSlightly improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nSlightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nSlightly improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="pt38_sc01_d_name">
+		<original value="Maxim 9 Short Silencer"/>
+		<translation value="Maxim 9 Short Silencer"/>
+	</entry>
+	<entry key="ui_pt38_sc01_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Don`t decreases damage&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Doesn't decrease damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="pt38_sc02_d_name">
+		<original value="Maxim 9 Long Silencer"/>
+		<translation value="Maxim 9 Long Silencer"/>
+	</entry>
+	<entry key="ui_pt38_sc02_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Imroves accuracy&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decreases recoil&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decreases recoil&lt;/font&gt; \n&lt;font color='#ff4400'&gt;Increases damage drop&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="pt38_rds_d_name">
+		<original value="Trijicon RMR Adjustable LED"/>
+		<translation value="Trijicon RMR Adjustable LED"/>
+	</entry>
+	<entry key="ui_pt38_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n"/>
+	</entry>
+	<entry key="shg50_rds_d_name">
+		<original value="Viper MOA"/>
+		<translation value="Vortex Viper collimator"/>
+	</entry>
+	<entry key="ui_shg50_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nImproves &lt;font color='#42ebf8'&gt;accuracy in aiming mode&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sc08_shop_name">
+		<original value="Osprey 9 Silencer"/>
+		<translation value="Osprey 9 Silencer"/>
+	</entry>
+	<entry key="ui_sc08_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage by 10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr09_sp_d_shop_name">
+		<original value="McMillan CS5 Suppressor"/>
+		<translation value="McMillan CS5 Suppressor"/>
+	</entry>
+	<entry key="ui_sr09_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="shg51_sc_d_name">
+		<original value="Typhoon F12 Special Silencer"/>
+		<translation value="Typhoon F12 Special Silencer"/>
+	</entry>
+	<entry key="ui_shg51_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage by 10%&lt;/font&gt;\n&lt;font size='14'&gt;Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff4400'&gt;Decreases damage by 10%&lt;/font&gt;\n&lt;font size='14'&gt;Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg51_sp_d_name">
+		<original value="Typhoon F12 Special Suppressor"/>
+		<translation value="Typhoon F12 Special Suppressor"/>
+	</entry>
+	<entry key="ui_shg51_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg51_gp02_d_name">
+		<original value="Typhoon F12 Special Grip"/>
+		<translation value="Typhoon F12 Special Grip"/>
+	</entry>
+	<entry key="ui_shg51_gp02_d_ingame">
+		<original value="Greatly decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="Greatly decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg51_gp01_d_name">
+		<original value="Typhoon F12 Tactical Grip"/>
+		<translation value="Typhoon F12 Tactical Grip"/>
+	</entry>
+	<entry key="ui_shg51_gp01_d_ingame">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg51_rds_d_name">
+		<original value="Romeo 3 Sight"/>
+		<translation value="Romeo 3 Sight"/>
+	</entry>
+	<entry key="ui_shg51_rds_d_ingame">
+		<original value="Fast 1.3X zoom&lt;/font&gt; in aiming mode.\nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="Fast 1.3X zoom&lt;/font&gt; in aiming mode.\nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+	</entry>
+	<entry key="pt30_bp06_sp_d_name">
+		<original value="Black suppressor"/>
+		<translation value="Black suppressor"/>
+	</entry>
+	<entry key="pt30_bp06_pink01_sc_d_name">
+		<original value="Black silencer"/>
+		<translation value="Black silencer"/>
+	</entry>
+	<entry key="ar22_rds_d_name">
+		<original value="Leupold Deltapoint reflex sight"/>
+		<translation value="Leupold Deltapoint reflex sight"/>
+	</entry>
+	<entry key="ui_ar22_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n"/>
+	</entry>
+	<entry key="ar35_sc_d_name">
+		<original value="AK-12 Special Silencer"/>
+		<translation value="AK-12 Special Silencer"/>
+	</entry>
+	<entry key="ui_ar35_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;\n&lt;font size='14'&gt;Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font color='#ff4400'&gt;Decreases damage by 5%&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar35_sp_d_name">
+		<original value="AK-12 Special Suppressor"/>
+		<translation value="AK-12 Special Suppressor"/>
+	</entry>
+	<entry key="ui_ar35_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\nSlightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar35_gp_d_name">
+		<original value="AK-12 Special Grip"/>
+		<translation value="AK-12 Special Grip"/>
+	</entry>
+	<entry key="ui_ar35_gp_d_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in &lt;font color='#FF4400'&gt;prone&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar35_rds01_d_name">
+		<original value="Romeo 4 Sight"/>
+		<translation value="Romeo 4 Sight"/>
+	</entry>
+	<entry key="ui_ar35_rds01_d_ingame">
+		<original value="Fast 1.3X zoom&lt;/font&gt; in aiming mode.\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="Fast &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.3X zoom&lt;/font&gt; in aiming mode.\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr47_sp01_d_shop_name">
+		<original value="Truvelo CMS Special Suppressor"/>
+		<translation value="Truvelo CMS Special Suppressor"/>
+	</entry>
+	<entry key="ui_sr47_sp01_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr47_sp02_d_shop_name">
+		<original value="Truvelo CMS Tactical Suppressor"/>
+		<translation value="Truvelo CMS Tactical Suppressor"/>
+	</entry>
+	<entry key="ui_sr47_sp02_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;minimal range&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;minimal range&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr48_sp01_d_name">
+		<original value="SV-98 Suppressor"/>
+		<translation value="SV-98 Suppressor"/>
+	</entry>
+	<entry key="ui_sr48_sp01_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly improves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt;\n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nSlightly improves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr48_sp02_d_name">
+		<original value="SV-98 DTK Special Suppressor"/>
+		<translation value="SV-98 Special Suppressor"/>
+	</entry>
+	<entry key="ui_sr48_sp02_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nSlightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr48_ss_d_name">
+		<original value="ATACR V2 4.5x scope"/>
+		<translation value="ATACR V2 4.5x scope"/>
+	</entry>
+	<entry key="ui_sr48_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.5X zoom&lt;/font&gt; while aiming. \n"/>
+	</entry>
+	<entry key="ar36_gp_d_name">
+		<original value="F90 MBR Special Grip"/>
+		<translation value="F90 MBR Special Grip"/>
+	</entry>
+	<entry key="ui_ar36_gp_d_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nLightly Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\n"/>
+		<translation value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nSlightly Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg48_sc_d_name">
+		<original value="Cobalt Kinetics Special Silencer"/>
+		<translation value="Cobalt Kinetics Special Silencer"/>
+	</entry>
+	<entry key="ui_smg48_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg48_gp01_d_name">
+		<original value="HALO MiniVert Grip V1"/>
+		<translation value="HALO MiniVert Grip V1"/>
+	</entry>
+	<entry key="ui_smg48_gp01_d_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="smg48_gp02_d_name">
+		<original value="MOD Billet Foregrip V1"/>
+		<translation value="MOD Billet Foregrip V1"/>
+	</entry>
+	<entry key="ui_smg48_gp02_d_ingame">
+		<original value="Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nGreatly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nGreatly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="smg48_rds_d_name">
+		<original value="Holosun MK2"/>
+		<translation value="Holosun MK3 Collimator"/>
+	</entry>
+	<entry key="ui_smg48_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar38_sc_d_name">
+		<original value="TI-RAID Silencer"/>
+		<translation value="TI-RAID Silencer"/>
+	</entry>
+	<entry key="ui_ar38_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar38_gp01_d_name">
+		<original value="HALO MiniVert Grip V2"/>
+		<translation value="HALO MiniVert Grip V2"/>
+	</entry>
+	<entry key="ui_ar38_gp01_d_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="ar38_gp02_d_name">
+		<original value="MOD Billet Foregrip V2"/>
+		<translation value="MOD Billet Foregrip V2"/>
+	</entry>
+	<entry key="ui_ar38_gp02_d_ingame">
+		<original value="Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nGreatly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="Slightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nGreatly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="ar38_rds_d_name">
+		<original value="Holosun MK3"/>
+		<translation value="Holosun MK1 Collimator"/>
+	</entry>
+	<entry key="ui_ar38_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar38_sp_d_name">
+		<original value="Pro Muzzle Brake"/>
+		<translation value="Pro Muzzle Brake"/>
+	</entry>
+	<entry key="ui_ar38_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="shg53_sc_d_name">
+		<original value="Cobalt Kinetics Special Silencer"/>
+		<translation value="Cobalt Kinetics Special Silencer"/>
+	</entry>
+	<entry key="ui_shg53_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage by 10%&lt;/font&gt;\n&lt;font size='14'&gt;Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage by 10%&lt;/font&gt;\n&lt;font size='14'&gt;Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg53_sp_d_name">
+		<original value="Cobalt Kinetics Special Suppressor"/>
+		<translation value="Cobalt Kinetics Special Suppressor"/>
+	</entry>
+	<entry key="ui_shg53_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases the &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg53_gp02_d_name">
+		<original value="HALO MiniVert Grip V4"/>
+		<translation value="HALO MiniVert Grip V4"/>
+	</entry>
+	<entry key="ui_shg53_gp02_d_ingame">
+		<original value="Greatly decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="Greatly decreasse &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg53_gp01_d_name">
+		<original value="Typhoon F12 Custom Special Grip"/>
+		<translation value="Typhoon F12 Custom Special Grip"/>
+	</entry>
+	<entry key="ui_shg53_gp01_d_ingame">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg53_rds_d_name">
+		<original value="Holosun MK4"/>
+		<translation value="Holosun MK2 Collimator"/>
+	</entry>
+	<entry key="ui_shg53_rds_d_ingame">
+		<original value="Fast 1.3X zoom&lt;/font&gt; in aiming mode.\nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="Fast 1.3X zoom&lt;/font&gt; in aiming mode.\nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg49_sp_d_shop_name">
+		<original value="AM-17 Special Suppressor"/>
+		<translation value="AM-17 Special Suppressor"/>
+	</entry>
+	<entry key="ui_smg49_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg49_sc_d_name">
+		<original value="AM-17 Special Silencer"/>
+		<translation value="AM-17 Special Silencer"/>
+	</entry>
+	<entry key="ui_accessories_smg49_sc_d">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;\n&lt;font size='14'&gt;Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;\n&lt;font size='14'&gt;Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg49_rds_d_shop_name">
+		<original value="OCS-77"/>
+		<translation value="OCS-77 Collimator"/>
+	</entry>
+	<entry key="ui_smg49_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr49_sc_d_name">
+		<original value="OSS Suppressor Elite Line Over the Barrel"/>
+		<translation value="OSS Elite Suppressor"/>
+	</entry>
+	<entry key="ui_sr49_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage by 50%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt;\n&lt;font color='#ff6660'&gt;Decreases damage by 50%&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr49_gp01_d_name">
+		<original value="HALO MiniVert Grip V3"/>
+		<translation value="HALO MiniVert Grip V3"/>
+	</entry>
+	<entry key="ui_sr49_gp01_d_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="sr49_gp02_d_name">
+		<original value="MOD Billet Foregrip V3"/>
+		<translation value="MOD Billet Foregrip V3"/>
+	</entry>
+	<entry key="ui_sr49_gp02_d_ingame">
+		<original value="Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nGreatly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nGreatly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="sr49_rds_d_name">
+		<original value="Holosun MK4"/>
+		<translation value="Holosun MK4"/>
+	</entry>
+	<entry key="ui_sr49_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.8X zoom&lt;/font&gt; \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.8X zoom&lt;/font&gt; in aiming mode \nGreatly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr49_sp_d_name">
+		<original value="Pro Muzzle Brake V2"/>
+		<translation value="Pro Muzzle Brake V2"/>
+	</entry>
+	<entry key="ui_sr49_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="sr49_ss_d_name">
+		<original value="UTG Compact Scope"/>
+		<translation value="UTG Compact Scope"/>
+	</entry>
+	<entry key="ui_sr49_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+	</entry>
+	<entry key="ar37_gp_d_name">
+		<original value="CZ 805 BREN A2 Special Grip"/>
+		<translation value="CZ 805 BREN A2 Special Grip"/>
+	</entry>
+	<entry key="ui_ar37gp_d_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar37_sp_d_name">
+		<original value="CZ 805 BREN A2 Special Suppressor"/>
+		<translation value="CZ 805 BREN A2 Special Suppressor"/>
+	</entry>
+	<entry key="ui_ar37_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ls01">
+		<original value="CZ 805 BREN A2 Laser sight"/>
+		<translation value="CZ 805 BREN A2 Laser Sight"/>
+	</entry>
+	<entry key="ui_ls01_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly increases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly increases&lt;font size='14'&gt;&lt;font color='#ff6660'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#ff6660'&gt;recoil shake&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg54_sp_d_name">
+		<original value="KS7 Supressor"/>
+		<translation value="KS7 Supressor"/>
+	</entry>
+	<entry key="ui_shg54_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="ar42_is_d_name">
+		<original value="Sten MK IIS Sights"/>
+		<translation value="Sten MK IIS Sights"/>
+	</entry>
+	<entry key="ui_ar42_is_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.1X zoom&lt;/font&gt; in aiming mode"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.1X zoom&lt;/font&gt; in aiming mode"/>
+	</entry>
+	<entry key="ar42_as_d_name">
+		<original value="Sten MK IIS Scope"/>
+		<translation value="Sten MK IIS Scope"/>
+	</entry>
+	<entry key="ui_ar42_as_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; in aiming mode \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; in aiming mode \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg50_gp01_d_name">
+		<original value="HALO MiniVert Grip V1"/>
+		<translation value="HALO MiniVert Grip V1"/>
+	</entry>
+	<entry key="ui_smg50_gp01_d_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="smg50_gp02_d_name">
+		<original value="MOD Billet Foregrip V1"/>
+		<translation value="MOD Billet Foregrip V1"/>
+	</entry>
+	<entry key="ui_smg50_gp02_d_ingame">
+		<original value="Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nGreatly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nGreatly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="smg50_rds_d_name">
+		<original value="VORTEX VENOM® RED DOT"/>
+		<translation value="Vortex Venom Red Dot"/>
+	</entry>
+	<entry key="ui_smg50_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.2X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.2X zoom&lt;/font&gt; in aiming mode \nGreatly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg50_sp_d_name">
+		<original value="M4 CUSTOM Special Suppressor"/>
+		<translation value="M4 CUSTOM Special Suppressor"/>
+	</entry>
+	<entry key="ui_smg50_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar39_sp_d_name">
+		<original value="JCOMP Gen 2 Suppressor"/>
+		<translation value="JCOMP Gen 2 Suppressor"/>
+	</entry>
+	<entry key="ui_ar39_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar39_gp_d_name">
+		<original value="Viking Tactics Vertical Grip"/>
+		<translation value="Viking Tactics Vertical Grip"/>
+	</entry>
+	<entry key="ui_ar39_gp_d_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar39_rds_d_name">
+		<original value="Howa Type 89 Reflex Sight"/>
+		<translation value="Howa Type 89 Reflex Sight"/>
+	</entry>
+	<entry key="ui_ar39_rds_d_ingame">
+		<original value="Fast 1.3X zoom&lt;/font&gt; in aiming mode.\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="Fast 1.3X zoom&lt;/font&gt; in aiming mode.\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg52_gp_d_name">
+		<original value="ACR CQB Custom Tactical Grip"/>
+		<translation value="ACR CQB Custom Tactical Grip"/>
+	</entry>
+	<entry key="ui_smg52_gp_d_ingame">
+		<original value="Decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="Decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="smg52_rds_d_name">
+		<original value="ACR CQB Custom Romeo 3 Sight"/>
+		<translation value="ACR CQB Custom Romeo3v2 Sight"/>
+	</entry>
+	<entry key="ui_smg52_rds_d_ingame">
+		<original value="&lt;font color='#42ebf8'&gt;1.3X zoom&lt;/font&gt; in aiming mode.\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.3X zoom&lt;/font&gt; in aiming mode.\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg52_sc_d_name">
+		<original value="ACR CQB Custom Special Silencer"/>
+		<translation value="ACR CQB Custom Special Silencer"/>
+	</entry>
+	<entry key="ui_smg52_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Doesn't decrease damage&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg52_ss_d_shop_name">
+		<original value="Razor HD Gen III"/>
+		<translation value="Razor HD Gen III"/>
+	</entry>
+	<entry key="ui_smg52_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 3X zoom&lt;/font&gt; in aiming mode\nDecrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 3X zoom&lt;/font&gt; in aiming mode.\nDecreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;"/>
+	</entry>
+	<entry key="shg55_sp_d_name">
+		<original value="Triple Threat Suppressor"/>
+		<translation value="Triple Threat Suppressor"/>
+	</entry>
+	<entry key="ui_shg55_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nDecrease&lt;font size='14'&gt;&lt;font color='#ff4400'&gt; accuracy&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nIncreases &lt;font color='#ff4400'&gt;spread&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="smg51_sp_d_name">
+		<original value="Gilboa DBR Snake Special Suppressor"/>
+		<translation value="Gilboa Snake DBR Special Suppressor"/>
+	</entry>
+	<entry key="ui_smg51_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg51_sc_d_name">
+		<original value="Gilboa DBR Snake Special Silencer"/>
+		<translation value="Gilboa Snake DBR Special Silencer"/>
+	</entry>
+	<entry key="ui_accessories_smg51_sc_d">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;\n&lt;font size='14'&gt;Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;\n&lt;font size='14'&gt;Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg51_rds_d_name">
+		<original value="Gilboa DBR Snake Special RDS"/>
+		<translation value="Vism Flip Dot SPD"/>
+	</entry>
+	<entry key="ui_smg51_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+	</entry>
+</localization>

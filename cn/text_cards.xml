@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry key="free_card_default_name">
+		<original value="Free Card"/>
+		<translation value="自由牌"/>
+	</entry>
+	<entry key="ui_free_card">
+		<original value="Free cards can be used in any progression. Spend them wisely"/>
+		<translation value="自由牌可用于在任何情况下推进游戏。好好利用吧。"/>
+	</entry>
+	<entry key="test_card_kn16_default_name">
+		<original value="Card Tactical Axe"/>
+		<translation value="战术斧卡牌"/>
+	</entry>
+	<entry key="ui_test_card_kn16">
+		<original value="Collect these cards to get Tactical Axe"/>
+		<translation value="收集这些卡牌，获取战术斧。"/>
+	</entry>
+	<entry key="test_card_sr46_default_name">
+		<original value="Card Kraken CDX MC"/>
+		<translation value="北海巨妖 CDX MC 卡牌"/>
+	</entry>
+	<entry key="ui_test_card_sr46">
+		<original value="Collect these cards to get Kraken CDX MC"/>
+		<translation value="收集这些卡牌，获取北海巨妖 CDX MC。"/>
+	</entry>
+	<entry key="test_card_pt36_default_name">
+		<original value="Card TEC-9"/>
+		<translation value="TEC-9 卡牌"/>
+	</entry>
+	<entry key="ui_test_card_pt36">
+		<original value="Collect these cards to get TEC-9"/>
+		<translation value="收集这些卡牌，获取 TEC-9。"/>
+	</entry>
+	<entry key="test_card_smg44_default_name">
+		<original value="Card TDI KRISS Super V"/>
+		<translation value="TDI KRISS Super V Custom 卡牌"/>
+	</entry>
+	<entry key="ui_test_card_smg44">
+		<original value="Collect these cards to get TDI KRISS Super V"/>
+		<translation value="收集这些卡牌，获取 TDI KRISS Super V Custom。"/>
+	</entry>
+	<entry key="test_card_soldier_vest_armagedon_default_name">
+		<original value="Card &quot;Armageddon&quot; soldier vest"/>
+		<translation value="末日步枪手背心卡牌"/>
+	</entry>
+	<entry key="ui_test_card_soldier_vest_armagedon">
+		<original value="Collect these cards to get &quot;Armageddon&quot; soldier vest"/>
+		<translation value="收集这些卡牌，获取“末日”步枪手背心。"/>
+	</entry>
+	<entry key="test_card_soldier_helmet_armagedon_default_name">
+		<original value="Card &quot;Armageddon&quot; soldier helmet"/>
+		<translation value="末日步枪手头盔卡牌"/>
+	</entry>
+	<entry key="ui_test_card_soldier_helmet_armagedon">
+		<original value="Collect these cards to get &quot;Armageddon&quot; soldier helmet"/>
+		<translation value="收集这些卡牌，获取“末日”步枪手头盔。"/>
+	</entry>
+	<entry key="test_card_shared_shoes_armagedon_default_name">
+		<original value="Card &quot;Armageddon&quot; shared boots"/>
+		<translation value="末日靴子卡牌"/>
+	</entry>
+	<entry key="ui_test_card_shared_shoes_armagedon">
+		<original value="Collect these cards to get &quot;Armageddon&quot; shared boots"/>
+		<translation value="收集这些卡牌，获取适合所有职业的“末日”靴子。"/>
+	</entry>
+	<entry key="test_card_shared_hands_armagedon_default_name">
+		<original value="Card &quot;Armageddon&quot; shared gloves"/>
+		<translation value="末日手套卡牌"/>
+	</entry>
+	<entry key="ui_test_card_shared_hands_armagedon">
+		<original value="Collect these cards to get &quot;Armageddon&quot; shared gloves"/>
+		<translation value="收集这些卡牌，获取适合所有职业的“末日”手套。"/>
+	</entry>
+	<entry key="ar38_card_name">
+		<original value="Card Cobalt Kinetics EDGE"/>
+		<translation value="科伯特动力公司 EDGE 步枪卡牌"/>
+	</entry>
+	<entry key="ui_ar38_card">
+		<original value="Collect these cards to get Cobalt Kinetics EDGE"/>
+		<translation value="这些卡牌可用于制造科伯特动力公司 EDGE 步枪。"/>
+	</entry>
+	<entry key="shg53_card_name">
+		<original value="Card Cobalt Kinetics Typhoon F12 Custom"/>
+		<translation value="台风 F12 定制版卡牌"/>
+	</entry>
+	<entry key="ui_shg53_card">
+		<original value="Collect these cards to get Cobalt Kinetics Typhoon F12 Custom"/>
+		<translation value="这些卡牌可用于制造台风 F12 定制版。"/>
+	</entry>
+	<entry key="smg48_card_name">
+		<original value="Card Cobalt Kinetics Stealth Pistol"/>
+		<translation value="科伯特动力公司隐形手枪卡牌"/>
+	</entry>
+	<entry key="ui_smg48_card">
+		<original value="Collect these cards to get Cobalt Kinetics Stealth Pistol"/>
+		<translation value="这些卡牌可用于制造科伯特动力公司隐形手枪。"/>
+	</entry>
+	<entry key="sr49_card_name">
+		<original value="Card Cobalt Kinetics Twenty-Seven"/>
+		<translation value="Cobalt Kinetics 27 卡牌"/>
+	</entry>
+	<entry key="ui_sr49_card">
+		<original value="Collect these cards to get Cobalt Kinetics Twenty-Seven"/>
+		<translation value="这些卡牌可用于制造 Cobalt Kinetics 27。"/>
+	</entry>
+	<entry key="smg50_card_name">
+		<original value="Card M4 Custom"/>
+		<translation value="M4 Custom 卡牌"/>
+	</entry>
+	<entry key="ui_smg50_card">
+		<original value="Collect these cards to get M4 Custom"/>
+		<translation value="这些卡牌可用于制造 M4 Custom。"/>
+	</entry>
+	<entry key="smg52_card_name">
+		<original value="Card ACR CQB Custom"/>
+		<translation value="ACR CQB Custom 卡牌"/>
+	</entry>
+	<entry key="ui_smg52_card">
+		<original value="Collect these cards to get ACR CQB Custom"/>
+		<translation value="这些卡牌可用于制造 ACR CQB Custom。"/>
+	</entry>
+	<entry key="ar36_raid02_card_name">
+		<original value="Card Raid F90 MBR"/>
+		<translation value="黑木 F90 MBR 卡牌"/>
+	</entry>
+	<entry key="ui_ar36_raid02_card">
+		<original value="Collect these cards to get Raid F90 MBR"/>
+		<translation value="这些卡牌可用于制造黑木 F90 MBR。"/>
+	</entry>
+	<entry key="shg52_raid02_card_name">
+		<original value="Card Raid TAVOR TS12 Custom"/>
+		<translation value="黑木 TAVOR TS12 Custom 卡牌"/>
+	</entry>
+	<entry key="ui_shg52_raid02_card">
+		<original value="Collect these cards to get Raid TAVOR TS12 Custom"/>
+		<translation value="这些卡牌可用于制造黑木 TAVOR TS12 Custom。"/>
+	</entry>
+	<entry key="smg52_raid02_card_name">
+		<original value="Card Raid ACR CQB Custom"/>
+		<translation value="黑木 ACR CQB Custom 卡牌"/>
+	</entry>
+	<entry key="ui_smg52_raid02_card">
+		<original value="Collect these cards to get Raid ACR CQB Custom"/>
+		<translation value="这些卡牌可用于制造黑木 ACR CQB Custom。"/>
+	</entry>
+	<entry key="sr45_raid02_card_name">
+		<original value="Card Raid HK G28"/>
+		<translation value="黑木 H&amp;K G28 卡牌"/>
+	</entry>
+	<entry key="ui_sr45_raid02_card">
+		<original value="Collect these cards to get Raid HK G28"/>
+		<translation value="这些卡牌可用于制造黑木 H&amp;K G28。"/>
+	</entry>
+	<entry key="hmg03_raid02_card_name">
+		<original value="Card Raid M134-GAU19b Hybrid"/>
+		<translation value="黑木 M134-GAU19b Hybrid 卡牌"/>
+	</entry>
+	<entry key="ui_hmg03_raid02_card">
+		<original value="Collect these cards to get Raid M134-GAU19b Hybrid"/>
+		<translation value="这些卡牌可用于制造黑木 M134-GAU19b Hybrid。"/>
+	</entry>
+	<entry key="smg51_card_name">
+		<original value="Card Gilboa DBR Snake"/>
+		<translation value="基利波蛇 DBR 卡牌"/>
+	</entry>
+	<entry key="ui_smg51_card">
+		<original value="Collect these cards to get Gilboa DBR Snake"/>
+		<translation value="这些卡牌可用于制造基利波蛇 DBR。"/>
+	</entry>
+	<entry key="shg55_card_name">
+		<original value="Card Chiappa Triple Threat"/>
+		<translation value="Chiappa 三重威胁卡牌"/>
+	</entry>
+	<entry key="ui_shg55_card">
+		<original value="Collect these cards to get Chiappa Triple Threat"/>
+		<translation value="这些卡牌可用于制造 Chiappa 三重威胁。"/>
+	</entry>
+	<entry key="ar36_apache01_card_name">
+		<original value="Card Apache F90 MBR"/>
+		<translation value="阿帕奇 F90 MBR 卡牌"/>
+	</entry>
+	<entry key="ui_ar36_apache01_card">
+		<original value="Collect these cards to get Apache F90 MBR"/>
+		<translation value="这些卡牌可用于制造阿帕奇 F90 MBR。"/>
+	</entry>
+	<entry key="shg52_apache01_card_name">
+		<original value="Card Apache TAVOR TS12 Custom"/>
+		<translation value="阿帕奇 TAVOR TS12 Custom 卡牌"/>
+	</entry>
+	<entry key="ui_shg52_apache01_card">
+		<original value="Collect these cards to get Apache TAVOR TS12 Custom"/>
+		<translation value="这些卡牌可用于制造阿帕奇 TAVOR TS12 Custom。"/>
+	</entry>
+	<entry key="smg52_apache01_card_name">
+		<original value="Card Apache ACR CQB Custom"/>
+		<translation value="阿帕奇 ACR CQB Custom 卡牌"/>
+	</entry>
+	<entry key="ui_smg52_apache01_card">
+		<original value="Collect these cards to get Apache ACR CQB Custom"/>
+		<translation value="这些卡牌可用于制造阿帕奇 ACR CQB Custom。"/>
+	</entry>
+	<entry key="sr45_apache01_card_name">
+		<original value="Card Apache HK G28"/>
+		<translation value="阿帕奇 H&amp;K G28 卡牌"/>
+	</entry>
+	<entry key="ui_sr45_apache01_card">
+		<original value="Collect these cards to get Apache HK G28"/>
+		<translation value="这些卡牌可用于制造阿帕奇 H&amp;K G28。"/>
+	</entry>
+	<entry key="hmg03_apache01_card_name">
+		<original value="Card Apache M134-GAU19b Hybrid"/>
+		<translation value="阿帕奇 M134-GAU19b Hybrid 卡牌"/>
+	</entry>
+	<entry key="ui_hmg03_apache01_card">
+		<original value="Collect these cards to get Apache M134-GAU19b Hybrid"/>
+		<translation value="这些卡牌可用于制造阿帕奇 M134-GAU19b Hybrid。"/>
+	</entry>
+</localization>

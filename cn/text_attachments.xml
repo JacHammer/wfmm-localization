@@ -1,0 +1,2467 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry key="sp_default_name">
+		<original value="Default Suppressor"/>
+		<translation value="默认抑制器"/>
+	</entry>
+	<entry key="ui_accessories_sp_default">
+		<original value="Default Suppressor"/>
+		<translation value="默认抑制器"/>
+	</entry>
+	<entry key="is_default_name">
+		<original value="Iron sight"/>
+		<translation value="机械瞄具"/>
+	</entry>
+	<entry key="ui_accessories_is_default">
+		<original value="Iron sight"/>
+		<translation value="机械瞄具"/>
+	</entry>
+	<entry key="ar02_gp_d_name">
+		<original value="Default Grip"/>
+		<translation value="步枪手握把"/>
+	</entry>
+	<entry key="ui_ar02_gp_d">
+		<original value="Default Grip"/>
+		<translation value="默认握把"/>
+	</entry>
+	<entry key="ui_accessories_ss06">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 5.5X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;【放大倍率：&lt;font color='#42ebf8'&gt; 5.5 倍&lt;/font&gt;】"/>
+	</entry>
+	<entry key="ui_ss08_ingame">
+		<original value="TBD"/>
+		<translation value="待定"/>
+	</entry>
+	<entry key="ui_accessories_gp04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces stamina consumption by 10% &lt;/font&gt; when running"/>
+		<translation value="&lt;font size='14'&gt;在奔跑时&lt;font color='#42ebf8'&gt;耐力消耗减少 10% &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_gp05">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Iincreases haste speed by 20%&lt;/font&gt; when running"/>
+		<translation value="&lt;font size='14'&gt;在奔跑时&lt;font color='#42ebf8'&gt;速度提升 20% &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_gp06">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Iincreases haste speed by 10%&lt;/font&gt; when running"/>
+		<translation value="&lt;font size='14'&gt;在奔跑时&lt;font color='#42ebf8'&gt;速度提升 20% &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_gp07">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;decreases spread in non-aiming mode by 20% &lt;/font&gt;at all stances"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;未开镜时弹着散布减少 20%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_gp08">
+		<original value="TBD"/>
+		<translation value="待定"/>
+	</entry>
+	<entry key="ui_accessories_gp09">
+		<original value="TBD"/>
+		<translation value="待定"/>
+	</entry>
+	<entry key="ui_accessories_rds06">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; while aiming.\nImproves &lt;font color='#42ebf8'&gt;accuracy by 30%&lt;/font&gt; .\nDecreases &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;.\nIncrease &lt;font color='#42ebf8'&gt;aim speed&lt;/font&gt;."/>
+		<translation value="&lt;font size='14'&gt;瞄准时&lt;font color='#42ebf8'&gt;1.2 倍变焦&lt;/font&gt;。\n增加精准度&lt;font color='#42ebf8'&gt;&lt;/font&gt;。\n减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;。\n提升&lt;font color='#42ebf8'&gt;瞄准速度&lt;/font&gt;。"/>
+	</entry>
+	<entry key="ui_rds06_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;\n Improves &lt;font color='#42ebf8'&gt;accuracy by 30%&lt;/font&gt; .\nDecreases &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;.\nIncrease &lt;font color='#42ebf8'&gt;aim speed&lt;/font&gt;."/>
+		<translation value="&lt;font size='14'&gt;瞄准时&lt;font color='#42ebf8'&gt;1.2 倍变焦&lt;/font&gt;。\n增加精准度&lt;font color='#42ebf8'&gt;&lt;/font&gt;。\n减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;。\n提升&lt;font color='#42ebf8'&gt;瞄准速度&lt;/font&gt;。"/>
+	</entry>
+	<entry key="sp09_shop_name">
+		<original value="TBD"/>
+		<translation value="待定"/>
+	</entry>
+	<entry key="sp10_shop_name">
+		<original value="TBD"/>
+		<translation value="待定"/>
+	</entry>
+	<entry key="ui_accessories_sp07">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces recoil and spread by 10%&lt;/font&gt; at all stance &lt;font color='#42ebf8'&gt;TBD_removes light&lt;/font&gt; at barrel"/>
+		<translation value="&lt;font size='14'&gt;始终&lt;font color='#42ebf8'&gt;减少后坐力和弹着散布 10% &lt;/font&gt;枪管&lt;font color='#42ebf8'&gt;TBD_removes light&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sp09">
+		<original value="TBD"/>
+		<translation value="待定"/>
+	</entry>
+	<entry key="ui_accessories_sp10">
+		<original value="TBD"/>
+		<translation value="待定"/>
+	</entry>
+	<entry key="ui_accessories_ugl02">
+		<original value="&lt;font size='14'&gt;allows player to throw grenade long distance but it &lt;font color='#42ebf8'&gt;increses stamina consumption by 5%&lt;/font&gt; and &lt;font color='#42ebf8'&gt;Sway by 50%.&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;增加手雷最大投掷距离，但是也&lt;font color='#42ebf8'&gt;增加耐力消耗 5%&lt;/font&gt;以及&lt;font color='#42ebf8'&gt;枪口晃动 50% 。&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_ubrs01">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE1&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS 1式&lt;/b&gt;&lt;/font&gt;\nTBD 将武器准星颜色改为红色"/>
+	</entry>
+	<entry key="ui_accessories_ubrs02">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE2&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS 2式&lt;/b&gt;&lt;/font&gt;\nTBD 将武器准星颜色改为红色"/>
+	</entry>
+	<entry key="ui_accessories_ubrs03">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE3&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS 3式&lt;/b&gt;&lt;/font&gt;\nTBD 将武器准星颜色改为红色"/>
+	</entry>
+	<entry key="ui_accessories_ubrs04">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE4&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS 4式&lt;/b&gt;&lt;/font&gt;\nTBD 将武器准星颜色改为红色"/>
+	</entry>
+	<entry key="ui_accessories_ubrs05">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE5&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS 5式&lt;/b&gt;&lt;/font&gt;\nTBD 将武器准星颜色改为红色"/>
+	</entry>
+	<entry key="ui_accessories_ubrs06">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE6&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS 6式&lt;/b&gt;&lt;/font&gt;\nTBD 将武器准星颜色改为红色"/>
+	</entry>
+	<entry key="ui_accessories_ubrs07">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE7&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS 7式&lt;/b&gt;&lt;/font&gt;\nTBD 将武器准星颜色改为红色"/>
+	</entry>
+	<entry key="ui_accessories_ubrs08">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE8&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS 8式&lt;/b&gt;&lt;/font&gt;\nTBD 将武器准星颜色改为红色"/>
+	</entry>
+	<entry key="ui_accessories_ubrs09">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE9&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS 9式&lt;/b&gt;&lt;/font&gt;\nTBD 将武器准星颜色改为红色"/>
+	</entry>
+	<entry key="ui_accessories_ubrs10">
+		<original value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS TYPE10&lt;/b&gt;&lt;/font&gt; \n TBD_changes weapon's crosshair color to red"/>
+		<translation value="&lt;font size='18' color='#dddddd'&gt;&lt;b&gt;UBRS 10式&lt;/b&gt;&lt;/font&gt;\nTBD 将武器准星颜色改为红色"/>
+	</entry>
+	<entry key="ui_accessories_bn04">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bp04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces spread by 20%&lt;/font&gt; at prone and slide stance"/>
+		<translation value="&lt;font size='14'&gt;俯卧时&lt;font color='#42ebf8'&gt;减少弹着散布 20% &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bp05">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces sway by 25%&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;spread by 20%&lt;/font&gt; at prone stance"/>
+		<translation value="&lt;font size='14'&gt;俯卧时&lt;font color='#42ebf8'&gt;减少枪口晃动和弹着散布 15% &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bp06">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces recoil by 15%&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;spread by 15%&lt;/font&gt; at prone stance"/>
+		<translation value="&lt;font size='14'&gt;俯卧时&lt;font color='#42ebf8'&gt;减少枪口晃动和弹着散布 15% &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bp07">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reduces sway by 15%&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil by 15%&lt;/font&gt; at prone stance"/>
+		<translation value="&lt;font size='14'&gt;俯卧时&lt;font color='#42ebf8'&gt;减少枪口晃动和弹着散布 15% &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bp04_ingame">
+		<original value="Reduces&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; spread by 20%&lt;/font&gt; at prone and slide stance"/>
+		<translation value="俯卧时增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_bp05_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone \n"/>
+		<translation value="俯卧时增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_bp06_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone \n"/>
+		<translation value="俯卧时增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_bp07_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone \n"/>
+		<translation value="俯卧时增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_gpp03_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil by 10%&lt;/font&gt; \n"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gpp04_ingame">
+		<original value="Decrease &lt;font color='#42ebf8'&gt;sway by 25%&lt;/font&gt; in prone"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gpp05_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil by 10%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gpp06_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil by 10%&lt;/font&gt; \n"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_psb01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#FF4400'&gt;decreases aiming speed by 30%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ED2323'&gt;减少瞄准速度 30% 。&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_pt24_sc_d_ingame">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n &lt;font color='#42ebf8'&gt;Do not decreases &lt;/font&gt;damage"/>
+		<translation value="消除&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪声&lt;/font&gt;\n&lt;font color='#42ebf8'&gt;不会降低&lt;/font&gt;伤害"/>
+	</entry>
+	<entry key="ui_accessories_bn01_camo02">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 25%&lt;/font&gt;"/>
+		<translation value="增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn02_camo02">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 25%&lt;/font&gt;"/>
+		<translation value="增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn03_camo02">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 25%&lt;/font&gt;"/>
+		<translation value="增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn05_camo02">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 20%&lt;/font&gt;"/>
+		<translation value="增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc01_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;增加精准度&lt;/font&gt;\n&lt;font color='#ED2323'&gt;降低伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc02_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font color='#FF4400'&gt;Decreases damage by 15%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font color='#ED2323'&gt;显著降低伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc03_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;增加精准度&lt;/font&gt;\n&lt;font color='#ED2323'&gt;降低伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc04_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;增加精准度&lt;/font&gt;\n&lt;font color='#ED2323'&gt;降低伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc05_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;增加精准度&lt;/font&gt;\n&lt;font color='#ED2323'&gt;降低伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc06_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;增加精准度&lt;/font&gt;\n&lt;font color='#ED2323'&gt;降低伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc01_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="消除&lt;font color='#42ebf8'&gt;枪声&lt;/font&gt;\n增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n降低&lt;font color='#ED2323'&gt;伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc02_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Decrease &lt;font color='#FF4400'&gt;damage by 15%&lt;/font&gt;"/>
+		<translation value="消除&lt;font color='#42ebf8'&gt;枪声&lt;/font&gt;\n大幅降低&lt;font color='#ED2323'&gt;伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc03_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="消除&lt;font color='#42ebf8'&gt;枪声&lt;/font&gt;\n增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n降低&lt;font color='#ED2323'&gt;伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc04_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="消除&lt;font color='#42ebf8'&gt;枪声&lt;/font&gt;\n增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n降低&lt;font color='#ED2323'&gt;伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc05_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="消除&lt;font color='#42ebf8'&gt;枪声&lt;/font&gt;\n增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n降低&lt;font color='#ED2323'&gt;伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc06_camo02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="消除&lt;font color='#42ebf8'&gt;枪声&lt;/font&gt;\n增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n降低&lt;font color='#ED2323'&gt;伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sp02_camo02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 30%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp03_camo02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp04_camo02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp05_camo02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp06_camo02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp02_camo02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n IImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp03_camo02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp04_camo02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp05_camo02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp06_camo02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_as01_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; &lt;br&gt; &lt;font color='#dddddd'&gt;[ Magnification: &lt;/font&gt;&lt;font color='#42ebf8'&gt;2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2 倍变焦&lt;/font&gt; &lt;br&gt;"/>
+	</entry>
+	<entry key="ui_accessories_as02_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; &lt;font color='#dddddd'&gt;[ Magnification: &lt;/font&gt;&lt;font color='#42ebf8'&gt;2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2 倍变焦&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_as03_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt;\n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;瞄准姿态时&lt;font color='#42ebf8'&gt; 3 倍变焦&lt;/font&gt;并且&lt;font color='#42ebf8'&gt;减少弹着散布 10% &lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_accessories_as04_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt; in aiming stance.\n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;瞄准姿态时&lt;font color='#42ebf8'&gt; 3 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_accessories_as05_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom &lt;/font&gt; in aiming stance. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;瞄准姿态时&lt;font color='#42ebf8'&gt; 2 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_accessories_as06_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom &lt;/font&gt;\n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;瞄准姿态时&lt;font color='#42ebf8'&gt; 2 倍变焦&lt;/font&gt;并且&lt;font color='#42ebf8'&gt;减少弹着散布 15% &lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_as01_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2 倍&lt;/font&gt;变焦\n"/>
+	</entry>
+	<entry key="ui_as02_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2 倍&lt;/font&gt;变焦\n"/>
+	</entry>
+	<entry key="ui_as03_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;3 倍&lt;/font&gt;变焦\n快速&lt;font color='#42ebf8'&gt;变焦&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_as04_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;3 倍&lt;/font&gt;变焦\n快速&lt;font color='#42ebf8'&gt;变焦&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_as05_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2 倍&lt;/font&gt;变焦\n"/>
+	</entry>
+	<entry key="ui_as06_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2 倍&lt;/font&gt;变焦\n"/>
+	</entry>
+	<entry key="ui_accessories_rds01_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式时&lt;font color='#42ebf8'&gt; 1.2 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_accessories_rds02_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式时&lt;font color='#42ebf8'&gt; 1.2 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_accessories_rds05_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式时&lt;font color='#42ebf8'&gt; 1.2 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_accessories_rds04_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]Improves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt; .\nDecreases &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;.\n"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式时&lt;font color='#42ebf8'&gt; 1.2 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_ar41_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3.5X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式时&lt;font color='#42ebf8'&gt; 3.5 倍变焦&lt;/font&gt;。\n&lt;font color='#dddddd'&gt;"/>
+	</entry>
+	<entry key="ui_accessories_as01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; &lt;br&gt; &lt;font color='#dddddd'&gt;[ Magnification: &lt;/font&gt;&lt;font color='#42ebf8'&gt;2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2 倍变焦&lt;/font&gt; &lt;br&gt;"/>
+	</entry>
+	<entry key="ui_accessories_as02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; &lt;font color='#dddddd'&gt;[ Magnification: &lt;/font&gt;&lt;font color='#42ebf8'&gt;2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2 倍变焦&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_as03">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt; and &lt;font color='#42ebf8'&gt;spread by 10%&lt;/font&gt; in aiming stance. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;瞄准时&lt;font color='#42ebf8'&gt; 3 倍变焦&lt;/font&gt;并&lt;font color='#42ebf8'&gt;减少弹着散布 10% &lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_accessories_as04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt; in aiming stance.\n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;瞄准时&lt;font color='#42ebf8'&gt; 3 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_accessories_as05">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom &lt;/font&gt; in aiming stance. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 2X&lt;/font&gt; ]\nImproves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt; in any position\n"/>
+		<translation value="&lt;font size='14'&gt;瞄准时&lt;font color='#42ebf8'&gt; 2 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_accessories_as06">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom &lt;/font&gt;\n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 3X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;瞄准时&lt;font color='#42ebf8'&gt; 2 倍变焦&lt;/font&gt;并&lt;font color='#42ebf8'&gt;减少弹着散布 10% &lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_as04_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;3 倍&lt;/font&gt;变焦\n快速&lt;font color='#42ebf8'&gt;变焦&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_ss02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 4X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;【放大倍率：&lt;font color='#42ebf8'&gt; 4 倍&lt;/font&gt;】"/>
+	</entry>
+	<entry key="ui_accessories_ss04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 4.5X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;【放大倍率：&lt;font color='#42ebf8'&gt; 4.5 倍&lt;/font&gt;】"/>
+	</entry>
+	<entry key="ui_accessories_gp01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy by 25%&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decrease recoil by 25%&lt;/font&gt; in hip and in aiming mode\n Not applied in prone"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;增加精准度&lt;/font&gt;\n&lt;font size='14'&gt;在腰射和瞄准射击时&lt;font color='#42ebf8'&gt;减少后坐力&lt;/font&gt;\n俯卧时不适用。"/>
+	</entry>
+	<entry key="ui_accessories_gp02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy by 25%&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decrease recoil by 10%&lt;/font&gt; in hip and in aiming mode\n Not applied in prone"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;增加精准度&lt;/font&gt;\n&lt;font size='14'&gt;在腰射和瞄准射击时&lt;font color='#42ebf8'&gt;减少后坐力&lt;/font&gt;\n俯卧时不适用。"/>
+	</entry>
+	<entry key="ui_accessories_gp03">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Lightly improves accuracy by 10%&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Lightly decrease recoil by 10%&lt;/font&gt; in hip and in aiming mode\n Not applied in prone"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;略微增加精准度&lt;/font&gt;\n&lt;font size='14'&gt;在腰射和瞄准射击时&lt;font color='#42ebf8'&gt;略微减少后坐力&lt;/font&gt;\n俯卧时不适用。"/>
+	</entry>
+	<entry key="ui_accessories_rds01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;瞄准时&lt;font color='#42ebf8'&gt;1.4 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_accessories_rds02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;瞄准时&lt;font color='#42ebf8'&gt;1.2 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_accessories_rds03">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]&lt;font color='#42ebf8'&gt;Improves accuracy by 20%&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decrease recoil by 20%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;瞄准时&lt;font color='#42ebf8'&gt;1.2 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_accessories_rds04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n &lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 1.2X&lt;/font&gt; ]&lt;font color='#42ebf8'&gt;Improves accuracy by 20%&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decrease recoil by 20%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;瞄准时&lt;font color='#42ebf8'&gt;1.2 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_accessories_sc01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向。&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;增加精准度。&lt;/font&gt;\n&lt;font color='#ED2323'&gt;降低伤害。&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font color='#FF4400'&gt;Strongly decreases damage by 15%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font color='#ED2323'&gt;显著降低伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc03">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向。&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;增加精准度。&lt;/font&gt;\n&lt;font color='#ED2323'&gt;降低伤害。&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc04">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向。&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;增加精准度。&lt;/font&gt;\n&lt;font color='#ED2323'&gt;降低伤害。&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc05">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向。&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;增加精准度。&lt;/font&gt;\n&lt;font color='#ED2323'&gt;降低伤害。&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sc06">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;imroves accuracy by 10%&lt;/font&gt; \n &lt;font color='#FF4400'&gt;decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向。&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;增加精准度。&lt;/font&gt;\n&lt;font color='#ED2323'&gt;降低伤害。&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_sp02">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 30%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;子弹穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp03">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;子弹穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp04">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;子弹穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp05">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;子弹穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_sp06">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;子弹穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp02_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 30%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_ugl01">
+		<original value="&lt;font size='14'&gt;Grenade launcher &lt;/font&gt; Increases &lt;font color='#ff4400'&gt;recoil by 20%&lt;/font&gt;\nImproves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt; \n"/>
+		<translation value="&lt;font size='14'&gt;榴弹发射器&lt;/font&gt;\n会增加一些&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn02">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 25%&lt;/font&gt;"/>
+		<translation value="增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn03">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 25%&lt;/font&gt;"/>
+		<translation value="增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bn05">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 20%&lt;/font&gt;"/>
+		<translation value="增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bp03">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy by 15%&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;recoil by 30%&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;sway by 90%&lt;/font&gt;\n - in prone and zoom"/>
+		<translation value="&lt;font size='14'&gt;俯卧时&lt;font color='#42ebf8'&gt;减少后坐力 20% &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bp02_ingame">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;sway by 90%&lt;/font&gt;\n - in prone and zoom"/>
+		<translation value="俯卧时增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_gpp02">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway by 90%&lt;/font&gt; in prone and slide"/>
+		<translation value="增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gpp01_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway by 90%&lt;/font&gt; in prone and slide"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gpp02_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway by 90%&lt;/font&gt; in prone and slide"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_ps01">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; at aiming stance &lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 2X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;瞄准时&lt;font color='#42ebf8'&gt; 2 倍变焦&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_ss06_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;5.5X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;5.5 倍&lt;/font&gt;变焦\n"/>
+	</entry>
+	<entry key="ui_accessories_ss01">
+		<original value="&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 5X&lt;/font&gt; ]"/>
+		<translation value="&lt;font color='#dddddd'&gt;【放大倍率：&lt;font color='#42ebf8'&gt; 5 倍&lt;/font&gt;】"/>
+	</entry>
+	<entry key="ui_accessories_sp01">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;子弹穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_accessories_bn01">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 25%&lt;/font&gt;"/>
+		<translation value="增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bp01">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;recoil by 10%&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;sway by 50%&lt;/font&gt;\n - in prone and zoom"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ED2323'&gt;俯卧&lt;/font&gt;姿态时略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动和后坐力&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_bp02">
+		<original value="Improves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;\n Decrease &lt;font color='#42ebf8'&gt;sway by 90%&lt;/font&gt;\n - in prone and zoom"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ED2323'&gt;俯卧&lt;/font&gt;时增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;准确度并减少枪口晃动和后坐力&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_gpp01">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;\n Decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway by 90%&lt;/font&gt; in prone and slide"/>
+		<translation value="增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_pt24_sc_d">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n &lt;font color='#42ebf8'&gt;Do not decreases &lt;/font&gt;damage"/>
+		<translation value="消除&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪声&lt;/font&gt;\n&lt;font color='#42ebf8'&gt;不会降低&lt;/font&gt;伤害"/>
+	</entry>
+	<entry key="ui_sr09_sc_d_ingame">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;"/>
+		<translation value="消除&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪声&lt;/font&gt;\n&lt;font color='#ff4400'&gt;伤害降低 5%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_accessories_ss02_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 4X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;【放大倍率：&lt;font color='#42ebf8'&gt;4 倍&lt;/font&gt;】"/>
+	</entry>
+	<entry key="ui_accessories_ss04_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 4.5X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;【放大倍率：&lt;font color='#42ebf8'&gt;4.5 倍&lt;/font&gt;】"/>
+	</entry>
+	<entry key="ui_accessories_ss06_camo02">
+		<original value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 5.5X&lt;/font&gt; ]"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#dddddd'&gt;【放大倍率：&lt;font color='#42ebf8'&gt;5.5 倍&lt;/font&gt;】"/>
+	</entry>
+	<entry key="ui_accessories_ss03_camo02">
+		<original value="&lt;font color='#dddddd'&gt;[ Magnification:&lt;font color='#42ebf8'&gt; 5X&lt;/font&gt; ]"/>
+		<translation value="&lt;font color='#dddddd'&gt;【放大倍率：&lt;font color='#42ebf8'&gt;5 倍&lt;/font&gt;】"/>
+	</entry>
+	<entry key="ui_shg31_bn_d_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack range&lt;/font&gt;\n Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;melee attack damage by 35%&lt;/font&gt;"/>
+		<translation value="大幅增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;近战攻击射程&lt;/font&gt;\n增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_pt14_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.4X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式时&lt;font color='#42ebf8'&gt; 1.4 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_pt14_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;Eliminates&lt;font color='#42ebf8'&gt; sound &lt;/font&gt;\n &lt;font size='14'&gt;Imroves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage per meter by 50%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;消除&lt;font color='#42ebf8'&gt;枪声&lt;/font&gt;\n&lt;font size='14'&gt;增加精准度&lt;font color='#42ebf8'&gt;&lt;/font&gt;\n&lt;font color='#42ebf8'&gt;不会降低伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_shg33_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.4X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式时&lt;font color='#42ebf8'&gt; 1.4 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_sr31_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式时&lt;font color='#42ebf8'&gt; 4.5 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_sr31_sc_d_ingame">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n &lt;font color='#42ebf8'&gt;Do not decrease &lt;/font&gt;damage"/>
+		<translation value="消除&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪声&lt;/font&gt;\n&lt;font color='#42ebf8'&gt;不降低&lt;/font&gt;伤害"/>
+	</entry>
+	<entry key="as01_shop_name">
+		<original value="Advanced Assault Scope"/>
+		<translation value="步枪手高级瞄准镜"/>
+	</entry>
+	<entry key="as02_shop_name">
+		<original value="ELCAN SpecterOS"/>
+		<translation value="步枪手基础瞄准镜"/>
+	</entry>
+	<entry key="as03_shop_name">
+		<original value="Ultra-rare SMG Scope"/>
+		<translation value="冲锋枪超稀有瞄准镜"/>
+	</entry>
+	<entry key="as04_shop_name">
+		<original value="Trijicon ACOG"/>
+		<translation value="MCA 瞄准镜"/>
+	</entry>
+	<entry key="as05_shop_name">
+		<original value="Advanced SMG Scope"/>
+		<translation value="冲锋枪高级瞄准镜"/>
+	</entry>
+	<entry key="as06_shop_name">
+		<original value="Basic SMG Scope"/>
+		<translation value="冲锋枪基础瞄准镜"/>
+	</entry>
+	<entry key="ui_as01_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2 倍&lt;/font&gt;变焦\n"/>
+	</entry>
+	<entry key="ui_as02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2 倍&lt;/font&gt;变焦\n"/>
+	</entry>
+	<entry key="ui_as03_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;3 倍&lt;/font&gt;变焦\n快速&lt;font color='#42ebf8'&gt;变焦&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_as05_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt; in any position\n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2 倍&lt;/font&gt;变焦\n"/>
+	</entry>
+	<entry key="ui_as06_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;2 倍&lt;/font&gt;变焦\n"/>
+	</entry>
+	<entry key="ss01_default_name">
+		<original value="Fast Mid Range Scope 5X"/>
+		<translation value="快速中程 5 倍瞄准镜"/>
+	</entry>
+	<entry key="ss02_shop_name">
+		<original value="Short Range Sniper Scope 4X"/>
+		<translation value="短程 4 倍狙击镜"/>
+	</entry>
+	<entry key="ss04_shop_name">
+		<original value="Mid Range Sniper Scope 4.5X"/>
+		<translation value="中程 4.5 倍狙击镜"/>
+	</entry>
+	<entry key="ss06_shop_name">
+		<original value="Default Sniper Scope 5.5X"/>
+		<translation value="默认 5.5 倍狙击镜"/>
+	</entry>
+	<entry key="ui_ss01_ingame">
+		<original value="Fast Zoom &lt;font color='#42ebf8'&gt;5X&lt;/font&gt;"/>
+		<translation value="快速&lt;font color='#42ebf8'&gt; 5 倍&lt;/font&gt;变焦"/>
+	</entry>
+	<entry key="ui_ss02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;4X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;4 倍&lt;/font&gt;变焦"/>
+	</entry>
+	<entry key="ui_ss04_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;4.5X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;4.5 倍&lt;/font&gt;变焦\n"/>
+	</entry>
+	<entry key="ui_ss06_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;5.5X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;5.5 倍&lt;/font&gt;变焦\n"/>
+	</entry>
+	<entry key="ui_ss07_ingame">
+		<original value="TBD"/>
+		<translation value="待定"/>
+	</entry>
+	<entry key="gp01_shop_name">
+		<original value="SMG Grip"/>
+		<translation value="冲锋枪握把"/>
+	</entry>
+	<entry key="gp02_shop_name">
+		<original value="Assault Grip"/>
+		<translation value="步枪手握把"/>
+	</entry>
+	<entry key="gp03_shop_name">
+		<original value="Shared Grip"/>
+		<translation value="通用握把"/>
+	</entry>
+	<entry key="gp04_shop_name">
+		<original value="Light Weight Grip"/>
+		<translation value="轻量握把"/>
+	</entry>
+	<entry key="gp05_shop_name">
+		<original value="Haste Grip II"/>
+		<translation value="快速握把 II"/>
+	</entry>
+	<entry key="gp06_shop_name">
+		<original value="Haste Grip"/>
+		<translation value="快速握把"/>
+	</entry>
+	<entry key="gp07_shop_name">
+		<original value="Spread Grip"/>
+		<translation value="弹着握把"/>
+	</entry>
+	<entry key="gp08_shop_name">
+		<original value="Crywar Grip"/>
+		<translation value="战嚎握把"/>
+	</entry>
+	<entry key="gp09_shop_name">
+		<original value="Crywar Grip II"/>
+		<translation value="战嚎握把II"/>
+	</entry>
+	<entry key="ui_gp01_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy by 10%&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decrease recoil by 10%&lt;/font&gt; in hip and in aiming mode\n Not applied in prone"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="ui_gp02_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy by 10%&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decrease recoil by 10%&lt;/font&gt; in hip and in aiming mode\n Not applied in prone"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="ui_gp03_ingame">
+		<original value="Lightly improves &lt;font color='#42ebf8'&gt;accuracy by 5%&lt;/font&gt; \n Lightly decrease &lt;font color='#42ebf8'&gt;recoil by 5%&lt;/font&gt; \n Not applied in prone"/>
+		<translation value="略微增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n略微减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="ui_gp04_ingame">
+		<original value="Don't have any special&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; abilities&lt;/font&gt;\n"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp05_ingame">
+		<original value="Haste Speed &lt;font color='#42ebf8'&gt;+20%&lt;/font&gt;"/>
+		<translation value="冲刺速度&lt;font color='#42ebf8'&gt; +20% &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp06_ingame">
+		<original value="Haste Speed &lt;font color='#42ebf8'&gt;+10%&lt;/font&gt;"/>
+		<translation value="冲刺速度&lt;font color='#42ebf8'&gt; +10% &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp07_ingame">
+		<original value="Spread in none aiming mode &lt;font color='#42ebf8'&gt;-20%&lt;/font&gt;"/>
+		<translation value="未瞄准时弹着散布&lt;font color='#42ebf8'&gt; -20% &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp08_ingame">
+		<original value="Reload &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt; \n Spread in none aiming mode &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt;"/>
+		<translation value="装弹时间&lt;font color='#42ebf8'&gt; -10% &lt;/font&gt;\n未瞄准时弹着散布&lt;font color='#42ebf8'&gt; -10% &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gp09_ingame">
+		<original value="Stamina Consumption &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt; \n Haste Speed &lt;font color='#42ebf8'&gt;+10%&lt;/font&gt;"/>
+		<translation value="耐力消耗&lt;font color='#42ebf8'&gt; -10% &lt;/font&gt;\n冲刺速度&lt;font color='#42ebf8'&gt; +10% &lt;/font&gt;"/>
+	</entry>
+	<entry key="rds01_shop_name">
+		<original value="EOTech 553"/>
+		<translation value="反射式瞄具"/>
+	</entry>
+	<entry key="rds02_shop_name">
+		<original value="TRUGLO Red Dot Sight"/>
+		<translation value="红点瞄具"/>
+	</entry>
+	<entry key="rds03_shop_name">
+		<original value="Aimpoint CompM4s"/>
+		<translation value="瞄准器"/>
+	</entry>
+	<entry key="rds03_camo02_shop_name">
+		<original value="Aimpoint CompM4s Winter Camouflage"/>
+		<translation value="冬季迷彩版瞄准器"/>
+	</entry>
+	<entry key="rds04_shop_name">
+		<original value="Mojji Zero"/>
+		<translation value="高级反射式瞄具"/>
+	</entry>
+	<entry key="rds06_shop_name">
+		<original value="RDS06"/>
+		<translation value="特种反射式瞄具"/>
+	</entry>
+	<entry key="ui_rds01_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.4 倍&lt;/font&gt;变焦范围"/>
+	</entry>
+	<entry key="ui_rds02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.2 倍&lt;/font&gt;变焦范围"/>
+	</entry>
+	<entry key="ui_rds03_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.2 倍&lt;/font&gt;变焦范围\n增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_rds03_camo02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.5X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.5 倍&lt;/font&gt;变焦范围"/>
+	</entry>
+	<entry key="ui_rds04_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;\n Fast zoom \n Improves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.2 倍&lt;/font&gt;变焦范围\n快速变焦\n增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;"/>
+	</entry>
+	<entry key="sc01_shop_name">
+		<original value="SMG Silencer"/>
+		<translation value="冲锋枪消音器"/>
+	</entry>
+	<entry key="sc02_shop_name">
+		<original value="Shared Silencer"/>
+		<translation value="通用消音器"/>
+	</entry>
+	<entry key="sc03_shop_name">
+		<original value="Custom Pistol Silencer"/>
+		<translation value="定制版手枪消音器"/>
+	</entry>
+	<entry key="sc04_shop_name">
+		<original value="SHOTGUN Silencer"/>
+		<translation value="霰弹枪消音器"/>
+	</entry>
+	<entry key="sc05_shop_name">
+		<original value="Assault Silencer"/>
+		<translation value="步枪手消音器"/>
+	</entry>
+	<entry key="sc06_shop_name">
+		<original value="Sniper rifle Silencer"/>
+		<translation value="狙击步枪消音器"/>
+	</entry>
+	<entry key="ui_sc01_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="消除&lt;font color='#42ebf8'&gt;枪声。&lt;/font&gt;\n增加&lt;font color='#42ebf8'&gt;精准度。&lt;/font&gt;\n降低&lt;font color='#ED2323'&gt;伤害。&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc02_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Decrease &lt;font color='#FF4400'&gt;damage by 15%&lt;/font&gt;"/>
+		<translation value="消除&lt;font color='#42ebf8'&gt;枪声&lt;/font&gt;\n显著降低&lt;font color='#ED2323'&gt;伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc03_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy  by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="消除&lt;font color='#42ebf8'&gt;枪声。&lt;/font&gt;\n增加&lt;font color='#42ebf8'&gt;精准度。&lt;/font&gt;\n降低&lt;font color='#ED2323'&gt;伤害。&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc04_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy  by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage  by 10%&lt;/font&gt;"/>
+		<translation value="消除&lt;font color='#42ebf8'&gt;枪声。&lt;/font&gt;\n增加&lt;font color='#42ebf8'&gt;精准度。&lt;/font&gt;\n降低&lt;font color='#ED2323'&gt;伤害。&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc05_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy  by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="消除&lt;font color='#42ebf8'&gt;枪声。&lt;/font&gt;\n增加&lt;font color='#42ebf8'&gt;精准度。&lt;/font&gt;\n降低&lt;font color='#ED2323'&gt;伤害。&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sc06_ingame">
+		<original value="Elliminates &lt;font color='#42ebf8'&gt;sound &lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt;\n Decreases &lt;font color='#FF4400'&gt;damage by 10%&lt;/font&gt;"/>
+		<translation value="消除&lt;font color='#42ebf8'&gt;枪声。&lt;/font&gt;\n增加&lt;font color='#42ebf8'&gt;精准度。&lt;/font&gt;\n降低&lt;font color='#ED2323'&gt;伤害。&lt;/font&gt;"/>
+	</entry>
+	<entry key="sp01_shop_name">
+		<original value="Machinegun Suppressor"/>
+		<translation value="机枪抑制器"/>
+	</entry>
+	<entry key="sp02_shop_name">
+		<original value="SMG Suppressor"/>
+		<translation value="冲锋枪抑制器"/>
+	</entry>
+	<entry key="sp03_shop_name">
+		<original value="Assault Suppressor"/>
+		<translation value="步枪手抑制器"/>
+	</entry>
+	<entry key="sp04_shop_name">
+		<original value="Sniper Rifle Suppressor"/>
+		<translation value="狙击步枪抑制器"/>
+	</entry>
+	<entry key="sp05_shop_name">
+		<original value="Pistol Suppressor"/>
+		<translation value="手枪抑制器"/>
+	</entry>
+	<entry key="sp06_shop_name">
+		<original value="SHOTGUN Suppressor"/>
+		<translation value="霰弹枪抑制器"/>
+	</entry>
+	<entry key="sp07_shop_name">
+		<original value="Crywar Suppressor I"/>
+		<translation value="战嚎抑制器 I"/>
+	</entry>
+	<entry key="ui_sp01_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration by 30%&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp03_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration by 30%&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp04_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration by 30%&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp05_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration by 50%&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp06_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration by 50%&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_sp07_ingame">
+		<original value="Recoil &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt; \n Spread &lt;font color='#42ebf8'&gt;-10%&lt;/font&gt; \n TBD_Light Remove"/>
+		<translation value="后坐力&lt;font color='#42ebf8'&gt; -10% &lt;/font&gt;\n弹着散布&lt;font color='#42ebf8'&gt; -10% &lt;/font&gt;\n移除 TBD_Light"/>
+	</entry>
+	<entry key="ui_sp09_ingame">
+		<original value="Recoil &lt;font color='#42ebf8'&gt;-15%&lt;/font&gt; \n Spread &lt;font color='#42ebf8'&gt;-5%&lt;/font&gt; \n TBD_Light Remove"/>
+		<translation value="后坐力&lt;font color='#42ebf8'&gt; -15% &lt;/font&gt;\n弹着散布&lt;font color='#42ebf8'&gt; -5% &lt;/font&gt;\n移除 TBD_Light"/>
+	</entry>
+	<entry key="ui_sp10_ingame">
+		<original value="TBD_Light remove"/>
+		<translation value="移除 TBD_Light"/>
+	</entry>
+	<entry key="ugl02_shop_name">
+		<original value="UB Grenade Launcher"/>
+		<translation value="榴弹发射器"/>
+	</entry>
+	<entry key="ui_ugl02_ingame">
+		<original value="Stamina consumption &lt;font color='#FF4400'&gt;+10%&lt;/font&gt; \n Sway &lt;font color='#FF4400'&gt;+50%&lt;/font&gt; \n"/>
+		<translation value="耐力消耗&lt;font color='#ED2323'&gt; +10% &lt;/font&gt;\n枪口晃动&lt;font color='#ED2323'&gt; +50% &lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ugl01_shop_name">
+		<original value="UB Grenade Launcher"/>
+		<translation value="榴弹发射器"/>
+	</entry>
+	<entry key="ui_ugl01_ingame">
+		<original value="Underbarrel &lt;font color='#42ebf8'&gt; grenade launcher&lt;/font&gt; \nSlightly increases &lt;font color='#ff4400'&gt;recoil&lt;/font&gt;"/>
+		<translation value="下挂式&lt;font color='#42ebf8'&gt;榴弹发射器&lt;/font&gt;\n会增加一些&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;"/>
+	</entry>
+	<entry key="gl_is_01_shop_name">
+		<original value="Grenade meter"/>
+		<translation value="榴弹标尺"/>
+	</entry>
+	<entry key="ui_accessories_gl_is_01">
+		<original value="is working with Under Grenade Launcher but it &lt;font color='#42ebf8'&gt;decreases haste speed by 10%&lt;/font&gt; and &lt;font color='#42ebf8'&gt;Sway by 50%.&lt;/font&gt;"/>
+		<translation value="和下挂式榴弹发射器一起使用，&lt;font color='#42ebf8'&gt;降低冲刺速度 10% &lt;/font&gt;同时&lt;font color='#42ebf8'&gt;增加枪口晃动 50% 。&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_gl_is_01_ingame">
+		<original value="Haste speed &lt;font color='#FF4400'&gt;-10%&lt;/font&gt; \n Sway &lt;font color='#FF4400'&gt;+50%&lt;/font&gt;"/>
+		<translation value="冲刺速度&lt;font color='#ED2323'&gt; -10% &lt;/font&gt;\n枪口晃动&lt;font color='#ED2323'&gt; +50% &lt;/font&gt;"/>
+	</entry>
+	<entry key="ubrs01_shop_name">
+		<original value="UBRS Type1"/>
+		<translation value="UBRS 1式"/>
+	</entry>
+	<entry key="ubrs02_shop_name">
+		<original value="UBRS Type2"/>
+		<translation value="UBRS 2式"/>
+	</entry>
+	<entry key="ubrs03_shop_name">
+		<original value="UBRS Type3"/>
+		<translation value="UBRS 3式"/>
+	</entry>
+	<entry key="ubrs04_shop_name">
+		<original value="UBRS Type4"/>
+		<translation value="UBRS 4式"/>
+	</entry>
+	<entry key="ubrs05_shop_name">
+		<original value="UBRS Type5"/>
+		<translation value="UBRS 5式"/>
+	</entry>
+	<entry key="ubrs06_shop_name">
+		<original value="UBRS Type6"/>
+		<translation value="UBRS 6式"/>
+	</entry>
+	<entry key="ubrs07_shop_name">
+		<original value="UBRS Type7"/>
+		<translation value="UBRS 7式"/>
+	</entry>
+	<entry key="ubrs08_shop_name">
+		<original value="UBRS Type8"/>
+		<translation value="UBRS 8式"/>
+	</entry>
+	<entry key="ubrs09_shop_name">
+		<original value="UBRS Type9"/>
+		<translation value="UBRS 9式"/>
+	</entry>
+	<entry key="ubrs10_shop_name">
+		<original value="UBRS Type10"/>
+		<translation value="UBRS 10式"/>
+	</entry>
+	<entry key="ui_ubrs01_ingame">
+		<original value="Crosshair type#1"/>
+		<translation value="1 型准星"/>
+	</entry>
+	<entry key="ui_ubrs02_ingame">
+		<original value="Crosshair type#2"/>
+		<translation value="2 型准星"/>
+	</entry>
+	<entry key="ui_ubrs03_ingame">
+		<original value="Crosshair type#3"/>
+		<translation value="3 型准星"/>
+	</entry>
+	<entry key="ui_ubrs04_ingame">
+		<original value="Crosshair type#4"/>
+		<translation value="4 型准星"/>
+	</entry>
+	<entry key="ui_ubrs05_ingame">
+		<original value="Crosshair type#5"/>
+		<translation value="5 型准星"/>
+	</entry>
+	<entry key="ui_ubrs06_ingame">
+		<original value="Crosshair type#6"/>
+		<translation value="6 型准星"/>
+	</entry>
+	<entry key="ui_ubrs07_ingame">
+		<original value="Crosshair type#7"/>
+		<translation value="7 型准星"/>
+	</entry>
+	<entry key="ui_ubrs08_ingame">
+		<original value="Crosshair type#8"/>
+		<translation value="8 型准星"/>
+	</entry>
+	<entry key="ui_ubrs09_ingame">
+		<original value="Crosshair type#9"/>
+		<translation value="9 型准星"/>
+	</entry>
+	<entry key="ui_ubrs10_ingame">
+		<original value="Crosshair type#10"/>
+		<translation value="10 型准星"/>
+	</entry>
+	<entry key="bn01_shop_name">
+		<original value="SHOTGUN Bayonet"/>
+		<translation value="霰弹枪刺刀"/>
+	</entry>
+	<entry key="bn02_shop_name">
+		<original value="Assault Bayonet"/>
+		<translation value="步枪手刺刀"/>
+	</entry>
+	<entry key="bn03_shop_name">
+		<original value="SMG Bayonet"/>
+		<translation value="冲锋枪刺刀"/>
+	</entry>
+	<entry key="bn04_shop_name">
+		<original value="Machinegun Bayonet"/>
+		<translation value="机枪刺刀"/>
+	</entry>
+	<entry key="bn05_shop_name">
+		<original value="Pistol Bayonet"/>
+		<translation value="手枪刺刀"/>
+	</entry>
+	<entry key="ui_bn01_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn02_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn03_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn04_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn05_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="bp01_shop_name">
+		<original value="Sniper Rifle Bipod"/>
+		<translation value="狙击步枪两脚架"/>
+	</entry>
+	<entry key="bp02_shop_name">
+		<original value="Machinegun Bipod"/>
+		<translation value="机枪两脚架"/>
+	</entry>
+	<entry key="bp03_shop_name">
+		<original value="Special Sniper Bipod"/>
+		<translation value="狙击枪特种两脚架"/>
+	</entry>
+	<entry key="bp04_shop_name">
+		<original value="Spread Bipod"/>
+		<translation value="弹着两脚架"/>
+	</entry>
+	<entry key="bp05_shop_name">
+		<original value="Cry Bipod I"/>
+		<translation value="战嚎两脚架 I"/>
+	</entry>
+	<entry key="bp06_shop_name">
+		<original value="Cry Bipod II"/>
+		<translation value="战嚎两脚架 II"/>
+	</entry>
+	<entry key="bp07_shop_name">
+		<original value="Cry Bipod III"/>
+		<translation value="战嚎两脚架 III"/>
+	</entry>
+	<entry key="ui_bp01_ingame">
+		<original value="Lightly: \n Decreases &lt;font color='#42ebf8'&gt;recoil by 10%&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway by 50%&lt;/font&gt; in prone by 10%\n"/>
+		<translation value="略微：\n俯卧时减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_bp03_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;recoil by 30%&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway by 90%&lt;/font&gt; in prone by 15%\n"/>
+		<translation value="俯卧时减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="gpp01_shop_name">
+		<original value="Assault Grippod"/>
+		<translation value="步枪手握把架"/>
+	</entry>
+	<entry key="gpp02_shop_name">
+		<original value="SMG Grippod"/>
+		<translation value="冲锋枪握把架"/>
+	</entry>
+	<entry key="gpp03_shop_name">
+		<original value="TBD_gpp03"/>
+		<translation value="TBD_gpp03"/>
+	</entry>
+	<entry key="gpp04_shop_name">
+		<original value="TBD_gpp04"/>
+		<translation value="TBD_gpp04"/>
+	</entry>
+	<entry key="gpp05_shop_name">
+		<original value="TBD_gpp05"/>
+		<translation value="TBD_gpp05"/>
+	</entry>
+	<entry key="gpp06_shop_name">
+		<original value="TBD_gpp06"/>
+		<translation value="TBD_gpp06"/>
+	</entry>
+	<entry key="ui_accessories_gpp03">
+		<original value="TBD \n Stamina consumption -10% \n Recoil in prone -10% \n Crosshair type#3"/>
+		<translation value="待定\n耐力消耗 -10%\n俯卧时后坐力 -10%\n#3 型准星"/>
+	</entry>
+	<entry key="ui_accessories_gpp04">
+		<original value="TBD \n Haste speed -10% \n Sway -25% \n Crosshair type#4"/>
+		<translation value="待定\n开镜速度 -10%\n枪口晃动 -25%\n#4 型准星"/>
+	</entry>
+	<entry key="ui_accessories_gpp05">
+		<original value="TBD \n Spread in none aiming mode -10% \n Spread in prone -10% \n Crosshair type#5"/>
+		<translation value="待定\n非瞄准模式时弹着散布 -10%\n俯卧时弹着散布 -10%\n#5 型准星"/>
+	</entry>
+	<entry key="ui_accessories_gpp06">
+		<original value="TBD \n Recoil in none aiming mode -10% \n Recoil in prone -10% \n Crosshair type#6"/>
+		<translation value="待定\n非瞄准模式时后坐力 -10%\n俯卧时后坐力 -10%\n#6 型准星"/>
+	</entry>
+	<entry key="ps01_shop_name">
+		<original value="Pistol Scope 1.5X"/>
+		<translation value="2.0 倍手枪瞄准镜"/>
+	</entry>
+	<entry key="ps02_shop_name">
+		<original value="TBD_ps02"/>
+		<translation value="TBD_ps02"/>
+	</entry>
+	<entry key="ps03_shop_name">
+		<original value="TBD_ps03"/>
+		<translation value="TBD_ps03"/>
+	</entry>
+	<entry key="ui_accessories_ps02">
+		<original value="TBD \n 2X zoom range \n Aiming recoil -30%"/>
+		<translation value="待定\n2 倍变焦范围\n瞄准时后坐力 -30%"/>
+	</entry>
+	<entry key="ui_accessories_ps03">
+		<original value="TBD \n 3X zoom range \n Aiming speed +30%"/>
+		<translation value="待定\n3 倍变焦范围\n瞄准速度 +30%"/>
+	</entry>
+	<entry key="ui_ps01_ingame">
+		<original value="Zoom range &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n"/>
+		<translation value="变焦范围增加到&lt;font color='#42ebf8'&gt; 2 倍&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ui_ps02_ingame">
+		<original value="Zoom range &lt;font color='#42ebf8'&gt;2X&lt;/font&gt; \n Aiming recoil &lt;font color='#42ebf8'&gt;+30%&lt;/font&gt;"/>
+		<translation value="变焦范围增加到&lt;font color='#42ebf8'&gt; 2 倍&lt;/font&gt;\n瞄准时后坐力优化&lt;font color='#42ebf8'&gt; +30% &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_ps03_ingame">
+		<original value="Zoom range &lt;font color='#42ebf8'&gt;3X&lt;/font&gt; \n Aiming speed &lt;font color='#42ebf8'&gt;+15%&lt;/font&gt;"/>
+		<translation value="变焦范围增加到&lt;font color='#42ebf8'&gt; 3 倍&lt;/font&gt;\n瞄准速度增加&lt;font color='#42ebf8'&gt; +15% &lt;/font&gt;"/>
+	</entry>
+	<entry key="psb01_shop_name">
+		<original value="Crywar Pistol bayobnet"/>
+		<translation value="战嚎手枪刺刀"/>
+	</entry>
+	<entry key="psb02_shop_name">
+		<original value="TBD_psb02"/>
+		<translation value="TBD_psb02"/>
+	</entry>
+	<entry key="psb03_shop_name">
+		<original value="TBD_psb03"/>
+		<translation value="TBD_psb03"/>
+	</entry>
+	<entry key="ui_accessories_psb02">
+		<original value="TBD \n Aiming speed +15%"/>
+		<translation value="待定\n瞄准速度 +15%"/>
+	</entry>
+	<entry key="ui_accessories_psb03">
+		<original value="TBD \n Reload +5% \n Aiming speed +10%"/>
+		<translation value="待定\n装弹速度 +5%\n瞄准速度 +10%"/>
+	</entry>
+	<entry key="ui_psb01_ingame">
+		<original value="Aiming speed &lt;font color='#FF4400'&gt;+30%&lt;/font&gt;"/>
+		<translation value="瞄准速度&lt;font color='#ED2323'&gt; +30% &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_psb02_ingame">
+		<original value="Aiming speed &lt;font color='#FF4400'&gt;+15%&lt;/font&gt;"/>
+		<translation value="瞄准速度&lt;font color='#ED2323'&gt; +15% &lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_psb03_ingame">
+		<original value="Reload &lt;font color='#FF4400'&gt;+5%&lt;/font&gt; \n Aiming speed &lt;font color='#FF4400'&gt;+10%&lt;/font&gt;"/>
+		<translation value="装弹速度&lt;font color='#ED2323'&gt; +5% &lt;/font&gt;\n瞄准速度&lt;font color='#ED2323'&gt; +10% &lt;/font&gt;"/>
+	</entry>
+	<entry key="pt24_sc_d_name">
+		<original value="BraMit silencer"/>
+		<translation value="西西米特消音器"/>
+	</entry>
+	<entry key="sr09_sc_d_name">
+		<original value="McMillan CS5 Silencer"/>
+		<translation value="CS5 McMillan 消音器"/>
+	</entry>
+	<entry key="ui_sr09_sc_d">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ss02_camo02_shop_name">
+		<original value="Short Range Sniper Scope 4X Winter Camo"/>
+		<translation value="冬季迷彩版短程 4 倍狙击镜"/>
+	</entry>
+	<entry key="ui_ss02_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;4X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;4 倍&lt;/font&gt;变焦"/>
+	</entry>
+	<entry key="ss04_camo02_shop_name">
+		<original value="Mid Range Sniper Scope 4.5X Winter Camo"/>
+		<translation value="冬季迷彩版中程 4.5 倍狙击镜"/>
+	</entry>
+	<entry key="ui_ss04_camo02_ingame">
+		<original value="Zoom &lt;font color='#42ebf8'&gt;4.5X&lt;/font&gt; \n"/>
+		<translation value="&lt;font color='#42ebf8'&gt;4.5 倍&lt;/font&gt;变焦\n"/>
+	</entry>
+	<entry key="ss06_camo02_shop_name">
+		<original value="Default Sniper Scope 5.5X Winter Camo"/>
+		<translation value="冬季迷彩版默认 5.5 倍狙击镜"/>
+	</entry>
+	<entry key="ss03_camo02_shop_name">
+		<original value="Fast Mid Range Scope 5X Winter Camo"/>
+		<translation value="冬季迷彩版快速中程 5 倍瞄准镜"/>
+	</entry>
+	<entry key="ui_ss03_camo02_ingame">
+		<original value="Fast Zoom &lt;font color='#42ebf8'&gt;5X&lt;/font&gt;"/>
+		<translation value="快速&lt;font color='#42ebf8'&gt; 5 倍&lt;/font&gt;变焦"/>
+	</entry>
+	<entry key="bn01_camo02_shop_name">
+		<original value="Shotgun Bayonet Winter Camo"/>
+		<translation value="冬季迷彩版霰弹枪刺刀"/>
+	</entry>
+	<entry key="bn02_camo02_shop_name">
+		<original value="Assault Bayonet Winter Camo"/>
+		<translation value="冬季迷彩版步枪手刺刀"/>
+	</entry>
+	<entry key="bn03_camo02_shop_name">
+		<original value="SMG Bayonet Winter Camo"/>
+		<translation value="冬季迷彩版冲锋枪刺刀"/>
+	</entry>
+	<entry key="bn05_camo02_shop_name">
+		<original value="Pistol Bayonet Winter Camo"/>
+		<translation value="冬季迷彩版手枪刺刀"/>
+	</entry>
+	<entry key="ui_bn01_camo02_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn02_camo02_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn03_camo02_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_bn05_camo02_ingame">
+		<original value="Increases &lt;font color='#42ebf8'&gt;melee attack damage&lt;/font&gt;"/>
+		<translation value="增加&lt;font color='#42ebf8'&gt;近战攻击伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="sc01_camo02_shop_name">
+		<original value="SMG Silencer Winter Camo"/>
+		<translation value="冬季迷彩版冲锋枪消音器"/>
+	</entry>
+	<entry key="sc02_camo02_shop_name">
+		<original value="Shared Silencer Winter Camo"/>
+		<translation value="冬季迷彩版通用消音器"/>
+	</entry>
+	<entry key="sc03_camo02_shop_name">
+		<original value="Custom Pistol Silencer Winter Camo"/>
+		<translation value="冬季迷彩版定制版手枪消音器"/>
+	</entry>
+	<entry key="sc04_camo02_shop_name">
+		<original value="Shotgun Silencer Winter Camo"/>
+		<translation value="冬季迷彩版霰弹枪消音器"/>
+	</entry>
+	<entry key="sc05_camo02_shop_name">
+		<original value="Assault Silencer Winter Camo"/>
+		<translation value="冬季迷彩版步枪手消音器"/>
+	</entry>
+	<entry key="sc06_camo02_shop_name">
+		<original value="Sniper rifle Silencer Winter Camo"/>
+		<translation value="冬季迷彩版狙击步枪消音器"/>
+	</entry>
+	<entry key="sp02_camo02_shop_name">
+		<original value="SMG Suppressor Winter Camo"/>
+		<translation value="冬季迷彩版冲锋枪抑制器"/>
+	</entry>
+	<entry key="sp03_camo02_shop_name">
+		<original value="Assault Suppressor Winter Camo"/>
+		<translation value="冬季迷彩版突击抑制器"/>
+	</entry>
+	<entry key="sp04_camo02_shop_name">
+		<original value="Sniper Rifle Suppressor Winter Camo"/>
+		<translation value="冬季迷彩版狙击步枪抑制器"/>
+	</entry>
+	<entry key="sp05_camo02_shop_name">
+		<original value="Pistol Suppressor Winter Camo"/>
+		<translation value="冬季迷彩版手枪抑制器"/>
+	</entry>
+	<entry key="sp06_camo02_shop_name">
+		<original value="Shotgun Suppressor Winter Camo"/>
+		<translation value="冬季迷彩版霰弹枪抑制器"/>
+	</entry>
+	<entry key="as01_camo02_shop_name">
+		<original value="Advanced Assault Scope Winter Camo"/>
+		<translation value="冬季迷彩版突击高级瞄准镜"/>
+	</entry>
+	<entry key="as02_camo02_shop_name">
+		<original value="ELCAN SpecterOS Winter Camo"/>
+		<translation value="冬季迷彩版机枪基础瞄准镜"/>
+	</entry>
+	<entry key="as03_camo02_shop_name">
+		<original value="Ultra-rare SMG Scope Winter Camo"/>
+		<translation value="冬季迷彩版冲锋枪超稀有瞄准镜"/>
+	</entry>
+	<entry key="as04_camo02_shop_name">
+		<original value="Trijicon ACOG Winter Camo"/>
+		<translation value="冬季迷彩版 MCA 瞄准镜"/>
+	</entry>
+	<entry key="as05_camo02_shop_name">
+		<original value="Advanced SMG Scope Winter Camo"/>
+		<translation value="冬季迷彩版冲锋枪高级瞄准镜"/>
+	</entry>
+	<entry key="as06_camo02_shop_name">
+		<original value="Basic SMG Scope Winter Camo"/>
+		<translation value="冬季迷彩版冲锋枪基础瞄准镜"/>
+	</entry>
+	<entry key="rds01_camo02_shop_name">
+		<original value="EOTech 553 Winter Camo"/>
+		<translation value="冬季迷彩版反射式瞄具"/>
+	</entry>
+	<entry key="rds02_camo02_shop_name">
+		<original value="TRUGLO Red Dot Sight Winter Camo"/>
+		<translation value="冬季迷彩版红点瞄具"/>
+	</entry>
+	<entry key="rds05_camo02_shop_name">
+		<original value="Aimpoint CompM4s Winter Camo"/>
+		<translation value="冬季迷彩版瞄具"/>
+	</entry>
+	<entry key="rds04_camo02_shop_name">
+		<original value="Mojji Zero Winter Camo"/>
+		<translation value="冬季迷彩版高级反射式瞄具"/>
+	</entry>
+	<entry key="ui_rds01_camo02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.2 倍&lt;/font&gt;变焦范围"/>
+	</entry>
+	<entry key="ui_rds02_camo02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.2 倍&lt;/font&gt;变焦范围"/>
+	</entry>
+	<entry key="ui_rds05_camo02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.5X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.5 倍&lt;/font&gt;变焦范围"/>
+	</entry>
+	<entry key="ui_rds04_camo02_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;\n Fast zoom \n Improves &lt;font color='#42ebf8'&gt;accuracy by 20%&lt;/font&gt; \n Decrease &lt;font color='#42ebf8'&gt;recoil by 20%&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.2 倍&lt;/font&gt;变焦范围\n快速变焦\n增加精准度&lt;font color='#42ebf8'&gt;&lt;/font&gt;\n减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;"/>
+	</entry>
+	<entry key="shg31_bn_d_shop_name">
+		<original value="Trenchgun M97 Bayonet"/>
+		<translation value="Trenchgun M97 刺刀"/>
+	</entry>
+	<entry key="ar41_ss_d_shop_name">
+		<original value="ZF4 Scope"/>
+		<translation value="ZF4 瞄准镜"/>
+	</entry>
+	<entry key="pt14_rds_d_name">
+		<original value="Trijicon RMR Adjustable LED"/>
+		<translation value="Trijicon RMR 可调节 LED 灯"/>
+	</entry>
+	<entry key="pt14_sc_d_name">
+		<original value="Custom tactical silencer"/>
+		<translation value="定制版战术消音器"/>
+	</entry>
+	<entry key="shg33_rds_d_name">
+		<original value="Trijicon RMR Adjustable LED"/>
+		<translation value="Trijicon RMR 可调节 LED 灯"/>
+	</entry>
+	<entry key="sr31_ss_d_shop_name">
+		<original value="Schmidt &amp; Bender Scope H2CMR"/>
+		<translation value="Schmidt &amp; Bender 瞄准镜 H2CMR"/>
+	</entry>
+	<entry key="sr31_sc_d_name">
+		<original value="AX 308 Custom Tactical Silencer"/>
+		<translation value="AX 定制版战术消音器"/>
+	</entry>
+	<entry key="smg31_gp_d_name">
+		<original value="SCAR-L PDW Tactical Grip"/>
+		<translation value="SCAR-L PDW 战术握把"/>
+	</entry>
+	<entry key="ui_smg31_gp_d">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ui_smg31_gp_d_ingame">
+		<original value="Improves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy by 15%&lt;/font&gt;\nIncreases &lt;font color='#42ebf8' size='14'&gt;reload speed by 15%&lt;/font&gt;\nGreatly decrease &lt;font color='#42ebf8' size='14'&gt;sway by 80%&lt;/font&gt;Not applied in prone"/>
+		<translation value="增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;装弹速度&lt;/font&gt;\n大幅减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="pt30_sp_d_name">
+		<original value="Silver suppressor"/>
+		<translation value="白银抑制器"/>
+	</entry>
+	<entry key="ui_pt30_pink01_sp_d">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ui_pt30_pink01_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \n Decreases &lt;font color='#42ebf8'&gt;damage drop by 20%&lt;/font&gt; \n Improves &lt;font color='#42ebf8'&gt;penetration by 30%&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="pt30_pink01_sc_d_name">
+		<original value="Silver silencer"/>
+		<translation value="白银消音器"/>
+	</entry>
+	<entry key="ui_pt30_pink01_sc_d">
+		<original/>
+		<translation/>
+	</entry>
+	<entry key="ui_pt30_pink01_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;Eliminates&lt;font color='#42ebf8'&gt; sound &lt;/font&gt;\n &lt;font color='#42ebf8'&gt;Do not decreases damage&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;消除&lt;font color='#42ebf8'&gt;枪声&lt;/font&gt;\n&lt;font size='14'&gt;增加&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n&lt;font color='#42ebf8'&gt;不会降低伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr34_sp_d_name">
+		<original value="Steyr Scout Custom Silencer"/>
+		<translation value="Steyr Scout 定制版消音器"/>
+	</entry>
+	<entry key="ui_sr34_sp_d_ingame">
+		<original value="&lt;font size='14'&gt;Eliminates&lt;font color='#42ebf8'&gt; sound &lt;/font&gt;\n &lt;font size='14'&gt;Decreases &lt;font color='#ff6660'&gt;range by 18%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;消除&lt;font color='#42ebf8'&gt;枪声&lt;/font&gt;\n&lt;font size='14'&gt;降低&lt;font color='#ff6660'&gt;射程&lt;/font&gt;\n&lt;font color='#ff6660'&gt;降低伤害 18%&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr34_bp_d_shop_name">
+		<original value="Steyr Scout Custom Bipod (Released)"/>
+		<translation value="Steyr Scout 定制版两脚架（展开状态）"/>
+	</entry>
+	<entry key="ui_sr34_bp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;recoil by 70%&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway by 1%&lt;/font&gt; in prone \n"/>
+		<translation value="俯卧时减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr34_gp_d_shop_name">
+		<original value="Steyr Scout Custom Bipod (Collapsed)"/>
+		<translation value="Steyr Scout 定制版两脚架（折叠状态）"/>
+	</entry>
+	<entry key="ui_sr34_gp_d_ingame">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed by 30%&lt;/font&gt;\n"/>
+		<translation value="提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;武器切换速度&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg39_gp01_d_name">
+		<original value="Venom Wraptor Forend"/>
+		<translation value="Sidewinder Venom 包覆者前护木"/>
+	</entry>
+	<entry key="ui_shg39_gp01_d_ingame">
+		<original value="Don't have any special&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; abilities&lt;/font&gt;\n"/>
+		<translation value="增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg39_gp02_d_name">
+		<original value="Venom Wraptor Grip"/>
+		<translation value="Sidewinder Venom 包覆者握把"/>
+	</entry>
+	<entry key="ui_shg39_gp02_d_ingame">
+		<original value="Increases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; RPM by 35&lt;/font&gt;\nIncreases &lt;font color='#42ebf8'&gt;spread by 11%&lt;/font&gt;"/>
+		<translation value="增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;射速&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr36_bp_d_shop_name">
+		<original value="Dragunov SVU Bipod (Released)"/>
+		<translation value="Dragunov SVU 两脚架（展开状态）"/>
+	</entry>
+	<entry key="ui_sr36_bp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;recoil by 55%&lt;/font&gt; in prone \n Decreases &lt;font color='#42ebf8'&gt;sway by 1%&lt;/font&gt; in prone \n"/>
+		<translation value="俯卧时减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时减少&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr36_gp_d_shop_name">
+		<original value="Dragunov SVU Bipod (Collapsed)"/>
+		<translation value="Dragunov SVU 两脚架（折叠状态）"/>
+	</entry>
+	<entry key="ui_sr36_gp_d_ingame">
+		<original value="Slightly increases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; HIP accuracy by 5%&lt;/font&gt;\n Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed by 30%&lt;/font&gt;\n"/>
+		<translation value="略微增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;直接瞄准精度&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;武器切换速度&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg36_is_d_name">
+		<original value="Magpul Iron Sight"/>
+		<translation value="Magpul 机械瞄具"/>
+	</entry>
+	<entry key="ui_smg36_is_d_ingame">
+		<original value="Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="快速&lt;font color='#42ebf8'&gt;变焦&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="rds07_shop_name">
+		<original value="EOTech 553"/>
+		<translation value="EOTech 553"/>
+	</entry>
+	<entry key="ui_accessories_rds07">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode\n"/>
+		<translation value="&lt;font size='14'&gt;瞄准时&lt;font color='#42ebf8'&gt;1.2 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ui_rds07_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.2X&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;1.2 倍&lt;/font&gt;变焦范围"/>
+	</entry>
+	<entry key="shg41_sc_d_name">
+		<original value="Custom tactical silencer"/>
+		<translation value="定制版战术消音器"/>
+	</entry>
+	<entry key="ui_shg41_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Imroves accuracy by 30%&lt;/font&gt; \n &lt;font color='#ff6660'&gt;Decreases damage by 30%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;增加精准度 30%&lt;/font&gt;\n&lt;font color='#ff6660'&gt;降低伤害 30%&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr39_ss_d_shop_name">
+		<original value="Razor HD Gen II"/>
+		<translation value="Razor HD 第 II 代"/>
+	</entry>
+	<entry key="ui_sr39_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.7X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式时&lt;font color='#42ebf8'&gt;快速 4.7 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ar28_sp_d_name">
+		<original value="Jailbreak muzzle"/>
+		<translation value="越狱消焰器"/>
+	</entry>
+	<entry key="ui_ar28_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;accuracy by 25%&lt;/font&gt;\n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n将&lt;font color='#42ebf8'&gt;精准度提高 25%&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg39_rds_d_shop_name">
+		<original value="RAMBO SP-6"/>
+		<translation value="RAMBO SP-6"/>
+	</entry>
+	<entry key="ui_smg39_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.8X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;瞄准模式下&lt;/font&gt;快速 1.8倍 变焦。\n"/>
+	</entry>
+	<entry key="ui_pt33_rds_d_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.3X&lt;/font&gt;\n Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt; \n"/>
+		<translation value="1.3 倍&lt;font color='#42ebf8'&gt;变焦范围&lt;/font&gt;\n快速&lt;font color='#42ebf8'&gt;变焦&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="pt33_rds_d_shop_name">
+		<original value="Leupold Deltapoint reflex sight"/>
+		<translation value="Leupold Deltapoint 反射式瞄具"/>
+	</entry>
+	<entry key="ar15_rds_d_shop_name">
+		<original value="Leupold Deltapoint reflex sight"/>
+		<translation value="Leupold Deltapoint 反射式瞄具"/>
+	</entry>
+	<entry key="ui_ar15_rds_d_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.3X&lt;/font&gt; \n Greatly Improves &lt;font color='#42ebf8'&gt;accuracy by 25%&lt;/font&gt; \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.3 倍&lt;/font&gt;\n变焦 大幅提升&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="pt34_sc_d_name">
+		<original value="Tactical Silencer"/>
+		<translation value="战术消音器"/>
+	</entry>
+	<entry key="ui_pt34_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n Slightly increases &lt;font color='#ff6660'&gt;damage drop by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n略微降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;远程攻击的伤害衰减&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar29_rds_d_shop_name">
+		<original value="Hartman MH1"/>
+		<translation value="哈特曼 MH1"/>
+	</entry>
+	<entry key="ui_ar29_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.4X zoom&lt;/font&gt; in aiming mode \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;瞄准模式下 1.4 倍变焦&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar29_as_d_shop_name">
+		<original value="Sig Sauer Romeo 4"/>
+		<translation value="SIG Sauer Romeo 4"/>
+	</entry>
+	<entry key="ui_ar29_as_d _ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.8X zoom&lt;/font&gt; in aiming mode \nIncreases &lt;font color='#42ebf8'&gt;aiming speed&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;瞄准模式下 1.8 倍变焦&lt;/font&gt;\n增加&lt;font color='#42ebf8'&gt;瞄准速度&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar29_sc_d_shop_name">
+		<original value="Tactical Silencer"/>
+		<translation value="战术消音器"/>
+	</entry>
+	<entry key="ui_ar29_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;Eliminates&lt;font color='#42ebf8'&gt; sound &lt;/font&gt;\n&lt;font size='14'&gt;Imroves &lt;font color='#42ebf8'&gt;accuracy by 10%&lt;/font&gt; \n&lt;font color='#42ebf8'&gt;Decreases &lt;font color='#ff6660'&gt;damage 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;消除&lt;font color='#42ebf8'&gt;枪声&lt;/font&gt;\n&lt;font size='14'&gt;提升&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt; \n&lt;font color='#42ebf8'&gt;降低 &lt;font color='#ff6660'&gt;伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar29_sp_d_shop_name">
+		<original value="AK-Alpha suppressor"/>
+		<translation value="AK 阿尔法抑制器"/>
+	</entry>
+	<entry key="ui_ar29_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop by 10%&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration by 30%&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt; \n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt; \n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="ar29_gp_d_shop_name">
+		<original value="Tactical grip"/>
+		<translation value="战术握把"/>
+	</entry>
+	<entry key="ui_ar29_gp_d_ingame">
+		<original value="Slightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil by 15%&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed by 10%&lt;/font&gt; Not applied in prone"/>
+		<translation value="略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;反冲动摇&lt;/font&gt;\n提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;装弹速度&lt;/font&gt; 俯卧时不适用"/>
+	</entry>
+	<entry key="sr43_ss_d_shop_name">
+		<original value="Schmidt &amp; Bender Scope v2 4.6X"/>
+		<translation value="Schmidt &amp; Bender v2 4.6倍瞄准镜"/>
+	</entry>
+	<entry key="ui_sr43_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;4.6X zoom&lt;/font&gt; in aiming mode. \nIncreases &lt;font color='#42ebf8'&gt;aiming speed&lt;/font&gt;."/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;瞄准模式下 4.6 倍变焦&lt;/font&gt;。\n提高&lt;font color='#42ebf8'&gt;瞄准速度&lt;/font&gt;。"/>
+	</entry>
+	<entry key="ulb01_shop_name">
+		<original value="UB Laser Sight"/>
+		<translation value="UB 激光瞄准器"/>
+	</entry>
+	<entry key="ui_ulb01_ingame">
+		<original value="Underbarrel &lt;font color='#42ebf8'&gt; laser sight&lt;/font&gt; \n"/>
+		<translation value="下挂式&lt;font color='#42ebf8'&gt;激光瞄准器&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="ui_accessories_ulb01">
+		<original value="&lt;font size='14'&gt;Laser sight &lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;激光瞄准器&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar30_gp_d_name">
+		<original value="FN FAL DSA-58 Tactical Grip"/>
+		<translation value="FN FAL DSA-58 战术握把"/>
+	</entry>
+	<entry key="ui_ar30_gp_d_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="大幅提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精准度&lt;/font&gt; \n略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;反冲动摇&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg42_gp01_d_name">
+		<original value="Uzi Pro Standart Grip"/>
+		<translation value="Uzi Pro 标准握把"/>
+	</entry>
+	<entry key="ui_smg42_gp01_d_ingame">
+		<original value="Decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nLightly improves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt; \nNot applied in prone"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n略微提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="smg42_gp02_d_name">
+		<original value="Uzi Pro Special Grip"/>
+		<translation value="Uzi Pro 特殊握把"/>
+	</entry>
+	<entry key="ui_smg42_gp02_d_ingame">
+		<original value="Lightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nImproves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt; \nNot applied in prone"/>
+		<translation value="略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="smg42_rds_d_shop_name">
+		<original value="MEPRO M21"/>
+		<translation value="MEPRO M21"/>
+	</entry>
+	<entry key="ui_smg42_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;瞄准模式下 1.3 倍快速变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="smg42_sp01_d_name">
+		<original value="Uzi Pro Suppressor"/>
+		<translation value="Uzi Pro 抑制器"/>
+	</entry>
+	<entry key="ui_smg42_sp01_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt;\n"/>
+		<translation value="降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt; \n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg42_sp02_d_name">
+		<original value="Uzi Pro Silencer"/>
+		<translation value="Uzi Pro 消音器"/>
+	</entry>
+	<entry key="ui_smg42_sp02_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和 &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;提高精准度&lt;/font&gt;\n&lt;font color='#ff6660'&gt;降低伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar31_default_name">
+		<original value="Special scope for VHS-2"/>
+		<translation value="VHS-2 的特别瞄准镜"/>
+	</entry>
+	<entry key="ar31_accessories_is_default">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2.5X zoom&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2.5X 增距&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar31_sp_d_name">
+		<original value="Special suppressor for VHS-2"/>
+		<translation value="VHS-2 的特别消音器"/>
+	</entry>
+	<entry key="ui_ar31_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt; \n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt; \n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="ui_accessories_ar31_sp_d">
+		<original value="&lt;font size='14'&gt;Special suppressor for VHS-2 &lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;VHS-2 的特别消音器&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_ar31_is_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X zoom&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;3X 增距&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar31_ugl_d_shop_name">
+		<original value="VHS-2 Grenade Launcher"/>
+		<translation value="VHS-2 榴弹发射器"/>
+	</entry>
+	<entry key="ui_accessories_ar31_ugl_d">
+		<original value="&lt;font size='14'&gt;Grenade launcher &lt;/font&gt;Slightly increases &lt;font color='#ff4400'&gt;recoil&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;榴弹发射器&lt;/font&gt;\n提高&lt;font color='#42ebf8'&gt;突破能力&lt;/font&gt;\n减少&lt;font color='#ff4400'&gt;精准度&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_ar31_ugl_d_ingame">
+		<original value="Underbarrel &lt;font color='#42ebf8'&gt; Grenade launcher&lt;/font&gt;\nSlightly increases &lt;font color='#ff4400'&gt;recoil&lt;/font&gt;"/>
+		<translation value="下挂式榴弹发射器&lt;/font&gt;\n提高&lt;font color='#42ebf8'&gt;突破能力&lt;/font&gt;\n减少&lt;font color='#ff4400'&gt;精准度&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar31_gp_d_shop_name">
+		<original value="VHS-2 Grip"/>
+		<translation value="VHS-2 枪把"/>
+	</entry>
+	<entry key="ui_accessories_ar31_gp_d">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n反冲动摇俯卧时不适用。"/>
+	</entry>
+	<entry key="ui_ar31_gp_d_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n反冲动摇俯卧时不适用。"/>
+	</entry>
+	<entry key="sr44_ss_d_shop_name">
+		<original value="Bushnell 4x scope"/>
+		<translation value="博士能 4x 瞄准镜"/>
+	</entry>
+	<entry key="ui_sr44_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;在瞄准模式中快速 4X 增距&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="sr44_sp_d_shop_name">
+		<original value="Remignton MSR Suppressor"/>
+		<translation value="雷明顿 MSR 消音器"/>
+	</entry>
+	<entry key="ui_sr44_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;minimal damage&lt;/font&gt;"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;最低伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr41_sc_d_name">
+		<original value="BraMit silencer"/>
+		<translation value="西西米特消音器"/>
+	</entry>
+	<entry key="ui_sr41_sc_d">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n&lt;font color='#ff4400'&gt;Decreases damage &lt;/font&gt;damage"/>
+		<translation value="消除&lt;font color='#42ebf8'&gt;枪声。&lt;/font&gt;\n降低&lt;font color='#ED2323'&gt;伤害。&lt;/font&gt;"/>
+	</entry>
+	<entry key="ui_sr41_sc_d_ingame">
+		<original value="Eliminates&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; sound&lt;/font&gt;\n&lt;font color='#ff4400'&gt;Decreases damage &lt;/font&gt;damage"/>
+		<translation value="消除&lt;font color='#42ebf8'&gt;枪声。&lt;/font&gt;\n降低&lt;font color='#ED2323'&gt;伤害。&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg44_gp_d_name">
+		<original value="Vector Tactical Grip"/>
+		<translation value="Vector 战术控制"/>
+	</entry>
+	<entry key="ui_smg44_gp_d_ingame">
+		<original value="Decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nImproves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="可降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n可提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n可提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;装弹速度&lt;/font&gt; \n&lt;font color='#FF4400'&gt;俯卧&lt;/font&gt;时不适用"/>
+	</entry>
+	<entry key="smg44_sc_d_name">
+		<original value="Vector Special Silencer"/>
+		<translation value="Vector 特别版消音器"/>
+	</entry>
+	<entry key="ui_smg44_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Lightly Decreases damage&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;可降低噪音&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;隐藏射手位置&lt;/font&gt;\n可提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n可轻微降低&lt;font color='#42ebf8'&gt;&lt;font color='#ff6660'&gt;伤害值&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg44_rds_d_name">
+		<original value="Redring MK2"/>
+		<translation value="Redring MK2 瞄准镜"/>
+	</entry>
+	<entry key="ui_smg44_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="快速&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.3X 增距&lt;/font&gt;提升\n极大地减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口抖动&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg44_is_d_name">
+		<original value="Vector Iron Sight"/>
+		<translation value="Vector 金属瞄准镜"/>
+	</entry>
+	<entry key="ui_smg44_is_d_ingame">
+		<original value="Fast &lt;font color='#42ebf8'&gt;zoom&lt;/font&gt;"/>
+		<translation value="快速&lt;font color='#42ebf8'&gt;增距&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="rds10_name">
+		<original value="RAMBO SP-6"/>
+		<translation value="RAMBO SP-6 瞄准镜"/>
+	</entry>
+	<entry key="ui_rds10_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.8X zoom&lt;/font&gt; in aiming mode.&lt;/font&gt;"/>
+		<translation value="快速&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.8X 增距&lt;/font&gt; 提升\n"/>
+	</entry>
+	<entry key="smg43_gp01_d_name">
+		<original value="Micro-Roni CAA Laser Sight Grip"/>
+		<translation value="Micro-Roni CAA 激光瞄准器握把"/>
+	</entry>
+	<entry key="ui_smg43_gp01_d_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil shake&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="大幅提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精准度&lt;/font&gt; \n略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;反冲动摇&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="smg43_gp02_d_name">
+		<original value="Micro-Roni CAA Special Grip"/>
+		<translation value="Micro-Roni CAA 特殊握把"/>
+	</entry>
+	<entry key="ui_smg43_gp02_d_ingame">
+		<original value="Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nDecreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil shake&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="略微提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精准度&lt;/font&gt; \n减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;反冲动摇&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="rds09_name">
+		<original value="Hartman MH1"/>
+		<translation value="哈特曼 MH1"/>
+	</entry>
+	<entry key="ui_rds09_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.4X zoom&lt;/font&gt; in aiming mode \n"/>
+		<translation value="瞄准模式下&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; 1.4 倍变焦&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="pt37_rds_d_name">
+		<original value="C-More red-dot sight"/>
+		<translation value="C-More 红点瞄准镜"/>
+	</entry>
+	<entry key="ui_pt37_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.2X zoom&lt;/font&gt; in aiming mode \n"/>
+		<translation value="在瞄准模式下可&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;快速 1.2X 增距&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sp08_shop_name">
+		<original value="Special Shotgun Suppressor"/>
+		<translation value="特殊霰弹枪抑制器"/>
+	</entry>
+	<entry key="ui_accessories_sp08">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt; \n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt; \n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="ui_sp08_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt; \n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt; \n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="ui_sr46_bp_d_ingame">
+		<original value="Decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nDecrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n减少俯卧&lt;font color='#42ebf8'&gt;晃动&lt;/font&gt;&lt;/font&gt; \n增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;切换速度&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="sr46_bp_d_shop_name">
+		<original value="Defence Falcon Bipod"/>
+		<translation value="反隼两脚架"/>
+	</entry>
+	<entry key="sr46_sc_d_name">
+		<original value="Cadex Defence Precision Silencer"/>
+		<translation value="Cadex Defence 精密消音器"/>
+	</entry>
+	<entry key="ui_sr46_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage&lt;/font&gt;\n&lt;font size='14'&gt;Greatly decreases &lt;font color='#ff6660'&gt;range&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;降低伤害&lt;/font&gt;\n&lt;font size='14'&gt;显著减少&lt;font color='#ff6660'&gt;射程&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr46_sp_d_shop_name">
+		<original value="Kraken Special Suppressor"/>
+		<translation value="特殊北海巨妖抑制器"/>
+	</entry>
+	<entry key="ui_sr46_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt; \n降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt; \n提升 &lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="sr46_ss_d_shop_name">
+		<original value="ATACR 4.5x scope"/>
+		<translation value="ATACR 4.5x 瞄准镜"/>
+	</entry>
+	<entry key="ui_sr46_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="瞄准模式下&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;4.5x 快速变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="shg49_xmas_rds_d_name">
+		<original value="Paper Cup Sight"/>
+		<translation value="纸杯瞄具"/>
+	</entry>
+	<entry key="ui_accessories_shg49_xmas_rds_d">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.1X zoom&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.1 倍变焦&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr45_gp_d_shop_name">
+		<original value="HK type Vertical Grip"/>
+		<translation value="HK 型垂直握把"/>
+	</entry>
+	<entry key="ui_sr45_gp_d_ingame">
+		<original value="Lightly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\nNot applied in prone&lt;/font&gt;"/>
+		<translation value="略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;\n提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;装弹速度&lt;/font&gt;\n增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;切换速度&lt;/font&gt;\n不适合俯卧&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr45_rds_d_shop_name">
+		<original value="Vector Optics Maverick Red Dot Sight"/>
+		<translation value="Vector Optics Maverick 红点瞄具"/>
+	</entry>
+	<entry key="ui_sr45_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2.5X zoom&lt;/font&gt; in aiming mode \n"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式下&lt;font color='#42ebf8'&gt;2.5 倍变焦&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr45_ss_d_shop_name">
+		<original value="Schmidt Bender 3 Scope 4.5x"/>
+		<translation value="Schmidt Bender 3 4.5 倍瞄准镜"/>
+	</entry>
+	<entry key="ui_sr45_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式下&lt;font color='#42ebf8'&gt;4.5 倍快速变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="sr45_sc_d_shop_name">
+		<original value="HK G28 Silencer"/>
+		<translation value="H&amp;K G28 消音器"/>
+	</entry>
+	<entry key="ui_sr45_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage&lt;/font&gt;"/>
+		<translation value="减弱&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font color='#ff6660'&gt;降低伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr45_sp_d_shop_name">
+		<original value="HK G28 suppressor"/>
+		<translation value="H&amp;K G28 抑制器"/>
+	</entry>
+	<entry key="ui_sr45_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration &lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Lightly decrease recoil&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt; \n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt; \n提升 &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;略微减少后坐力&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="smg45_rds_d_shop_name">
+		<original value="LWRC SMG-45 RDS"/>
+		<translation value="LWRC SMG-45 RDS"/>
+	</entry>
+	<entry key="ui_smg45_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式下&lt;font color='#42ebf8'&gt;1.3 倍快速变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="smg45_gp_d_name">
+		<original value="LWRC SMG-45 Angled Fore Grip"/>
+		<translation value="LWRC SMG-45 直角前握把"/>
+	</entry>
+	<entry key="ui_smg45_gp_d_ingame">
+		<original value="Slightly improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nGreatly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\n"/>
+		<translation value="略微提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n大幅减小&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;切换速度&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg48_rds_d_name">
+		<original value="Railway Red Dot Sight"/>
+		<translation value="C-More 红点瞄具"/>
+	</entry>
+	<entry key="ui_shg48_rds_d_ingame">
+		<original value="Zoom Range &lt;font color='#42ebf8'&gt;1.3X&lt;/font&gt;\nFast zoom \nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt; \n"/>
+		<translation value="1.3 倍&lt;font color='#42ebf8'&gt;变焦范围&lt;/font&gt;\n快速变焦\n可提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar32_sp_d_name">
+		<original value="Hera Arms CQR Supressor"/>
+		<translation value="Hera Arms CQR 抑制器"/>
+	</entry>
+	<entry key="ui_ar32_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nSlightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nSlightly improves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n略微降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n略微提升&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="pt38_sc01_d_name">
+		<original value="Maxim 9 Short Silencer"/>
+		<translation value="Maxim 9 短消音器"/>
+	</entry>
+	<entry key="ui_pt38_sc01_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Don`t decreases damage&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;不降低伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="pt38_sc02_d_name">
+		<original value="Maxim 9 Long Silencer"/>
+		<translation value="Maxim 9 长消音器"/>
+	</entry>
+	<entry key="ui_pt38_sc02_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Imroves accuracy&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Decreases recoil&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;提升精准度&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;减小后坐力&lt;/font&gt; \n&lt;font color='#ff4400'&gt;远程射击时&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="pt38_rds_d_name">
+		<original value="Trijicon RMR Adjustable LED"/>
+		<translation value="Trijicon RMR 可调节 LED 灯"/>
+	</entry>
+	<entry key="ui_pt38_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式下 &lt;font color='#42ebf8'&gt;1.2 倍变焦。&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg50_rds_d_name">
+		<original value="Viper MOA"/>
+		<translation value="Vortex Viper 准直式瞄准镜"/>
+	</entry>
+	<entry key="ui_shg50_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nImproves &lt;font color='#42ebf8'&gt;accuracy in aiming mode&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式下&lt;font color='#42ebf8'&gt;1.3 倍快速变焦&lt;/font&gt;。\n可提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sc08_shop_name">
+		<original value="Osprey 9 Silencer"/>
+		<translation value="Osprey 9 消音器"/>
+	</entry>
+	<entry key="ui_sc08_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage by 10%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和 &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;提高精准度&lt;/font&gt;\n&lt;font color='#ff6660'&gt;伤害降低 10%&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr09_sp_d_shop_name">
+		<original value="McMillan CS5 Suppressor"/>
+		<translation value="McMillan CS5 抑制器"/>
+	</entry>
+	<entry key="ui_sr09_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt; \n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt; \n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="shg51_sc_d_name">
+		<original value="Typhoon F12 Special Silencer"/>
+		<translation value="台风 F12 特别版消音器"/>
+	</entry>
+	<entry key="ui_shg51_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage by 10%&lt;/font&gt;\n&lt;font size='14'&gt;Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#ff4400'&gt;将伤害降低 10%&lt;/font&gt;\n&lt;font size='14'&gt;略微增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精度&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg51_sp_d_name">
+		<original value="Typhoon F12 Special Suppressor"/>
+		<translation value="台风 F12 特别版抑制器"/>
+	</entry>
+	<entry key="ui_shg51_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;反冲动摇&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg51_gp02_d_name">
+		<original value="Typhoon F12 Special Grip"/>
+		<translation value="台风 F12 特别版握把"/>
+	</entry>
+	<entry key="ui_shg51_gp02_d_ingame">
+		<original value="Greatly decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="大幅减小&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt; \n俯卧时不适用&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg51_gp01_d_name">
+		<original value="Typhoon F12 Tactical Grip"/>
+		<translation value="台风 F12 战术握把"/>
+	</entry>
+	<entry key="ui_shg51_gp01_d_ingame">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;武器切换速度&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;装弹速度&lt;/font&gt;\n俯卧时不适用&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg51_rds_d_name">
+		<original value="Romeo 3 Sight"/>
+		<translation value="Romeo 3 瞄具"/>
+	</entry>
+	<entry key="ui_shg51_rds_d_ingame">
+		<original value="Fast 1.3X zoom&lt;/font&gt; in aiming mode.\nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="瞄准模式下&lt;/font&gt;快速 1.3 倍变焦。\n提升&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="pt30_bp06_sp_d_name">
+		<original value="Black suppressor"/>
+		<translation value="黑色抑制器"/>
+	</entry>
+	<entry key="pt30_bp06_pink01_sc_d_name">
+		<original value="Black silencer"/>
+		<translation value="黑色消音器"/>
+	</entry>
+	<entry key="ar22_rds_d_name">
+		<original value="Leupold Deltapoint reflex sight"/>
+		<translation value="Leupold Deltapoint 反射式瞄具"/>
+	</entry>
+	<entry key="ui_ar22_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.2X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式时&lt;font color='#42ebf8'&gt; 1.2 倍变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ar35_sc_d_name">
+		<original value="AK-12 Special Silencer"/>
+		<translation value="AK-12 特别版消音器"/>
+	</entry>
+	<entry key="ui_ar35_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;\n&lt;font size='14'&gt;Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font color='#ff4400'&gt;使伤害降低 5%&lt;/font&gt;\n提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精准度&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar35_sp_d_name">
+		<original value="AK-12 Special Suppressor"/>
+		<translation value="AK-12 特别版抑制器"/>
+	</entry>
+	<entry key="ui_ar35_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;反冲动摇&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar35_gp_d_name">
+		<original value="AK-12 Special Grip"/>
+		<translation value="AK-12 特殊握把"/>
+	</entry>
+	<entry key="ui_ar35_gp_d_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;装弹速度&lt;/font&gt;\n不适用于&lt;font color='#FF4400'&gt;卧姿&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar35_rds01_d_name">
+		<original value="Romeo 4 Sight"/>
+		<translation value="Romeo 4 瞄具"/>
+	</entry>
+	<entry key="ui_ar35_rds01_d_ingame">
+		<original value="Fast 1.3X zoom&lt;/font&gt; in aiming mode.\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="瞄准模式下&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.3 倍快速变焦&lt;/font&gt;。\n减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr47_sp01_d_shop_name">
+		<original value="Truvelo CMS Special Suppressor"/>
+		<translation value="Truvelo CMS 特别版抑制器"/>
+	</entry>
+	<entry key="ui_sr47_sp01_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr47_sp02_d_shop_name">
+		<original value="Truvelo CMS Tactical Suppressor"/>
+		<translation value="Truvelo CMS 战术抑制器"/>
+	</entry>
+	<entry key="ui_sr47_sp02_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;minimal range&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;最小射程&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr48_sp01_d_name">
+		<original value="SV-98 Suppressor"/>
+		<translation value="SV-98 抑制器"/>
+	</entry>
+	<entry key="ui_sr48_sp01_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly improves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt;\n"/>
+		<translation value="减少&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n略微提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr48_sp02_d_name">
+		<original value="SV-98 DTK Special Suppressor"/>
+		<translation value="SV-98 特别版抑制器"/>
+	</entry>
+	<entry key="ui_sr48_sp02_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\n"/>
+		<translation value="减少&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr48_ss_d_name">
+		<original value="ATACR V2 4.5x scope"/>
+		<translation value="ATACR V2 4.5 倍瞄准镜"/>
+	</entry>
+	<entry key="ui_sr48_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;瞄准时&lt;font color='#42ebf8'&gt; 4.5 倍快速变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ar36_gp_d_name">
+		<original value="F90 MBR Special Grip"/>
+		<translation value="F90 MBR 特殊握把"/>
+	</entry>
+	<entry key="ui_ar36_gp_d_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nLightly Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\n"/>
+		<translation value="提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n略微减小&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n加快&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;装弹速度&lt;/font&gt;\n加快&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;切换速度&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg48_sc_d_name">
+		<original value="Cobalt Kinetics Special Silencer"/>
+		<translation value="科伯特动力公司特别版消音器"/>
+	</entry>
+	<entry key="ui_smg48_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;提高精准度&lt;/font&gt;\n&lt;font color='#ff6660'&gt;伤害降低 5%&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg48_gp01_d_name">
+		<original value="HALO MiniVert Grip V1"/>
+		<translation value="HALO MiniVert 握把版本 1"/>
+	</entry>
+	<entry key="ui_smg48_gp01_d_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="大幅增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精度&lt;/font&gt;\n略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;装弹速度&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="smg48_gp02_d_name">
+		<original value="MOD Billet Foregrip V1"/>
+		<translation value="MOD 金属前握把版本 1"/>
+	</entry>
+	<entry key="ui_smg48_gp02_d_ingame">
+		<original value="Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nGreatly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="略微增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精度&lt;/font&gt;\n大幅减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="smg48_rds_d_name">
+		<original value="Holosun MK2"/>
+		<translation value="Holosun MK3 准直式瞄准镜"/>
+	</entry>
+	<entry key="ui_smg48_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式下 &lt;font color='#42ebf8'&gt;1.3 倍快速变焦&lt;/font&gt;\n大幅减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar38_sc_d_name">
+		<original value="TI-RAID Silencer"/>
+		<translation value="TI-RAID 消音器"/>
+	</entry>
+	<entry key="ui_ar38_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Improves accuracy&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;提高精准度&lt;/font&gt;\n&lt;font color='#ff6660'&gt;伤害降低 5%&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar38_gp01_d_name">
+		<original value="HALO MiniVert Grip V2"/>
+		<translation value="HALO MiniVert 握把版本 2"/>
+	</entry>
+	<entry key="ui_ar38_gp01_d_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="大幅增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精度&lt;/font&gt;\n略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;装弹速度&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="ar38_gp02_d_name">
+		<original value="MOD Billet Foregrip V2"/>
+		<translation value="MOD 金属前握把版本 2"/>
+	</entry>
+	<entry key="ui_ar38_gp02_d_ingame">
+		<original value="Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nGreatly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="略微增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精度&lt;/font&gt;\n大幅减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="ar38_rds_d_name">
+		<original value="Holosun MK3"/>
+		<translation value="Holosun MK1 准直式瞄准镜"/>
+	</entry>
+	<entry key="ui_ar38_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式下 &lt;font color='#42ebf8'&gt;1.3 倍快速变焦&lt;/font&gt;\n大幅减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar38_sp_d_name">
+		<original value="Pro Muzzle Brake"/>
+		<translation value="专业版枪口制退器"/>
+	</entry>
+	<entry key="ui_ar38_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt; \n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt; \n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="shg53_sc_d_name">
+		<original value="Cobalt Kinetics Special Silencer"/>
+		<translation value="科伯特动力公司特别版消音器"/>
+	</entry>
+	<entry key="ui_shg53_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage by 10%&lt;/font&gt;\n&lt;font size='14'&gt;Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;将伤害降低 10%&lt;/font&gt;\n&lt;font size='14'&gt;略微增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精度&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg53_sp_d_name">
+		<original value="Cobalt Kinetics Special Suppressor"/>
+		<translation value="科伯特动力公司特别版抑制器"/>
+	</entry>
+	<entry key="ui_shg53_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;反冲动摇&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg53_gp02_d_name">
+		<original value="HALO MiniVert Grip V4"/>
+		<translation value="HALO MiniVert 握把版本 4"/>
+	</entry>
+	<entry key="ui_shg53_gp02_d_ingame">
+		<original value="Greatly decrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="大幅减小&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时不适用&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg53_gp01_d_name">
+		<original value="Typhoon F12 Custom Special Grip"/>
+		<translation value="台风 F12 定制版特别版握把"/>
+	</entry>
+	<entry key="ui_shg53_gp01_d_ingame">
+		<original value="Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;武器切换速度&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;装弹速度&lt;/font&gt;\n俯卧时不适用&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg53_rds_d_name">
+		<original value="Holosun MK4"/>
+		<translation value="Holosun MK2 准直式瞄准镜"/>
+	</entry>
+	<entry key="ui_shg53_rds_d_ingame">
+		<original value="Fast 1.3X zoom&lt;/font&gt; in aiming mode.\nImproves &lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="瞄准模式下&lt;/font&gt;快速 1.3 倍变焦。\n提升&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg49_sp_d_shop_name">
+		<original value="AM-17 Special Suppressor"/>
+		<translation value="AM-17 特别版抑制器"/>
+	</entry>
+	<entry key="ui_smg49_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;反冲动摇&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg49_sc_d_name">
+		<original value="AM-17 Special Silencer"/>
+		<translation value="AM-17 特别版消音器"/>
+	</entry>
+	<entry key="ui_accessories_smg49_sc_d">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;\n&lt;font size='14'&gt;Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;将伤害降低 5%&lt;/font&gt;\n&lt;font size='14'&gt;增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精度&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg49_rds_d_shop_name">
+		<original value="OCS-77"/>
+		<translation value="OCS-77 准直式瞄准镜"/>
+	</entry>
+	<entry key="ui_smg49_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式下 &lt;font color='#42ebf8'&gt;1.3 倍快速变焦&lt;/font&gt;\n大幅减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr49_sc_d_name">
+		<original value="OSS Suppressor Elite Line Over the Barrel"/>
+		<translation value="OSS 精英抑制器"/>
+	</entry>
+	<entry key="ui_sr49_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage by 50%&lt;/font&gt;&#xA;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font color='#ff6660'&gt;伤害降低 50%&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr49_gp01_d_name">
+		<original value="HALO MiniVert Grip V3"/>
+		<translation value="HALO MiniVert 握把版本 3"/>
+	</entry>
+	<entry key="ui_sr49_gp01_d_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="大幅增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精度&lt;/font&gt;\n略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;装弹速度&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="sr49_gp02_d_name">
+		<original value="MOD Billet Foregrip V3"/>
+		<translation value="MOD 金属前握把版本 3"/>
+	</entry>
+	<entry key="ui_sr49_gp02_d_ingame">
+		<original value="Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nGreatly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="略微增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精度&lt;/font&gt;\n大幅减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="sr49_rds_d_name">
+		<original value="Holosun MK4"/>
+		<translation value="Holosun MK4"/>
+	</entry>
+	<entry key="ui_sr49_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.8X zoom&lt;/font&gt; \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;&#xA;"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式下 &lt;font color='#42ebf8'&gt;1.8 倍快速变焦&lt;/font&gt;\n大幅减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr49_sp_d_name">
+		<original value="Pro Muzzle Brake V2"/>
+		<translation value="专业版枪口制退器版本 2"/>
+	</entry>
+	<entry key="ui_sr49_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt; \n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt; \n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="sr49_ss_d_name">
+		<original value="UTG Compact Scope"/>
+		<translation value="UTG Compact 瞄准镜"/>
+	</entry>
+	<entry key="ui_sr49_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="瞄准模式下&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;4.5x 快速变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="ar37_gp_d_name">
+		<original value="CZ 805 BREN A2 Special Grip"/>
+		<translation value="CZ 805 BREN A2 特别版握把"/>
+	</entry>
+	<entry key="ui_ar37gp_d_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="可提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n可降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n可提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;装弹速度&lt;/font&gt;\n俯卧时不适用&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar37_sp_d_name">
+		<original value="CZ 805 BREN A2 Special Suppressor"/>
+		<translation value="CZ 805 BREN A2 特别版抑制器"/>
+	</entry>
+	<entry key="ui_ar37_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;反冲动摇&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ls01">
+		<original value="CZ 805 BREN A2 Laser sight"/>
+		<translation value="CZ 805 BREN A2 激光瞄准器"/>
+	</entry>
+	<entry key="ui_ls01_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly increases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="大幅提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精准度&lt;/font&gt; \n略微增加&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;后坐力&lt;/font&gt;\n提高&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;反冲动摇&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="shg54_sp_d_name">
+		<original value="KS7 Supressor"/>
+		<translation value="KS7 抑制器"/>
+	</entry>
+	<entry key="ui_shg54_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar42_is_d_name">
+		<original value="Sten MK IIS Sights"/>
+		<translation value="Sten MK IIS 瞄具"/>
+	</entry>
+	<entry key="ui_ar42_is_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.1X zoom&lt;/font&gt; in aiming mode"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式下&lt;font color='#42ebf8'&gt;1.1 倍快速变焦&lt;/font&gt;"/>
+	</entry>
+	<entry key="ar42_as_d_name">
+		<original value="Sten MK IIS Scope"/>
+		<translation value="Sten MK IIS 瞄准镜"/>
+	</entry>
+	<entry key="ui_ar42_as_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;2X zoom&lt;/font&gt; in aiming mode \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式下&lt;font color='#42ebf8'&gt; 2 倍变焦&lt;/font&gt;\n减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;反冲动摇&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg50_gp01_d_name">
+		<original value="HALO MiniVert Grip V1"/>
+		<translation value="HALO MiniVert 握把版本 1"/>
+	</entry>
+	<entry key="ui_smg50_gp01_d_ingame">
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="大幅增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精度&lt;/font&gt;\n略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;装弹速度&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="smg50_gp02_d_name">
+		<original value="MOD Billet Foregrip V1"/>
+		<translation value="MOD 金属前握把版本 1"/>
+	</entry>
+	<entry key="ui_smg50_gp02_d_ingame">
+		<original value="Lightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nGreatly decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="略微增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精度&lt;/font&gt;\n大幅减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="smg50_rds_d_name">
+		<original value="VORTEX VENOM® RED DOT"/>
+		<translation value="Vortex Venom 红点瞄具"/>
+	</entry>
+	<entry key="ui_smg50_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.2X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式下 &lt;font color='#42ebf8'&gt;1.2 倍快速变焦&lt;/font&gt;\n大幅减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg50_sp_d_name">
+		<original value="M4 CUSTOM Special Suppressor"/>
+		<translation value="M4 Custom 特别版抑制器"/>
+	</entry>
+	<entry key="ui_smg50_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;反冲动摇&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar39_sp_d_name">
+		<original value="JCOMP Gen 2 Suppressor"/>
+		<translation value="JCOMP 第 2 代抑制器"/>
+	</entry>
+	<entry key="ui_ar39_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+		<translation value="降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n略微提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精度&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar39_gp_d_name">
+		<original value="Viking Tactics Vertical Grip"/>
+		<translation value="维京人战术垂直握把"/>
+	</entry>
+	<entry key="ui_ar39_gp_d_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt; \nNot applied in prone&lt;/font&gt;\n"/>
+		<translation value="提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;装弹速度&lt;/font&gt;\n俯卧时不适用&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar39_rds_d_name">
+		<original value="Howa Type 89 Reflex Sight"/>
+		<translation value="丰和 89 式反射式瞄具"/>
+	</entry>
+	<entry key="ui_ar39_rds_d_ingame">
+		<original value="Fast 1.3X zoom&lt;/font&gt; in aiming mode.\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="瞄准模式下 1.3 倍快速变焦&lt;/font&gt;。\n减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg52_gp_d_name">
+		<original value="ACR CQB Custom Tactical Grip"/>
+		<translation value="ACR CQB Custom 战术握把"/>
+	</entry>
+	<entry key="ui_smg52_gp_d_ingame">
+		<original value="Decreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;reload speed&lt;/font&gt;\nNot applied in prone"/>
+		<translation value="降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n提高 &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;装弹速度&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="smg52_rds_d_name">
+		<original value="ACR CQB Custom Romeo 3 Sight"/>
+		<translation value="ACR CQB Custom Romeo3v2 瞄具"/>
+	</entry>
+	<entry key="ui_smg52_rds_d_ingame">
+		<original value="&lt;font color='#42ebf8'&gt;1.3X zoom&lt;/font&gt; in aiming mode.\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="&lt;font color='#42ebf8'&gt;瞄准模式下 1.3 倍变集&lt;/font&gt;。\n减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg52_sc_d_name">
+		<original value="ACR CQB Custom Special Silencer"/>
+		<translation value="ACR CQB Custom 特别版消音器"/>
+	</entry>
+	<entry key="ui_smg52_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;不降低伤害&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg52_ss_d_shop_name">
+		<original value="Razor HD Gen III"/>
+		<translation value="Razor HD 第 III 代"/>
+	</entry>
+	<entry key="ui_smg52_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 3X zoom&lt;/font&gt; in aiming mode\nDecrease &lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;瞄准模式下 3 倍快速变焦&lt;/font&gt;。\n减少&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;"/>
+	</entry>
+	<entry key="shg55_sp_d_name">
+		<original value="Triple Threat Suppressor"/>
+		<translation value="三重威胁抑制器"/>
+	</entry>
+	<entry key="ui_shg55_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nDecrease&lt;font size='14'&gt;&lt;font color='#ff4400'&gt; accuracy&lt;/font&gt;\nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n增加&lt;font color='#ff4400'&gt;弹着散布&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg51_sp_d_name">
+		<original value="Gilboa DBR Snake Special Suppressor"/>
+		<translation value="基利波蛇 DBR 特别版抑制器"/>
+	</entry>
+	<entry key="ui_smg51_sp_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
+		<translation value="降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n略微减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;反冲动摇&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg51_sc_d_name">
+		<original value="Gilboa DBR Snake Special Silencer"/>
+		<translation value="基利波蛇 DBR 特别版消音器"/>
+	</entry>
+	<entry key="ui_accessories_smg51_sc_d">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Decreases damage by 5%&lt;/font&gt;\n&lt;font size='14'&gt;Increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;和&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;攻击方向&lt;/font&gt;\n&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;将伤害降低 5%&lt;/font&gt;\n&lt;font size='14'&gt;增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精度&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg51_rds_d_name">
+		<original value="Gilboa DBR Snake Special RDS"/>
+		<translation value="Vism Flip Dot SPD"/>
+	</entry>
+	<entry key="ui_smg51_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式下 &lt;font color='#42ebf8'&gt;1.3 倍快速变焦&lt;/font&gt;\n大幅减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+</localization>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry key="free_card_default_name">
+		<original value="Free Card"/>
+		<translation value="Free Card"/>
+	</entry>
+	<entry key="ui_free_card">
+		<original value="Free cards can be used in any progression. Spend them wisely"/>
+		<translation value="Free cards can be used in crafting of any weapon. Use them wisely."/>
+	</entry>
+	<entry key="test_card_kn16_default_name">
+		<original value="Card Tactical Axe"/>
+		<translation value="Tactical Axe Card"/>
+	</entry>
+	<entry key="ui_test_card_kn16">
+		<original value="Collect these cards to get Tactical Axe"/>
+		<translation value="These cards can be used to create a Tactical Axe."/>
+	</entry>
+	<entry key="test_card_sr46_default_name">
+		<original value="Card Kraken CDX MC"/>
+		<translation value="CDX-MC Kraken Card"/>
+	</entry>
+	<entry key="ui_test_card_sr46">
+		<original value="Collect these cards to get Kraken CDX MC"/>
+		<translation value="These cards can be used to create a CDX-MC Kraken."/>
+	</entry>
+	<entry key="test_card_pt36_default_name">
+		<original value="Card TEC-9"/>
+		<translation value="TEC-9 Card"/>
+	</entry>
+	<entry key="ui_test_card_pt36">
+		<original value="Collect these cards to get TEC-9"/>
+		<translation value="These cards can be used to create a TEC-9."/>
+	</entry>
+	<entry key="test_card_smg44_default_name">
+		<original value="Card TDI KRISS Super V"/>
+		<translation value="KRISS Super V Custom Card"/>
+	</entry>
+	<entry key="ui_test_card_smg44">
+		<original value="Collect these cards to get TDI KRISS Super V"/>
+		<translation value="These cards can be used to create a KRISS Super V Custom."/>
+	</entry>
+	<entry key="test_card_soldier_vest_armagedon_default_name">
+		<original value="Card &quot;Armageddon&quot; soldier vest"/>
+		<translation value="Armageddon Rifleman Vest Card"/>
+	</entry>
+	<entry key="ui_test_card_soldier_vest_armagedon">
+		<original value="Collect these cards to get &quot;Armageddon&quot; soldier vest"/>
+		<translation value="These cards can be used to create an Armageddon Rifleman Vest."/>
+	</entry>
+	<entry key="test_card_soldier_helmet_armagedon_default_name">
+		<original value="Card &quot;Armageddon&quot; soldier helmet"/>
+		<translation value="Armageddon Rifleman Helmet Card"/>
+	</entry>
+	<entry key="ui_test_card_soldier_helmet_armagedon">
+		<original value="Collect these cards to get &quot;Armageddon&quot; soldier helmet"/>
+		<translation value="These cards can be used to create an Armageddon Rifleman Helmet."/>
+	</entry>
+	<entry key="test_card_shared_shoes_armagedon_default_name">
+		<original value="Card &quot;Armageddon&quot; shared boots"/>
+		<translation value="Armageddon Boots Card"/>
+	</entry>
+	<entry key="ui_test_card_shared_shoes_armagedon">
+		<original value="Collect these cards to get &quot;Armageddon&quot; shared boots"/>
+		<translation value="These cards can be used to create Armageddon Boots."/>
+	</entry>
+	<entry key="test_card_shared_hands_armagedon_default_name">
+		<original value="Card &quot;Armageddon&quot; shared gloves"/>
+		<translation value="Armageddon Gloves Card"/>
+	</entry>
+	<entry key="ui_test_card_shared_hands_armagedon">
+		<original value="Collect these cards to get &quot;Armageddon&quot; shared gloves"/>
+		<translation value="These cards can be used to create Armageddon Gloves."/>
+	</entry>
+	<entry key="ar38_card_name">
+		<original value="Card Cobalt Kinetics EDGE"/>
+		<translation value="Cobalt Kinetics EDGE Rifle Card"/>
+	</entry>
+	<entry key="ui_ar38_card">
+		<original value="Collect these cards to get Cobalt Kinetics EDGE"/>
+		<translation value="These cards can be used to create Cobalt Kinetics EDGE Rifle."/>
+	</entry>
+	<entry key="shg53_card_name">
+		<original value="Card Cobalt Kinetics Typhoon F12 Custom"/>
+		<translation value="Typhoon F12 Custom Card"/>
+	</entry>
+	<entry key="ui_shg53_card">
+		<original value="Collect these cards to get Cobalt Kinetics Typhoon F12 Custom"/>
+		<translation value="These cards can be used to create Typhoon F12 Custom."/>
+	</entry>
+	<entry key="smg48_card_name">
+		<original value="Card Cobalt Kinetics Stealth Pistol"/>
+		<translation value="Cobalt Kinetics Stealth Pistol Card"/>
+	</entry>
+	<entry key="ui_smg48_card">
+		<original value="Collect these cards to get Cobalt Kinetics Stealth Pistol"/>
+		<translation value="These cards can be used to create Cobalt Kinetics Stealth Pistol."/>
+	</entry>
+	<entry key="sr49_card_name">
+		<original value="Card Cobalt Kinetics Twenty-Seven"/>
+		<translation value="Cobalt Kinetics Twenty-Seven Card"/>
+	</entry>
+	<entry key="ui_sr49_card">
+		<original value="Collect these cards to get Cobalt Kinetics Twenty-Seven"/>
+		<translation value="These cards can be used to create Cobalt Kinetics Twenty-Seven."/>
+	</entry>
+	<entry key="smg50_card_name">
+		<original value="Card M4 Custom"/>
+		<translation value="M4 Custom Card"/>
+	</entry>
+	<entry key="ui_smg50_card">
+		<original value="Collect these cards to get M4 Custom"/>
+		<translation value="These cards can be used to create M4 Custom."/>
+	</entry>
+	<entry key="smg52_card_name">
+		<original value="Card ACR CQB Custom"/>
+		<translation value="ACR CQB Custom Card"/>
+	</entry>
+	<entry key="ui_smg52_card">
+		<original value="Collect these cards to get ACR CQB Custom"/>
+		<translation value="These cards can be used to create ACR CQB Custom."/>
+	</entry>
+	<entry key="ar36_raid02_card_name">
+		<original value="Card Raid F90 MBR"/>
+		<translation value="Blackwood F90 MBR Card"/>
+	</entry>
+	<entry key="ui_ar36_raid02_card">
+		<original value="Collect these cards to get Raid F90 MBR"/>
+		<translation value="These cards can be used to create Blackwood F90 MBR."/>
+	</entry>
+	<entry key="shg52_raid02_card_name">
+		<original value="Card Raid TAVOR TS12 Custom"/>
+		<translation value="Blackwood TAVOR TS12 Custom Card"/>
+	</entry>
+	<entry key="ui_shg52_raid02_card">
+		<original value="Collect these cards to get Raid TAVOR TS12 Custom"/>
+		<translation value="These cards can be used to create Blackwood TAVOR TS12 Custom."/>
+	</entry>
+	<entry key="smg52_raid02_card_name">
+		<original value="Card Raid ACR CQB Custom"/>
+		<translation value="Blackwood ACR CQB Custom Card"/>
+	</entry>
+	<entry key="ui_smg52_raid02_card">
+		<original value="Collect these cards to get Raid ACR CQB Custom"/>
+		<translation value="These cards can be used to create Blackwood ACR CQB Custom."/>
+	</entry>
+	<entry key="sr45_raid02_card_name">
+		<original value="Card Raid HK G28"/>
+		<translation value="Blackwood H&amp;K G28 Card"/>
+	</entry>
+	<entry key="ui_sr45_raid02_card">
+		<original value="Collect these cards to get Raid HK G28"/>
+		<translation value="These cards can be used to create Blackwood H&amp;K G28."/>
+	</entry>
+	<entry key="hmg03_raid02_card_name">
+		<original value="Card Raid M134-GAU19b Hybrid"/>
+		<translation value="Blackwood M134-GAU19b Hybrid Card"/>
+	</entry>
+	<entry key="ui_hmg03_raid02_card">
+		<original value="Collect these cards to get Raid M134-GAU19b Hybrid"/>
+		<translation value="These cards can be used to create Blackwood M134-GAU19b Hybrid."/>
+	</entry>
+	<entry key="smg51_card_name">
+		<original value="Card Gilboa DBR Snake"/>
+		<translation value="Gilboa Snake DBR Card"/>
+	</entry>
+	<entry key="ui_smg51_card">
+		<original value="Collect these cards to get Gilboa DBR Snake"/>
+		<translation value="These cards can be used to create Gilboa Snake DBR."/>
+	</entry>
+	<entry key="shg55_card_name">
+		<original value="Card Chiappa Triple Threat"/>
+		<translation value="Chiappa Triple Threat Card"/>
+	</entry>
+	<entry key="ui_shg55_card">
+		<original value="Collect these cards to get Chiappa Triple Threat"/>
+		<translation value="These cards can be used to create Chiappa Triple Threat."/>
+	</entry>
+	<entry key="ar36_apache01_card_name">
+		<original value="Card Apache F90 MBR"/>
+		<translation value="Apache F90 MBR Card"/>
+	</entry>
+	<entry key="ui_ar36_apache01_card">
+		<original value="Collect these cards to get Apache F90 MBR"/>
+		<translation value="These cards can be used to create Apache F90 MBR."/>
+	</entry>
+	<entry key="shg52_apache01_card_name">
+		<original value="Card Apache TAVOR TS12 Custom"/>
+		<translation value="Apache TAVOR TS12 Custom Card"/>
+	</entry>
+	<entry key="ui_shg52_apache01_card">
+		<original value="Collect these cards to get Apache TAVOR TS12 Custom"/>
+		<translation value="These cards can be used to create Apache TAVOR TS12 Custom."/>
+	</entry>
+	<entry key="smg52_apache01_card_name">
+		<original value="Card Apache ACR CQB Custom"/>
+		<translation value="Apache ACR CQB Custom Card"/>
+	</entry>
+	<entry key="ui_smg52_apache01_card">
+		<original value="Collect these cards to get Apache ACR CQB Custom"/>
+		<translation value="These cards can be used to create Apache ACR CQB Custom."/>
+	</entry>
+	<entry key="sr45_apache01_card_name">
+		<original value="Card Apache HK G28"/>
+		<translation value="Apache H&amp;K G28 Card"/>
+	</entry>
+	<entry key="ui_sr45_apache01_card">
+		<original value="Collect these cards to get Apache HK G28"/>
+		<translation value="These cards can be used to create Apache H&amp;K G28."/>
+	</entry>
+	<entry key="hmg03_apache01_card_name">
+		<original value="Card Apache M134-GAU19b Hybrid"/>
+		<translation value="Apache M134-GAU19b Hybrid Card"/>
+	</entry>
+	<entry key="ui_hmg03_apache01_card">
+		<original value="Collect these cards to get Apache M134-GAU19b Hybrid"/>
+		<translation value="These cards can be used to create Apache M134-GAU19b Hybrid."/>
+	</entry>
+</localization>
