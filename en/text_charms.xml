@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry key="token">
+		<original value="Trunk"/>
+		<translation value="EN"/>
+	</entry>
+	<entry key="charm_pirate01_name">
+		<original value="Pirate Treasures"/>
+		<translation value="Golden Doubloon charm"/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate01">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Pirate Treasures&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;Golden Doubloon&lt;/font&gt;\nA beautiful decoration.\nThis charm can be attached to a weapon."/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate01_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Does not improve weapon stats.&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_pirate02_name">
+		<original value="Jolly Roger"/>
+		<translation value="Jolly Roger charm"/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate02">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Jolly Roger&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;Jolly Roger&lt;/font&gt;\nA beautiful decoration.\nThis charm can be attached to a weapon."/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate02_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Does not improve weapon stats.&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_pirate03_name">
+		<original value="Treasure map"/>
+		<translation value="Treasure Map charm"/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate03">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Treasure map&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;Treasure Map&lt;/font&gt;\nA beautiful decoration.\nThis charm can be attached to a weapon."/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate03_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Does not improve weapon stats.&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_pirate04_name">
+		<original value="Chest of gold"/>
+		<translation value="Dead Man's Chest charm"/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate04">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Chest of gold&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;Dead Man's Chest&lt;/font&gt;\nA beautiful decoration.\nThis charm can be attached to a weapon."/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate04_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Does not improve weapon stats.&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_pirate05_name">
+		<original value="Starfish"/>
+		<translation value="Captain Hook charm"/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate05">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Starfish&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;Captain Hook&lt;/font&gt;\nA beautiful decoration.\nThis charm can be attached to a weapon."/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate05_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Does not improve weapon stats.&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_brazil06_name">
+		<original value="Gangster"/>
+		<translation value="Gangster Token charm"/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil06">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Gangster&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;Gangster token&lt;/font&gt;\nA beautiful decoration.\nThis charm can be attached to a weapon."/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil06_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Does not improve weapon stats.&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_brazil07_name">
+		<original value="Dog"/>
+		<translation value="Pitbull charm"/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil07">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Dog&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;Pitbull&lt;/font&gt;\nA beautiful decoration.\nThis charm can be attached to a weapon."/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil07_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Does not improve weapon stats.&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_brazil08_name">
+		<original value="Police badge"/>
+		<translation value="Police Badge charm"/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil08">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Police badge&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;Police badge&lt;/font&gt;\nA beautiful decoration.\nThis charm can be attached to a weapon."/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil08_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Does not improve weapon stats.&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_brazil09_name">
+		<original value="Gang symbol"/>
+		<translation value="Cartel Mark charm"/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil09">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Gang symbol&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;Cartel Mark&lt;/font&gt;\nA beautiful decoration.\nThis charm can be attached to a weapon."/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil09_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Does not improve weapon stats.&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_brazil10_name">
+		<original value="Badge of honor"/>
+		<translation value="Dog Tag charm"/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil10">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Badge of honor&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;Dog Tag&lt;/font&gt;\nA beautiful decoration.\nThis charm can be attached to a weapon."/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil10_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;Does not improve weapon stats.&lt;/font&gt;"/>
+	</entry>
+</localization>

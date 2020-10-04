@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
 	<entry key="sp_default_name">
 		<original value="Default Suppressor"/>
 		<translation value="默认抑制器"/>
@@ -2317,8 +2321,8 @@
 		<translation value="CZ 805 BREN A2 激光瞄准器"/>
 	</entry>
 	<entry key="ui_ls01_ingame">
-		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly increases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
-		<translation value="大幅提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精准度&lt;/font&gt; \n略微增加&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;后坐力&lt;/font&gt;\n提高&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;反冲动摇&lt;/font&gt;\n"/>
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+		<translation value="大幅提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;腰射精准度&lt;/font&gt; \n"/>
 	</entry>
 	<entry key="shg54_sp_d_name">
 		<original value="KS7 Supressor"/>
@@ -2461,6 +2465,102 @@
 		<translation value="Vism Flip Dot SPD"/>
 	</entry>
 	<entry key="ui_smg51_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式下 &lt;font color='#42ebf8'&gt;1.3 倍快速变焦&lt;/font&gt;\n大幅减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="mg26_gp_d_name">
+		<original value="Special H&amp;K 121 Grippod"/>
+		<translation value="特殊 H&amp;K 121 握把"/>
+	</entry>
+	<entry key="ui_mg26_gp_d_ingame">
+		<original value="Lightly improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nGreatly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone and slide&lt;/font&gt;\n"/>
+		<translation value="略微增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n大幅减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n减少俯卧和滑步时的&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="mg26_as_d_name">
+		<original value="Hensoldt Zo Sight"/>
+		<translation value="Hensoldt Zo 瞄准镜"/>
+	</entry>
+	<entry key="ui_mg26_as_d_ingame">
+		<original value="Fast &lt;font color='#42ebf8'&gt;1.8X &lt;/font&gt;zoom in aiming mode&lt;/font&gt;"/>
+		<translation value="&lt;/font&gt;瞄准模式下&lt;font color='#42ebf8'&gt; 1.8&lt;/font&gt; 倍快速变焦"/>
+	</entry>
+	<entry key="ar44_sp_d_shop_name">
+		<original value="HCAR Auto Special Suppressor"/>
+		<translation value="HCAR Auto 特别版抑制器"/>
+	</entry>
+	<entry key="ui_ar44_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;spread&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;弹着散布&lt;/font&gt;\n提升&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="ar44_rds_d_shop_name">
+		<original value="HCAR Auto Special RDS"/>
+		<translation value="Redring MK3 瞄准镜"/>
+	</entry>
+	<entry key="ui_ar44_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式下&lt;font color='#42ebf8'&gt;1.3 倍快速变焦&lt;/font&gt;。\n"/>
+	</entry>
+	<entry key="smg09_custom_sc_d_name">
+		<original value="FN P90 Custom Special Silencer"/>
+		<translation value="FN P90 Custom 特别版消音器"/>
+	</entry>
+	<entry key="ui_smg09_custom_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff4400'&gt;Decreases damage by 2%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;消除枪声&lt;/font&gt;并&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;隐藏攻击方向&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff4400'&gt;将伤害降低 2%&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg09_custom_rds_d_name">
+		<original value="FN P90 Custom Special RDS"/>
+		<translation value="Vism Flip Dot SPD"/>
+	</entry>
+	<entry key="ui_accessories_smg09_custom_rds_d">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式下 &lt;font color='#42ebf8'&gt;1.3 倍快速变焦&lt;/font&gt;\n大幅减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr51_sp01_d_name">
+		<original value="DVL-10 M2 Special Suppressor"/>
+		<translation value="DVL-10 M2 特别版抑制器"/>
+	</entry>
+	<entry key="ui_sr51_sp01_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nDecreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\n"/>
+		<translation value="减少&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr51_sp02_d_name">
+		<original value="DVL-10 M2 Supressor"/>
+		<translation value="DVL-10 M2 抑制器"/>
+	</entry>
+	<entry key="ui_sr51_sp02_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly improves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt;\n"/>
+		<translation value="减少&lt;font color='#42ebf8'&gt;枪口火焰&lt;/font&gt;\n降低&lt;font color='#42ebf8'&gt;伤害衰减&lt;/font&gt;\n提升&lt;font color='#42ebf8'&gt;穿透力&lt;/font&gt;\n轻微提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr51_bp_d_name">
+		<original value="UTG recon flex bipod"/>
+		<translation value="UTG Recon 360 TL 两脚架"/>
+	</entry>
+	<entry key="ui_sr51_bp_d_ingame">
+		<original value="Decrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt; \n"/>
+		<translation value="减少俯卧时的&lt;font color='#42ebf8'&gt;晃动&lt;/font&gt;&lt;/font&gt; \n增加&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;切换速度&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="sr51_ss_d_name">
+		<original value="March 4.5x scope"/>
+		<translation value="March 4.5x 瞄准镜"/>
+	</entry>
+	<entry key="ui_sr51_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;瞄准模式下 &lt;font color='#42ebf8'&gt;4.5 倍快速变焦&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="smg53_gp_d_name">
+		<original value="MFT Forend Grip"/>
+		<translation value="MFT 反应折叠握把"/>
+	</entry>
+	<entry key="ui_smg53_gp_d_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt; \nDecreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\n"/>
+		<translation value="提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;精准度&lt;/font&gt;\n降低&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;后坐力&lt;/font&gt;\n提高&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;切换速度&lt;/font&gt;\n俯卧时不适用"/>
+	</entry>
+	<entry key="smg53_rds_d_name">
+		<original value="Truglo TruPoint Sight"/>
+		<translation value="Truglo Tru-Point 瞄具"/>
+	</entry>
+	<entry key="ui_smg53_rds_d_ingame">
 		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
 		<translation value="&lt;font size='14'&gt;瞄准模式下 &lt;font color='#42ebf8'&gt;1.3 倍快速变焦&lt;/font&gt;\n大幅减少&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;枪口晃动&lt;/font&gt;"/>
 	</entry>

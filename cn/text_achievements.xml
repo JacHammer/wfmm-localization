@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
 	<entry key="achievement_headshots_made">
 		<original value="Oversized Head"/>
 		<translation value="大头"/>
@@ -189,7 +193,7 @@
 		<translation value="致命的沉默"/>
 	</entry>
 	<entry key="silent_shot3_desc">
-		<original value="Eliminate 2500 enemy players using a silenced weapon."/>
+		<original value="Eliminate 2,500 enemy players using a silenced weapon."/>
 		<translation value="使用消音武器击杀 2500 名敌人。"/>
 	</entry>
 	<entry key="buttkiller">
@@ -12796,27 +12800,27 @@
 		<original value="Take the 1st place in Blitz: Residence 100 times."/>
 		<translation value="在“闪电战：住宅”中获得 100 次第 1 名。"/>
 	</entry>
-	<entry key="firstPlaceTDMBlackmamba1">
+	<entry key="firstPlaceSTMBlackmamba1">
 		<original value="Baron of Black Mamba"/>
 		<translation value="黑曼巴男爵"/>
 	</entry>
-	<entry key="firstPlaceTDMBlackmamba1_desc">
+	<entry key="firstPlaceSTMBlackmamba1_desc">
 		<original value="Take the 1st place in Storm: Black Mamba 25 times."/>
 		<translation value="在“风暴：黑曼巴”中获得 25 次第 1 名。"/>
 	</entry>
-	<entry key="firstPlaceTDMBlackmamba2">
+	<entry key="firstPlaceSTMBlackmamba2">
 		<original value="Duke of Black Mamba"/>
 		<translation value="黑曼巴公爵"/>
 	</entry>
-	<entry key="firstPlaceTDMBlackmamba2_desc">
+	<entry key="firstPlaceSTMBlackmamba2_desc">
 		<original value="Take the 1st place in Storm: Black Mamba 50 times."/>
 		<translation value="在“风暴：黑曼巴”中获得 50 次第 1 名。"/>
 	</entry>
-	<entry key="firstPlaceTDMBlackmamba3">
+	<entry key="firstPlaceSTMBlackmamba3">
 		<original value="King of Black Mamba"/>
 		<translation value="黑曼巴之王"/>
 	</entry>
-	<entry key="firstPlaceTDMBlackmamba3_desc">
+	<entry key="firstPlaceSTMBlackmamba3_desc">
 		<original value="Take the 1st place in Storm: Black Mamba 100 times."/>
 		<translation value="在“风暴：黑曼巴”中获得 100 次第 1 名。"/>
 	</entry>
@@ -18209,7 +18213,7 @@
 		<translation value="Onyx TDI KRISS Super V"/>
 	</entry>
 	<entry key="smg44_black03Kill_desc">
-		<original value="Eliminate 2500 enemies with Onyx TDI KRISS Super V"/>
+		<original value="Eliminate 2,500 enemies with Onyx TDI KRISS Super V"/>
 		<translation value="使用 Onyx TDI KRISS Super V 消灭 2500 名敌人"/>
 	</entry>
 	<entry key="arena01_stripe_01">
@@ -19922,7 +19926,7 @@
 	</entry>
 	<entry key="bp10_stripe_01_desc">
 		<original value="Perform 10,000 kills with Samurai weapons"/>
-		<translation value="使用“樱花”和“金龙”系列武器消灭 10000 名敌人。"/>
+		<translation value="使用“樱花”系列武器消灭 10000 名敌人。"/>
 	</entry>
 	<entry key="bp10_mark_01">
 		<original value="Way of the Samurai"/>
@@ -19930,7 +19934,7 @@
 	</entry>
 	<entry key="bp10_mark_01_desc">
 		<original value="Perform 1,000 kills in jump with Samurai weapons"/>
-		<translation value="跃起时使用“樱花”和“金龙”系列武器消灭 1000 名敌人。"/>
+		<translation value="跃起时使用“樱花”系列武器消灭 1000 名敌人。"/>
 	</entry>
 	<entry key="bp10_badge_01">
 		<original value="Samurai Strike"/>
@@ -19938,7 +19942,7 @@
 	</entry>
 	<entry key="bp10_badge_01_desc">
 		<original value="Perform 1,000 headshots with Samurai weapons"/>
-		<translation value="使用“樱花”和“金龙”系列武器完成 1000 次爆头。"/>
+		<translation value="使用“樱花”系列武器完成 1000 次爆头。"/>
 	</entry>
 	<entry key="smg51Kill">
 		<original value="Furious Gilboa DBR Snake"/>
@@ -20219,5 +20223,1085 @@
 	<entry key="winRW3Sed_desc">
 		<original value="Complete Zenith mission by SED"/>
 		<translation value="作为 SED 完成“顶点”行动。"/>
+	</entry>
+	<entry key="ru_wfpro_challgers_mark01">
+		<original value="Clear Goal"/>
+		<translation value="目标明确"/>
+	</entry>
+	<entry key="ru_wfpro_challgers_mark01_desc">
+		<original value="Awarded to the participants of PRO.Challengers"/>
+		<translation value="授予职业挑战赛参赛者。"/>
+	</entry>
+	<entry key="ru_wfpro_challgers_mark02">
+		<original value="A Step Away"/>
+		<translation value="一步之遥"/>
+	</entry>
+	<entry key="ru_wfpro_challgers_mark02_desc">
+		<original value="Awarded to the finalists of PRO.Challengers"/>
+		<translation value="授予职业挑战赛决赛选手。"/>
+	</entry>
+	<entry key="ru_wfpro_challgers_mark03">
+		<original value="Ultimate Challenger"/>
+		<translation value="终极挑战者"/>
+	</entry>
+	<entry key="ru_wfpro_challgers_mark03_desc">
+		<original value="Awarded to the winners of PRO.Challengers"/>
+		<translation value="授予职业挑战赛获胜者。"/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge01">
+		<original value="Hero In The Making I"/>
+		<translation value="英雄的诞生 I"/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge01_desc">
+		<original value="Take part in the PRO.Masters"/>
+		<translation value="参与职业大师赛。"/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge02">
+		<original value="Hero In The Making II"/>
+		<translation value="英雄的诞生 II"/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge02_desc">
+		<original value="Take part in the PRO.Masters twice"/>
+		<translation value="参与职业大师赛 2 次。"/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge03">
+		<original value="Hero In The Making III"/>
+		<translation value="英雄的诞生 III"/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge03_desc">
+		<original value="Take part in the PRO.Masters three times"/>
+		<translation value="参与职业大师赛 3 次。"/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge04">
+		<original value="Hero In The Making IV"/>
+		<translation value="英雄的诞生 IV"/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge04_desc">
+		<original value="Take part in the PRO.Masters four times"/>
+		<translation value="参与职业大师赛 4 次。"/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge05">
+		<original value="Hero In The Making V"/>
+		<translation value="英雄的诞生 V"/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge05_desc">
+		<original value="Take part in the PRO.Masters five times"/>
+		<translation value="参与职业大师赛 5 次。"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge01">
+		<original value="Bronze Champion"/>
+		<translation value="青铜冠军"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge01_desc">
+		<original value="Become PRO.Legends bronze medalist"/>
+		<translation value="成为传奇职业赛铜牌得主。"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge02">
+		<original value="Real Champion"/>
+		<translation value="真正冠军"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge02_desc">
+		<original value="Seize the 2nd place in PRO.Legends!"/>
+		<translation value="在传奇职业赛中取得第 2 名。"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge03">
+		<original value="Absolute Champion"/>
+		<translation value="绝对冠军"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge03_desc">
+		<original value="Become the ultimate winner of PRO.Legends"/>
+		<translation value="成为传奇职业赛的最终赢家。"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge04">
+		<original value="Golden take"/>
+		<translation value="黄金二连冠"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge04_desc">
+		<original value="Two-time champion PRO.Champions"/>
+		<translation value="成为职业冠军赛获胜者 2 次。"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge05">
+		<original value="Three times champion"/>
+		<translation value="黄金三连冠"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge05_desc">
+		<original value="Three times become the winner of PRO.Champions"/>
+		<translation value="成为职业冠军赛获胜者 3 次。"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge06">
+		<original value="Champion of Champions"/>
+		<translation value="最高水准"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge06_desc">
+		<original value="Four-time champion PRO.Champions"/>
+		<translation value="成为职业冠军赛获胜者 4 次。"/>
+	</entry>
+	<entry key="ru_wfpro_grdfinal_badge01">
+		<original value="Bronze Touch"/>
+		<translation value="铜奖得主"/>
+	</entry>
+	<entry key="ru_wfpro_grdfinal_badge01_desc">
+		<original value="Seize the 3rd place in PRO.Champions"/>
+		<translation value="在职业冠军赛中取得第 3 名。"/>
+	</entry>
+	<entry key="ru_wfpro_grdfinal_badge02">
+		<original value="Silver Touch"/>
+		<translation value="银奖得主"/>
+	</entry>
+	<entry key="ru_wfpro_grdfinal_badge02_desc">
+		<original value="Seize the 2nd place in PRO.Champions"/>
+		<translation value="在职业冠军赛中取得第 2 名。"/>
+	</entry>
+	<entry key="ru_wfpro_grdfinal_badge03">
+		<original value="Golden Touch"/>
+		<translation value="金奖得主"/>
+	</entry>
+	<entry key="ru_wfpro_grdfinal_badge03_desc">
+		<original value="Seize the 1st place in PRO.Champions"/>
+		<translation value="在职业冠军赛中取得第 1 名。"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe01">
+		<original value="Final Straw I"/>
+		<translation value="最后的稻草 I"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe01_desc">
+		<original value="Participate in the Warface.PRO I LAN-Finals"/>
+		<translation value="参与战争前线职业赛 I LAN 决赛。"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe02">
+		<original value="Final Straw II"/>
+		<translation value="最后的稻草 II"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe02_desc">
+		<original value="Participate in the Warface.PRO II LAN-Finals"/>
+		<translation value="参与战争前线职业赛 II LAN 决赛。"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe03">
+		<original value="Final Straw III"/>
+		<translation value="最后的稻草 III"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe03_desc">
+		<original value="Participate in the Warface.PRO III LAN-Finals"/>
+		<translation value="参与战争前线职业赛 III LAN 决赛。"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe04">
+		<original value="Final Straw IV"/>
+		<translation value="最后的稻草 IV"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe04_desc">
+		<original value="Participate in the Warface.PRO IV LAN-Finals"/>
+		<translation value="参与战争前线职业赛 IV LAN 决赛。"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe05">
+		<original value="Final Straw V"/>
+		<translation value="最后的稻草 IV"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe05_desc">
+		<original value="Participate in the Warface.PRO V LAN-Finals"/>
+		<translation value="参与战争前线职业赛 V LAN 决赛。"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe06">
+		<original value="Legendary Contender"/>
+		<translation value="传奇争夺者"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe06_desc">
+		<original value="Awarded to the participants of PRO.Legends"/>
+		<translation value="授予传奇职业赛参赛者。"/>
+	</entry>
+	<entry key="oc05_mark_01">
+		<original value="Open Cup Summer 2020 Punisher"/>
+		<translation value="战争前线职业赛 I：突击队员"/>
+	</entry>
+	<entry key="oc05_mark_01_desc">
+		<original value="Deal 25,000 damage with Open Cup Summer 2020 weapons"/>
+		<translation value="使用 战争前线职业赛 I 武器造成 25000 点伤害。"/>
+	</entry>
+	<entry key="oc05_badge_01">
+		<original value="Open Cup Summer 2020 Sharphooter"/>
+		<translation value="战争前线职业赛 I：神射手"/>
+	</entry>
+	<entry key="oc05_badge_01_desc">
+		<original value="Perform 1,000 headshots with Open Cup Summer 2020 weapons"/>
+		<translation value="使用 战争前线职业赛 I 武器完成 1000 次爆头。"/>
+	</entry>
+	<entry key="oc05_stripe_01">
+		<original value="Open Cup Summer 2020 Slayer"/>
+		<translation value="战争前线职业赛 I：屠夫"/>
+	</entry>
+	<entry key="oc05_stripe_01_desc">
+		<original value="Kill 10,000 enemies with Open Cup Summer 2020 weapons"/>
+		<translation value="使用 战争前线职业赛 I 武器击杀 10000 名敌人。"/>
+	</entry>
+	<entry key="mg26kill">
+		<original value="Bullet Rain"/>
+		<translation value="弹幕"/>
+	</entry>
+	<entry key="mg26kill_desc">
+		<original value="Kill 5,000 enemies with H&amp;K 121 or its gold version"/>
+		<translation value="使用 H&amp;K 121 或其黄金版消灭 5000 名敌人。"/>
+	</entry>
+	<entry key="mg26kill25">
+		<original value="Advanced Bullet Rain"/>
+		<translation value="高级：弹幕"/>
+	</entry>
+	<entry key="mg26kill25_desc">
+		<original value="Kill 10,000 enemies with H&amp;K 121 or its gold version"/>
+		<translation value="使用 H&amp;K 121 或其黄金版消灭 10000 名敌人。"/>
+	</entry>
+	<entry key="mg26_gold_kill_01">
+		<original value="Better not get close to me!"/>
+		<translation value="领路"/>
+	</entry>
+	<entry key="mg26_gold_kill_01_desc">
+		<original value="Kill 999 enemies with Gold H&amp;K 121"/>
+		<translation value="使用黄金版 H&amp;K 121 消灭 999 名敌人。"/>
+	</entry>
+	<entry key="ru_bigbon_badge_01">
+		<original value="Instant noodles Medalist"/>
+		<translation value="方便面主宰者"/>
+	</entry>
+	<entry key="ru_bigbon_badge_01_desc">
+		<original value="Treat your friend with the most delicious instant noodles in the world!"/>
+		<translation value="用最美味的方便面来款待自己。"/>
+	</entry>
+	<entry key="ru_bigbon_mark_01">
+		<original value="Instant noodles protection"/>
+		<translation value="顶级方便面"/>
+	</entry>
+	<entry key="ru_bigbon_mark_01_desc">
+		<original value="Treat your friend with the most delicious instant noodles in the world!"/>
+		<translation value="用最美味的方便面来款待自己。"/>
+	</entry>
+	<entry key="ru_bigbon_stripe_01">
+		<original value="Set of Instant noodles"/>
+		<translation value="满足的团队"/>
+	</entry>
+	<entry key="ru_bigbon_stripe_01_desc">
+		<original value="Treat your friend with the most delicious instant noodles in the world!"/>
+		<translation value="用最美味的方便面来款待自己。"/>
+	</entry>
+	<entry key="ru_september3rd_badge_01">
+		<original value="September 3rd Badge"/>
+		<translation value="又是九月三"/>
+	</entry>
+	<entry key="ru_september3rd_badge_01_desc">
+		<original value="Flip the calendar"/>
+		<translation value="梗知道成就版：翻日历"/>
+	</entry>
+	<entry key="ru_september3rd_mark_01">
+		<original value="September 3rd Mark"/>
+		<translation value="火焰般的花楸果"/>
+	</entry>
+	<entry key="ru_september3rd_mark_01_desc">
+		<original value="Flip the calendar"/>
+		<translation value="梗知道成就版：翻日历"/>
+	</entry>
+	<entry key="ru_september3rd_stripe_01">
+		<original value="September 3rd Stripe"/>
+		<translation value="燃烧的承诺"/>
+	</entry>
+	<entry key="ru_september3rd_stripe_01_desc">
+		<original value="Flip the calendar"/>
+		<translation value="梗知道成就版：翻日历"/>
+	</entry>
+	<entry key="belarus_flag_02">
+		<original value="Flag of Belarus"/>
+		<translation value="白俄罗斯国旗"/>
+	</entry>
+	<entry key="belarus_flag_02_desc">
+		<original value="Flag of Belarus"/>
+		<translation value="白俄罗斯国旗"/>
+	</entry>
+	<entry key="ru_bc_badge_01">
+		<original value="There can be only one"/>
+		<translation value="仅限一个"/>
+	</entry>
+	<entry key="ru_bc_badge_01_desc">
+		<original value="Awarded to the finalists of Battle Cup"/>
+		<translation value="授予单人 Battle Cup 锦标赛决赛选手。"/>
+	</entry>
+	<entry key="ru_bc_badge_02">
+		<original value="Battle Cup: Final Straw"/>
+		<translation value="Battle Cup：最后一关"/>
+	</entry>
+	<entry key="ru_bc_badge_02_desc">
+		<original value="Awarded to the finalists of Battle Cup"/>
+		<translation value="授予团队 Battle Cup 锦标赛决赛选手。"/>
+	</entry>
+	<entry key="ru_bc_badge_03">
+		<original value="Universal fighter"/>
+		<translation value="万能战士"/>
+	</entry>
+	<entry key="ru_bc_badge_03_desc">
+		<original value="Awarded to the participants of Battle Cup"/>
+		<translation value="授予团队 Battle Cup 锦标赛决赛选手。"/>
+	</entry>
+	<entry key="ru_bc_mark_01">
+		<original value="Battle Cup: MVP"/>
+		<translation value="Battle Cup：最出色玩家"/>
+	</entry>
+	<entry key="ru_bc_mark_01_desc">
+		<original value="Become the best player of the Battle Cup"/>
+		<translation value="授予团队 Battle Cup 锦标赛决赛选手。"/>
+	</entry>
+	<entry key="ru_bc_stripe_01">
+		<original value="Battle Cup: Winner"/>
+		<translation value="Battle Cup：获胜者"/>
+	</entry>
+	<entry key="ru_bc_stripe_01_desc">
+		<original value="Awarded to the winners of Battle Cup"/>
+		<translation value="授予团队 Battle Cup 锦标赛获胜者。"/>
+	</entry>
+	<entry key="ru_bc_stripe_02">
+		<original value="MacLeod"/>
+		<translation value="麦克劳德"/>
+	</entry>
+	<entry key="ru_bc_stripe_02_desc">
+		<original value="Awarded to the winners of Battle Cup"/>
+		<translation value="授予单人 Battle Cup 锦标赛获胜者。"/>
+	</entry>
+	<entry key="ru_bc_stripe_03">
+		<original value="My Name Is Legion"/>
+		<translation value="我的名字是军团"/>
+	</entry>
+	<entry key="ru_bc_stripe_03_desc">
+		<original value="It's a Secret Challenge. Nobody knows how to complete it."/>
+		<translation value="这是一个秘密成就，无人知道如何解锁。"/>
+	</entry>
+	<entry key="smg10_viet01Kill">
+		<original value="Lake Bird Tavor CTAR-21"/>
+		<translation value="湖鸟 Tavor CTAR-21"/>
+	</entry>
+	<entry key="smg10_viet01Kill_desc">
+		<original value="Kill 2,500 enemies with Lake Bird Tavor CTAR-21"/>
+		<translation value="使用湖鸟 Tavor CTAR-21 消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="shg07_viet01Kill">
+		<original value="Lake Bird Saiga Bullpup"/>
+		<translation value="湖鸟 Saiga 无托型"/>
+	</entry>
+	<entry key="shg07_viet01Kill_desc">
+		<original value="Kill 2,500 enemies with Lake Bird Saiga Bullpup"/>
+		<translation value="使用湖鸟 Saiga 无托型消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="ar04_viet01Kill">
+		<original value="Lake Bird AK-103"/>
+		<translation value="湖鸟 AK-103"/>
+	</entry>
+	<entry key="ar04_viet01Kill_desc">
+		<original value="Kill 2,500 enemies with Lake Bird AK-103"/>
+		<translation value="使用湖鸟 AK-103 消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="pt21_viet01Kill">
+		<original value="Lake Bird Glock 18C"/>
+		<translation value="湖鸟 Glock 18C"/>
+	</entry>
+	<entry key="pt21_viet01Kill_desc">
+		<original value="Kill 2,500 enemies with Lake Bird Glock 18C"/>
+		<translation value="使用湖鸟 Glock 18C 消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="ar12_viet01Kill">
+		<original value="Lake Bird M16A3 Custom"/>
+		<translation value="湖鸟 M16A3 Custom"/>
+	</entry>
+	<entry key="ar12_viet01Kill_desc">
+		<original value="Kill 2,500 enemies with Lake Bird M16A3 Custom"/>
+		<translation value="使用湖鸟 M16A3 Custom 消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="sr09_viet01Kill">
+		<original value="Lake Bird CS5 McMillan"/>
+		<translation value="湖鸟 CS5 McMillan"/>
+	</entry>
+	<entry key="sr09_viet01Kill_desc">
+		<original value="Kill 2,500 enemies with Lake Bird CS5 McMillan"/>
+		<translation value="使用湖鸟 CS5 McMillan 消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="kn16_viet01Kill">
+		<original value="Lake Bird Tactical Axe"/>
+		<translation value="湖鸟战术斧"/>
+	</entry>
+	<entry key="kn16_viet01Kill_desc">
+		<original value="Kill 2,500 enemies with Lake Bird Tactical Axe"/>
+		<translation value="使用湖鸟战术斧消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="ru_badge_pirate01">
+		<original value="Black label"/>
+		<translation value="黑券"/>
+	</entry>
+	<entry key="ru_badge_pirate01_desc">
+		<original value="Black label from Blackbeard"/>
+		<translation value="恐怖黑胡子船长的标志。"/>
+	</entry>
+	<entry key="ru_mark_pirate01">
+		<original value="Pirate sign"/>
+		<translation value="海盗旗帜"/>
+	</entry>
+	<entry key="ru_mark_pirate01_desc">
+		<original value="For the real conqueror of the seas"/>
+		<translation value="为大海真正的征服者打造。"/>
+	</entry>
+	<entry key="ru_stripe_pirate01">
+		<original value="Treasure map bottle"/>
+		<translation value="瓶中宝藏图"/>
+	</entry>
+	<entry key="ru_stripe_pirate01_desc">
+		<original value="Who knows, what can be found there"/>
+		<translation value="谁知道那里能找到什么？"/>
+	</entry>
+	<entry key="pirate01_mark_01">
+		<original value="Pirate Punisher"/>
+		<translation value="北非海盗"/>
+	</entry>
+	<entry key="pirate01_mark_01_desc">
+		<original value="Deal 25,000 damage with Pirate weapons"/>
+		<translation value="使用海盗武器造成 25000 点伤害。"/>
+	</entry>
+	<entry key="pirate01_badge_01">
+		<original value="Pirate Sharphooter"/>
+		<translation value="西印度海盗"/>
+	</entry>
+	<entry key="pirate01_badge_01_desc">
+		<original value="Perform 1,000 headshots with Pirate weapons"/>
+		<translation value="使用海盗武器通过爆头消灭 1000 名敌人。"/>
+	</entry>
+	<entry key="pirate01_stripe_01">
+		<original value="Pirate Slayer"/>
+		<translation value="劫掠海盗"/>
+	</entry>
+	<entry key="pirate01_stripe_01_desc">
+		<original value="Kill 10,000 enemies with Pirate weapons"/>
+		<translation value="使用海盗武器消灭 10000 名敌人。"/>
+	</entry>
+	<entry key="ar26_mrgtrnKill">
+		<original value="Lightcycle MSBS Radon"/>
+		<translation value="Light Cycle MSBS Radon"/>
+	</entry>
+	<entry key="ar26_mrgtrnKill_desc">
+		<original value="Kill 2,500 enemies with Lightcycle MSBS Radon"/>
+		<translation value="使用 Light Cycle MSBS Radon 消灭 2500 名敌人"/>
+	</entry>
+	<entry key="ar32_mrgtrnKill">
+		<original value="Lightcycle Hera Arms CQR"/>
+		<translation value="Light Cycle Hera Arms CQR"/>
+	</entry>
+	<entry key="ar32_mrgtrnKill_desc">
+		<original value="Kill 2,500 enemies with Lightcycle Hera Arms CQR"/>
+		<translation value="使用 Light Cycle Hera Arms CQR 消灭 2500 名敌人"/>
+	</entry>
+	<entry key="shg43_mrgtrnKill">
+		<original value="Lightcycle Fabarm P.S.S.10"/>
+		<translation value="Light Cycle Fabarm P.S.S.10"/>
+	</entry>
+	<entry key="shg43_mrgtrnKill_desc">
+		<original value="Kill 2,500 enemies with Lightcycle Fabarm P.S.S.10"/>
+		<translation value="使用 Light Cycle Fabarm P.S.S.10 消灭 2500 名敌人"/>
+	</entry>
+	<entry key="shg47_mrgtrnKill">
+		<original value="Lightcycle Uzkon UNG-12"/>
+		<translation value="Light Cycle Uzkon UNG-12"/>
+	</entry>
+	<entry key="shg47_mrgtrnKill_desc">
+		<original value="Kill 2,500 enemies with Lightcycle Uzkon UNG-12"/>
+		<translation value="使用 Light Cycle Uzkon UNG-12 消灭 2500 名敌人"/>
+	</entry>
+	<entry key="smg39_mrgtrnKill">
+		<original value="Lightcycle H&amp;K MP5A5 Custom"/>
+		<translation value="Light Cycle H&amp;K MP5A5 Custom"/>
+	</entry>
+	<entry key="smg39_mrgtrnKill_desc">
+		<original value="Kill 2,500 enemies with Lightcycle H&amp;K MP5A5 Custom"/>
+		<translation value="使用 Light Cycle H&amp;K MP5A5 Custom 消灭 2500 名敌人"/>
+	</entry>
+	<entry key="smg45_mrgtrnKill">
+		<original value="Lightcycle LWRC SMG-45"/>
+		<translation value="Light Cycle LWRC SMG-45"/>
+	</entry>
+	<entry key="smg45_mrgtrnKill_desc">
+		<original value="Kill 2,500 enemies with Lightcycle LWRC SMG-45"/>
+		<translation value="使用 Light Cycle LWRC SMG-45 消灭 2500 名敌人"/>
+	</entry>
+	<entry key="sr34_mrgtrnKill">
+		<original value="Lightcycle Steyr Scout"/>
+		<translation value="Light Cycle Steyr Scout"/>
+	</entry>
+	<entry key="sr34_mrgtrnKill_desc">
+		<original value="Kill 2,500 enemies with Lightcycle Steyr Scout"/>
+		<translation value="使用 Light Cycle Steyr Scout 消灭 2500 名敌人"/>
+	</entry>
+	<entry key="sr39_mrgtrnKill">
+		<original value="Lightcycle AT308"/>
+		<translation value="Light Cycle AT308"/>
+	</entry>
+	<entry key="sr39_mrgtrnKill_desc">
+		<original value="Kill 2,500 enemies with Lightcycle AT308"/>
+		<translation value="使用 Light Cycle AT308 消灭 2500 名敌人"/>
+	</entry>
+	<entry key="ru_wlan_stripe_08">
+		<original value="Final Winner"/>
+		<translation value="第 8 季冠军"/>
+	</entry>
+	<entry key="ru_wlan_stripe_08_desc">
+		<original value="Open Cup winners season VIII"/>
+		<translation value="成为《战争前线》公开赛第 8 季冠军。"/>
+	</entry>
+	<entry key="ru_wlan_stripe_09">
+		<original value="Final Winner"/>
+		<translation value="第 7 季冠军"/>
+	</entry>
+	<entry key="ru_wlan_stripe_09_desc">
+		<original value="Open Cup winners season VII"/>
+		<translation value="成为《战争前线》公开赛第 7 季冠军。"/>
+	</entry>
+	<entry key="ru_wlan_stripe_10">
+		<original value="Final Winner"/>
+		<translation value="第 6 季冠军"/>
+	</entry>
+	<entry key="ru_wlan_stripe_10_desc">
+		<original value="Open Cup winners season VI"/>
+		<translation value="成为《战争前线》公开赛第 6 季冠军。"/>
+	</entry>
+	<entry key="ru_wlan_stripe_11">
+		<original value="Final Winner"/>
+		<translation value="第 5 季冠军"/>
+	</entry>
+	<entry key="ru_wlan_stripe_11_desc">
+		<original value="Open Cup winners season V"/>
+		<translation value="成为《战争前线》公开赛第 5 季冠军。"/>
+	</entry>
+	<entry key="ru_wlan_stripe_12">
+		<original value="Final Winner"/>
+		<translation value="第 4 季冠军"/>
+	</entry>
+	<entry key="ru_wlan_stripe_12_desc">
+		<original value="Open Cup winners season IV"/>
+		<translation value="成为《战争前线》公开赛第 4 季冠军。"/>
+	</entry>
+	<entry key="ru_wlan_stripe_13">
+		<original value="Final Winner"/>
+		<translation value="第 3 季冠军"/>
+	</entry>
+	<entry key="ru_wlan_stripe_13_desc">
+		<original value="Open Cup winners season III"/>
+		<translation value="成为《战争前线》公开赛第 3 季冠军。"/>
+	</entry>
+	<entry key="ru_wlan_stripe_14">
+		<original value="Final Winner"/>
+		<translation value="第 2 季冠军"/>
+	</entry>
+	<entry key="ru_wlan_stripe_14_desc">
+		<original value="Open Cup winners season II"/>
+		<translation value="成为《战争前线》公开赛第 2 季冠军。"/>
+	</entry>
+	<entry key="ru_wlan_stripe_15">
+		<original value="Final Winner"/>
+		<translation value="第 1 季冠军"/>
+	</entry>
+	<entry key="ru_wlan_stripe_15_desc">
+		<original value="Open Cup winners season I"/>
+		<translation value="成为《战争前线》公开赛第 1 季冠军。"/>
+	</entry>
+	<entry key="ru_wlan_stripe_16">
+		<original value="Final Winner"/>
+		<translation value="第 10 季冠军"/>
+	</entry>
+	<entry key="ru_wlan_stripe_16_desc">
+		<original value="Open Cup winners season X"/>
+		<translation value="成为《战争前线》公开赛第 10 季冠军。"/>
+	</entry>
+	<entry key="ru_wlan_stripe_17">
+		<original value="Final Winner"/>
+		<translation value="9 季冠军"/>
+	</entry>
+	<entry key="ru_wlan_stripe_17_desc">
+		<original value="Open Cup winners season IX"/>
+		<translation value="成为《战争前线》公开赛第 9 季冠军。"/>
+	</entry>
+	<entry key="kn22Kill">
+		<original value="Revenge with the knife"/>
+		<translation value="刀刃"/>
+	</entry>
+	<entry key="kn22Kill_desc">
+		<original value="Kill 5,000 enemies with HX Outdoors Trident"/>
+		<translation value="使用 HX Outdoors Trident 消灭 5000 名敌人。"/>
+	</entry>
+	<entry key="kn22Kill25">
+		<original value="Cold revenge with the knife"/>
+		<translation value="高级：刀刃"/>
+	</entry>
+	<entry key="kn22Kill25_desc">
+		<original value="Kill 10,000 enemies with HX Outdoors Trident"/>
+		<translation value="使用 HX Outdoors Trident 消灭 10000 名敌人。"/>
+	</entry>
+	<entry key="ar44Kill">
+		<original value="Creeping Death"/>
+		<translation value="铁骑在此"/>
+	</entry>
+	<entry key="ar44Kill_desc">
+		<original value="Kill 5,000 enemies with HCAR Auto"/>
+		<translation value="使用 HCAR Auto 消灭 5000 名敌人。"/>
+	</entry>
+	<entry key="ar44Kill25">
+		<original value="Advanced Creeping Death"/>
+		<translation value="高级：铁骑在此"/>
+	</entry>
+	<entry key="ar44Kill25_desc">
+		<original value="Kill 10,000 enemies with HCAR Auto"/>
+		<translation value="使用 HCAR Auto 消灭 10000 名敌人。"/>
+	</entry>
+	<entry key="rm_firstplacewin_ach01">
+		<original value="The trophy of first blood"/>
+		<translation value="首次击杀奖杯"/>
+	</entry>
+	<entry key="rm_firstplacewin_ach01_desc">
+		<original value="Take first place 10 times in a winning team in ranked matches"/>
+		<translation value="10 次在排位赛的获胜队中成为最出色玩家。"/>
+	</entry>
+	<entry key="rm_firstplacewin_ach02">
+		<original value="The trophy of master"/>
+		<translation value="大师奖杯"/>
+	</entry>
+	<entry key="rm_firstplacewin_ach02_desc">
+		<original value="Take first place 50 times in a winning team in ranked matches"/>
+		<translation value="50 次在排位赛的获胜队中成为最出色玩家。"/>
+	</entry>
+	<entry key="rm_firstplacewin_ach03">
+		<original value="Leader's path"/>
+		<translation value="领袖奖杯"/>
+	</entry>
+	<entry key="rm_firstplacewin_ach03_desc">
+		<original value="Take first place 100 times in a winning team in ranked matches"/>
+		<translation value="100 次在排位赛的获胜队中成为最出色玩家。"/>
+	</entry>
+	<entry key="rm_firstplacewin_ach04">
+		<original value="Hero's path"/>
+		<translation value="英雄奖杯"/>
+	</entry>
+	<entry key="rm_firstplacewin_ach04_desc">
+		<original value="Take first place 500 times in a winning team in ranked matches"/>
+		<translation value="500 次在排位赛的获胜队中成为最出色玩家。"/>
+	</entry>
+	<entry key="smg09_customkill">
+		<original value="Deadly Charge"/>
+		<translation value="致命冲锋"/>
+	</entry>
+	<entry key="smg09_customkill_desc">
+		<original value="Kill 5 000 enemies with FN P90 Custom"/>
+		<translation value="使用 FN P90 Custom 消灭 5000 名敌人。"/>
+	</entry>
+	<entry key="smg09_customkill25">
+		<original value="Advanced Deadly Charge"/>
+		<translation value="高级：致命冲锋"/>
+	</entry>
+	<entry key="smg09_customkill25_desc">
+		<original value="Kill 10 000 enemies with FN P90 Custom"/>
+		<translation value="使用 FN P90 Custom 消灭 10000 名敌人。"/>
+	</entry>
+	<entry key="cc01_mark_01">
+		<original value="Leaders of Clan Wars"/>
+		<translation value="战队战争领袖"/>
+	</entry>
+	<entry key="cc01_mark_01_desc">
+		<original value="Awarded to the strongest team of the server in the Clans Cup"/>
+		<translation value="授予 Clans Cup 服务器上的最强队伍。"/>
+	</entry>
+	<entry key="cc01_mark_02">
+		<original value="The Hearth Keeper"/>
+		<translation value="壁炉守护者"/>
+	</entry>
+	<entry key="cc01_mark_02_desc">
+		<original value="The Officer or the Head of the clan, that won the Clans Cup tournament"/>
+		<translation value="赢得 Clans Cup 锦标赛的战队的军官或首领。"/>
+	</entry>
+	<entry key="cc01_badge_01">
+		<original value="Clans Cup Participant"/>
+		<translation value="Clans Cup 参赛者"/>
+	</entry>
+	<entry key="cc01_badge_01_desc">
+		<original value="Awarded to the participants of the Clans Cup"/>
+		<translation value="授予 Clans Cup 参赛者。"/>
+	</entry>
+	<entry key="cc01_badge_02">
+		<original value="Spirit of Unity"/>
+		<translation value="团结精神"/>
+	</entry>
+	<entry key="cc01_badge_02_desc">
+		<original value="The Participant of the strongest clan on the server"/>
+		<translation value="服务器上最强战队的参与者。"/>
+	</entry>
+	<entry key="cc01_stripe_01">
+		<original value="The Strongest Clan"/>
+		<translation value="最强战队"/>
+	</entry>
+	<entry key="cc01_stripe_01_desc">
+		<original value="Awarded to the winners of the Clans Cup"/>
+		<translation value="授予 Clans Cup 获胜者。"/>
+	</entry>
+	<entry key="cc01_stripe_02">
+		<original value="Strongest Among Equals"/>
+		<translation value="最强竞争者"/>
+	</entry>
+	<entry key="cc01_stripe_02_desc">
+		<original value="The Participant or the Head of the clan, that won the Clans Cup tournament"/>
+		<translation value="赢得 Clans Cup 锦标赛的战队的参与者或首领。"/>
+	</entry>
+	<entry key="ar36_brazil01Kill">
+		<original value="Favelas F90 MBR"/>
+		<translation value="恶棍 F90 MBR"/>
+	</entry>
+	<entry key="ar36_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas F90 MBR"/>
+		<translation value="使用恶棍 F90 MBR 消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="ar39_brazil01Kill">
+		<original value="Favelas Howa Type 89 Custom"/>
+		<translation value="恶棍丰和 89 式定制版"/>
+	</entry>
+	<entry key="ar39_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas Howa Type 89 Custom"/>
+		<translation value="使用恶棍丰和 89 式定制版消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="mg26_brazil01Kill">
+		<original value="Favelas HK121"/>
+		<translation value="恶棍 H&amp;K 121"/>
+	</entry>
+	<entry key="mg26_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas HK121"/>
+		<translation value="使用恶棍 H&amp;K 121 消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="shg54_brazil01Kill">
+		<original value="Favelas Kel-Tec KS7"/>
+		<translation value="恶棍 Kel-Tec KS7"/>
+	</entry>
+	<entry key="shg54_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas Kel-Tec KS7"/>
+		<translation value="使用恶棍 Kel-Tec KS7 消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="shg55_brazil01Kill">
+		<original value="Favelas Chiappa Triple Threat"/>
+		<translation value="恶棍 Chiappa 三重威胁"/>
+	</entry>
+	<entry key="shg55_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas Chiappa Triple Threat"/>
+		<translation value="使用恶棍 Chiappa 三重威胁消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="shg38_brazil01Kill">
+		<original value="Favelas Fabarm XLR5 Prestige"/>
+		<translation value="恶棍 Fabarm XLR5 Prestige"/>
+	</entry>
+	<entry key="shg38_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas Fabarm XLR5 Prestige"/>
+		<translation value="使用恶棍 Fabarm XLR5 Prestige 消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="smg49_brazil01Kill">
+		<original value="Favelas AM-17"/>
+		<translation value="恶棍 AM-17"/>
+	</entry>
+	<entry key="smg49_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas AM-17"/>
+		<translation value="使用恶棍 AM-17 消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="smg46_brazil01Kill">
+		<original value="Favelas SIG MPX SBR Custom"/>
+		<translation value="恶棍 SIG MPX SBR Custom"/>
+	</entry>
+	<entry key="smg46_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas SIG MPX SBR Custom"/>
+		<translation value="使用恶棍 SIG MPX SBR Custom 消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="smg45_brazil01Kill">
+		<original value="Favelas LWRC SMG-45"/>
+		<translation value="恶棍 LWRC SMG-45"/>
+	</entry>
+	<entry key="smg45_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas LWRC SMG-45"/>
+		<translation value="使用恶棍 LWRC SMG-45 消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="sr47_brazil01Kill">
+		<original value="Favelas Truvelo CMS 20x42"/>
+		<translation value="恶棍 Truvelo CMS 20x42mm"/>
+	</entry>
+	<entry key="sr47_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas Truvelo CMS 20x42"/>
+		<translation value="使用恶棍 Truvelo CMS 20x42mm 消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="sr48_brazil01Kill">
+		<original value="Favelas SV-98"/>
+		<translation value="恶棍 SV-98"/>
+	</entry>
+	<entry key="sr48_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas SV-98"/>
+		<translation value="使用恶棍 SV-98 消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="sr31_brazil01Kill">
+		<original value="Favelas AX308"/>
+		<translation value="恶棍 AX308"/>
+	</entry>
+	<entry key="sr31_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas AX308"/>
+		<translation value="使用恶棍 AX308 消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="hmg02_brazil01Kill">
+		<original value="Favelas XM556 Microgun"/>
+		<translation value="恶棍 XM556 微型炮"/>
+	</entry>
+	<entry key="hmg02_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas XM556 Microgun"/>
+		<translation value="使用恶棍 XM556 微型炮消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="pt39_brazil01Kill">
+		<original value="Favelas Kel-Tec SUB2000"/>
+		<translation value="恶棍 Kel-Tec SUB2000"/>
+	</entry>
+	<entry key="pt39_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas Kel-Tec SUB2000"/>
+		<translation value="使用恶棍 Kel-Tec SUB2000 消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="pt14_brazil01Kill">
+		<original value="Favelas SIG Sauer P226"/>
+		<translation value="恶棍 SIG Sauer P226"/>
+	</entry>
+	<entry key="pt14_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas SIG Sauer P226"/>
+		<translation value="使用恶棍 SIG Sauer P226 消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="kn19_brazil01Kill">
+		<original value="Favelas Balisong Knife"/>
+		<translation value="恶棍蝴蝶刀"/>
+	</entry>
+	<entry key="kn19_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas Balisong Knife"/>
+		<translation value="使用恶棍蝴蝶刀消灭 2500 名敌人。"/>
+	</entry>
+	<entry key="brazil02_mark_01">
+		<original value="Favelas Destroyer"/>
+		<translation value="执法者"/>
+	</entry>
+	<entry key="brazil02_mark_01_desc">
+		<original value="Deal 25,000 damage with Favelas weapons"/>
+		<translation value="使用卫士武器造成 25000 点伤害。"/>
+	</entry>
+	<entry key="brazil02_badge_01">
+		<original value="Favelas Butcher"/>
+		<translation value="法官、陪审团和行刑者"/>
+	</entry>
+	<entry key="brazil02_badge_01_desc">
+		<original value="Perform 1,000 headshots with Favelas weapons"/>
+		<translation value="使用卫士武器完成 1000 次爆头。"/>
+	</entry>
+	<entry key="brazil02_stripe_01">
+		<original value="Favelas Smasher"/>
+		<translation value="我代表参议院"/>
+	</entry>
+	<entry key="brazil02_stripe_01_desc">
+		<original value="Kill 10,000 enemies with Favelas weapons"/>
+		<translation value="使用卫士武器消灭 10000 名敌人。"/>
+	</entry>
+	<entry key="winPTB_DISTRICT_UP1">
+		<original value="The Backstreet Tiger"/>
+		<translation value="后街老虎"/>
+	</entry>
+	<entry key="winPTB_DISTRICT_UP1_desc">
+		<original value="Win 10 PTB District Up matches"/>
+		<translation value="在街区 2.0 地图上赢得 10 场“安装炸弹”比赛。"/>
+	</entry>
+	<entry key="winPTB_DISTRICT_UP2">
+		<original value="The District Thug"/>
+		<translation value="街区一霸"/>
+	</entry>
+	<entry key="winPTB_DISTRICT_UP2_desc">
+		<original value="Win 25 PTB District Up matches"/>
+		<translation value="在街区 2.0 地图上赢得 25 场“安装炸弹”比赛。"/>
+	</entry>
+	<entry key="winPTB_DISTRICT_UP3">
+		<original value="Favela's Menace"/>
+		<translation value="贫民区威胁"/>
+	</entry>
+	<entry key="winPTB_DISTRICT_UP3_desc">
+		<original value="Win 50 PTB District Up matches"/>
+		<translation value="在街区 2.0 地图上赢得 50 场“安装炸弹”比赛。"/>
+	</entry>
+	<entry key="FirstPlacePTB_DISTRICT_UP1">
+		<original value="Street Scout"/>
+		<translation value="街道之声"/>
+	</entry>
+	<entry key="FirstPlacePTB_DISTRICT_UP1_desc">
+		<original value="Take 1st place on PTB District up 25 times"/>
+		<translation value="在街区 2.0 地图上的“安装炸弹”模式中 25 次排名第一。"/>
+	</entry>
+	<entry key="FirstPlacePTB_DISTRICT_UP2">
+		<original value="Lane usurper"/>
+		<translation value="小巷称雄"/>
+	</entry>
+	<entry key="FirstPlacePTB_DISTRICT_UP2_desc">
+		<original value="Take 1st place on PTB District up 50 times"/>
+		<translation value="在街区 2.0 地图上的“安装炸弹”模式中 50 次排名第一。"/>
+	</entry>
+	<entry key="FirstPlacePTB_DISTRICT_UP3">
+		<original value="District encroacher"/>
+		<translation value="街道之王"/>
+	</entry>
+	<entry key="FirstPlacePTB_DISTRICT_UP3_desc">
+		<original value="Take 1st place on PTB District up 100 times"/>
+		<translation value="在街区 2.0 地图上的“安装炸弹”模式中 100 次排名第一。"/>
+	</entry>
+	<entry key="ru_mvp_badge_01">
+		<original value="Open Cup Final: Most valuable player - Rifleman"/>
+		<translation value="公开赛杯：最佳步枪手"/>
+	</entry>
+	<entry key="ru_mvp_badge_01_desc">
+		<original value="Awarded to the best Rifleman of final event of Warface Open Cup"/>
+		<translation value="成为战争前线公开赛杯决赛的最佳步枪手。"/>
+	</entry>
+	<entry key="ru_mvp_badge_02">
+		<original value="Open Cup Final: Most valuable player - Medic"/>
+		<translation value="公开赛杯：最佳医疗兵"/>
+	</entry>
+	<entry key="ru_mvp_badge_02_desc">
+		<original value="Awarded to the best Medic of final event of Warface Open Cup"/>
+		<translation value="成为战争前线公开赛杯决赛的最佳医疗兵。"/>
+	</entry>
+	<entry key="ru_mvp_badge_03">
+		<original value="Open Cup Final: Most valuable player - Engineer"/>
+		<translation value="公开赛杯：最佳工程师"/>
+	</entry>
+	<entry key="ru_mvp_badge_03_desc">
+		<original value="Awarded to the best Engineer of final event of Warface Open Cup"/>
+		<translation value="成为战争前线公开赛杯决赛的最佳工程师。"/>
+	</entry>
+	<entry key="ru_mvp_badge_04">
+		<original value="Open Cup Final: Most valuable player - Sniper"/>
+		<translation value="公开赛杯：最佳狙击手"/>
+	</entry>
+	<entry key="ru_mvp_badge_04_desc">
+		<original value="Awarded to the best Sniper of final event of Warface Open Cup"/>
+		<translation value="成为战争前线公开赛杯决赛的最佳狙击手。"/>
+	</entry>
+	<entry key="ru_mvp_badge_05">
+		<original value="Open Cup Final: Most valuable player - SED"/>
+		<translation value="公开赛杯：最佳 SED"/>
+	</entry>
+	<entry key="ru_mvp_badge_05_desc">
+		<original value="Awarded to the best SED of final event of Warface Open Cup"/>
+		<translation value="成为战争前线公开赛杯决赛的最佳 SED。"/>
+	</entry>
+	<entry key="ru_mvp_badge_06">
+		<original value="Open Cup Final: Most valuable player - Rifleman"/>
+		<translation value="公开赛杯：最佳步枪手"/>
+	</entry>
+	<entry key="ru_mvp_badge_06_desc">
+		<original value="Awarded to the best Rifleman of final event of Warface Open Cup"/>
+		<translation value="成为战争前线公开赛杯决赛的最佳步枪手。"/>
+	</entry>
+	<entry key="ru_mvp_badge_07">
+		<original value="Open Cup Final: Most valuable player - Medic"/>
+		<translation value="公开赛杯：最佳医疗兵"/>
+	</entry>
+	<entry key="ru_mvp_badge_07_desc">
+		<original value="Awarded to the best Medic of final event of Warface Open Cup"/>
+		<translation value="成为战争前线公开赛杯决赛的最佳医疗兵。"/>
+	</entry>
+	<entry key="ru_mvp_badge_08">
+		<original value="Open Cup Final: Most valuable player - Engineer"/>
+		<translation value="公开赛杯：最佳工程师"/>
+	</entry>
+	<entry key="ru_mvp_badge_08_desc">
+		<original value="Awarded to the best Engineer of final event of Warface Open Cup"/>
+		<translation value="成为战争前线公开赛杯决赛的最佳工程师。"/>
+	</entry>
+	<entry key="ru_mvp_badge_09">
+		<original value="Open Cup Final: Most valuable player - Sniper"/>
+		<translation value="公开赛杯：最佳狙击手"/>
+	</entry>
+	<entry key="ru_mvp_badge_09_desc">
+		<original value="Awarded to the best Sniper of final event of Warface Open Cup"/>
+		<translation value="成为战争前线公开赛杯决赛的最佳狙击手。"/>
+	</entry>
+	<entry key="ru_mvp_badge_10">
+		<original value="Open Cup Final: Most valuable player - SED"/>
+		<translation value="公开赛杯：最佳 SED"/>
+	</entry>
+	<entry key="ru_mvp_badge_10_desc">
+		<original value="Awarded to the best SED of final event of Warface Open Cup"/>
+		<translation value="成为战争前线公开赛杯决赛的最佳 SED。"/>
+	</entry>
+	<entry key="ru_mvp_badge_11">
+		<original value="Open Cup Final: Most valuable player - Rifleman"/>
+		<translation value="公开赛杯：最佳步枪手"/>
+	</entry>
+	<entry key="ru_mvp_badge_11_desc">
+		<original value="Awarded to the best Rifleman of final event of Warface Open Cup"/>
+		<translation value="成为战争前线公开赛杯决赛的最佳步枪手。"/>
+	</entry>
+	<entry key="ru_mvp_badge_12">
+		<original value="Open Cup Final: Most valuable player - Medic"/>
+		<translation value="公开赛杯：最佳医疗兵"/>
+	</entry>
+	<entry key="ru_mvp_badge_12_desc">
+		<original value="Awarded to the best Medic of final event of Warface Open Cup"/>
+		<translation value="成为战争前线公开赛杯决赛的最佳医疗兵。"/>
+	</entry>
+	<entry key="ru_mvp_badge_13">
+		<original value="Open Cup Final: Most valuable player - Engineer"/>
+		<translation value="公开赛杯：最佳工程师"/>
+	</entry>
+	<entry key="ru_mvp_badge_13_desc">
+		<original value="Awarded to the best Engineer of final event of Warface Open Cup"/>
+		<translation value="成为战争前线公开赛杯决赛的最佳工程师。"/>
+	</entry>
+	<entry key="ru_mvp_badge_14">
+		<original value="Open Cup Final: Most valuable player - Sniper"/>
+		<translation value="公开赛杯：最佳狙击手"/>
+	</entry>
+	<entry key="ru_mvp_badge_14_desc">
+		<original value="Awarded to the best Sniper of final event of Warface Open Cup"/>
+		<translation value="成为战争前线公开赛杯决赛的最佳狙击手。"/>
+	</entry>
+	<entry key="ru_mvp_badge_15">
+		<original value="Open Cup Final: Most valuable player - SED"/>
+		<translation value="公开赛杯：最佳 SED"/>
+	</entry>
+	<entry key="ru_mvp_badge_15_desc">
+		<original value="Awarded to the best SED of final event of Warface Open Cup"/>
+		<translation value="成为战争前线公开赛杯决赛的最佳 SED。"/>
+	</entry>
+	<entry key="sr51_Kill">
+		<original value="Hawkeye"/>
+		<translation value="鹰眼"/>
+	</entry>
+	<entry key="sr51_Kill_desc">
+		<original value="Kill 5,000 enemies with DVL-10 M2"/>
+		<translation value="使用 DVL-10 M2 消灭 5,000 名敌人"/>
+	</entry>
+	<entry key="sr51Kill25">
+		<original value="Advanced Hawkeye"/>
+		<translation value="高级：鹰眼"/>
+	</entry>
+	<entry key="sr51Kill25_desc">
+		<original value="Kill 10,000 enemies with DVL-10 M2"/>
+		<translation value="使用 DVL-10 M2 消灭 10,000 名敌人"/>
+	</entry>
+	<entry key="smg53_Kill">
+		<original value="Dead Silence"/>
+		<translation value="吸血鬼"/>
+	</entry>
+	<entry key="smg53_Kill_desc">
+		<original value="Kill 5,000 enemies with AMB-17 or its gold version"/>
+		<translation value="使用 AMB-17 或其黄金版消灭 5,000 名敌人。"/>
+	</entry>
+	<entry key="smg53_Kill25">
+		<original value="Advanced Dead Silence"/>
+		<translation value="高级：吸血鬼"/>
+	</entry>
+	<entry key="smg53_Kill25_desc">
+		<original value="Kill 10,000 enemies with AMB-17 or its gold version"/>
+		<translation value="使用 AMB-17 或其黄金版消灭 10,000 名敌人。"/>
+	</entry>
+	<entry key="smg53_gold_kill_01">
+		<original value="Cruel Vampire"/>
+		<translation value="德古拉勋爵"/>
+	</entry>
+	<entry key="smg53_gold_kill_01_desc">
+		<original value="Make 999 kills with GoldВ AMB-17"/>
+		<translation value="使用黄金版 AMB-17 消灭 999 名敌人。"/>
 	</entry>
 </localization>

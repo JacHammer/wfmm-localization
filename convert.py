@@ -323,7 +323,7 @@ def main(db_type, credential_file):
         for sql in sql_check_tables:
             try:
                 c.execute(sql)
-            except sqlite3.OperationalError:
+            except Exception as e:
                 print('column title_cn already exists in ru')
         connection.commit()
 

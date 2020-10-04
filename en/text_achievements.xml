@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
 	<entry key="achievement_headshots_made">
 		<original value="Oversized Head"/>
 		<translation value="Oversized Head"/>
@@ -189,7 +193,7 @@
 		<translation value="Silent but Deadly"/>
 	</entry>
 	<entry key="silent_shot3_desc">
-		<original value="Eliminate 2500 enemy players using a silenced weapon."/>
+		<original value="Eliminate 2,500 enemy players using a silenced weapon."/>
 		<translation value="Eliminate 2500 enemy players using a silenced weapon."/>
 	</entry>
 	<entry key="buttkiller">
@@ -12796,27 +12800,27 @@
 		<original value="Take the 1st place in Blitz: Residence 100 times."/>
 		<translation value="Take the 1st place in Blitz: Residence 100 times."/>
 	</entry>
-	<entry key="firstPlaceTDMBlackmamba1">
+	<entry key="firstPlaceSTMBlackmamba1">
 		<original value="Baron of Black Mamba"/>
 		<translation value="Baron of Black Mamba"/>
 	</entry>
-	<entry key="firstPlaceTDMBlackmamba1_desc">
+	<entry key="firstPlaceSTMBlackmamba1_desc">
 		<original value="Take the 1st place in Storm: Black Mamba 25 times."/>
 		<translation value="Take the 1st place in Storm: Black Mamba 25 times."/>
 	</entry>
-	<entry key="firstPlaceTDMBlackmamba2">
+	<entry key="firstPlaceSTMBlackmamba2">
 		<original value="Duke of Black Mamba"/>
 		<translation value="Duke of Black Mamba"/>
 	</entry>
-	<entry key="firstPlaceTDMBlackmamba2_desc">
+	<entry key="firstPlaceSTMBlackmamba2_desc">
 		<original value="Take the 1st place in Storm: Black Mamba 50 times."/>
 		<translation value="Take the 1st place in Storm: Black Mamba 50 times."/>
 	</entry>
-	<entry key="firstPlaceTDMBlackmamba3">
+	<entry key="firstPlaceSTMBlackmamba3">
 		<original value="King of Black Mamba"/>
 		<translation value="King of Black Mamba"/>
 	</entry>
-	<entry key="firstPlaceTDMBlackmamba3_desc">
+	<entry key="firstPlaceSTMBlackmamba3_desc">
 		<original value="Take the 1st place in Storm: Black Mamba 100 times."/>
 		<translation value="Take the 1st place in Storm: Black Mamba 100 times."/>
 	</entry>
@@ -18209,7 +18213,7 @@
 		<translation value="Onyx TDI KRISS Super V"/>
 	</entry>
 	<entry key="smg44_black03Kill_desc">
-		<original value="Eliminate 2500 enemies with Onyx TDI KRISS Super V"/>
+		<original value="Eliminate 2,500 enemies with Onyx TDI KRISS Super V"/>
 		<translation value="Eliminate 2500 enemies with Onyx TDI KRISS Super V"/>
 	</entry>
 	<entry key="arena01_stripe_01">
@@ -19922,7 +19926,7 @@
 	</entry>
 	<entry key="bp10_stripe_01_desc">
 		<original value="Perform 10,000 kills with Samurai weapons"/>
-		<translation value="Eliminate 10,000 enemies with the weapons of &quot;Cherry Blossom&quot; and &quot;Golden Dragon&quot; series."/>
+		<translation value="Eliminate 10,000 enemies with the weapons of &quot;Cherry Blossom&quot; series."/>
 	</entry>
 	<entry key="bp10_mark_01">
 		<original value="Way of the Samurai"/>
@@ -19930,7 +19934,7 @@
 	</entry>
 	<entry key="bp10_mark_01_desc">
 		<original value="Perform 1,000 kills in jump with Samurai weapons"/>
-		<translation value="Eliminate 1,000 enemies with the weapons of &quot;Cherry Blossom&quot; and &quot;Golden Dragon&quot; series while jumping."/>
+		<translation value="Eliminate 1,000 enemies with the weapons of &quot;Cherry Blossom&quot; series while jumping."/>
 	</entry>
 	<entry key="bp10_badge_01">
 		<original value="Samurai Strike"/>
@@ -19938,7 +19942,7 @@
 	</entry>
 	<entry key="bp10_badge_01_desc">
 		<original value="Perform 1,000 headshots with Samurai weapons"/>
-		<translation value="Perform 1,000 headshots with the weapons of &quot;Cherry Blossom&quot; and &quot;Golden Dragon&quot; series."/>
+		<translation value="Perform 1,000 headshots with the weapons of &quot;Cherry Blossom&quot; series."/>
 	</entry>
 	<entry key="smg51Kill">
 		<original value="Furious Gilboa DBR Snake"/>
@@ -20219,5 +20223,1085 @@
 	<entry key="winRW3Sed_desc">
 		<original value="Complete Zenith mission by SED"/>
 		<translation value="Complete the &quot;Zenith&quot; operation as a SED."/>
+	</entry>
+	<entry key="ru_wfpro_challgers_mark01">
+		<original value="Clear Goal"/>
+		<translation value="Clear Goal"/>
+	</entry>
+	<entry key="ru_wfpro_challgers_mark01_desc">
+		<original value="Awarded to the participants of PRO.Challengers"/>
+		<translation value="Awarded to the participants of PRO.Challengers."/>
+	</entry>
+	<entry key="ru_wfpro_challgers_mark02">
+		<original value="A Step Away"/>
+		<translation value="A Step Away"/>
+	</entry>
+	<entry key="ru_wfpro_challgers_mark02_desc">
+		<original value="Awarded to the finalists of PRO.Challengers"/>
+		<translation value="Awarded to the finalists of PRO.Challengers."/>
+	</entry>
+	<entry key="ru_wfpro_challgers_mark03">
+		<original value="Ultimate Challenger"/>
+		<translation value="Ultimate Challenger"/>
+	</entry>
+	<entry key="ru_wfpro_challgers_mark03_desc">
+		<original value="Awarded to the winners of PRO.Challengers"/>
+		<translation value="Awarded to the winners of PRO.Challengers."/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge01">
+		<original value="Hero In The Making I"/>
+		<translation value="Hero In The Making I"/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge01_desc">
+		<original value="Take part in the PRO.Masters"/>
+		<translation value="Take part in the PRO.Masters."/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge02">
+		<original value="Hero In The Making II"/>
+		<translation value="Hero In The Making II"/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge02_desc">
+		<original value="Take part in the PRO.Masters twice"/>
+		<translation value="Take part in the PRO.Masters twice."/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge03">
+		<original value="Hero In The Making III"/>
+		<translation value="Hero In The Making III"/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge03_desc">
+		<original value="Take part in the PRO.Masters three times"/>
+		<translation value="Take part in the PRO.Masters three times."/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge04">
+		<original value="Hero In The Making IV"/>
+		<translation value="Hero In The Making IV"/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge04_desc">
+		<original value="Take part in the PRO.Masters four times"/>
+		<translation value="Take part in the PRO.Masters four times."/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge05">
+		<original value="Hero In The Making V"/>
+		<translation value="Hero In The Making V"/>
+	</entry>
+	<entry key="ru_wfpro_masters_badge05_desc">
+		<original value="Take part in the PRO.Masters five times"/>
+		<translation value="Take part in the PRO.Masters five times."/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge01">
+		<original value="Bronze Champion"/>
+		<translation value="Bronze Champion"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge01_desc">
+		<original value="Become PRO.Legends bronze medalist"/>
+		<translation value="Become the bronze medalist of PRO.Legends."/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge02">
+		<original value="Real Champion"/>
+		<translation value="Real Champion"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge02_desc">
+		<original value="Seize the 2nd place in PRO.Legends!"/>
+		<translation value="Seize the second place in PRO.Legends."/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge03">
+		<original value="Absolute Champion"/>
+		<translation value="Absolute Champion"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge03_desc">
+		<original value="Become the ultimate winner of PRO.Legends"/>
+		<translation value="Become the ultimate winner of PRO.Legends."/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge04">
+		<original value="Golden take"/>
+		<translation value="Golden take"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge04_desc">
+		<original value="Two-time champion PRO.Champions"/>
+		<translation value="Become the winner of PRO.Champions twice."/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge05">
+		<original value="Three times champion"/>
+		<translation value="Golden Trinity"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge05_desc">
+		<original value="Three times become the winner of PRO.Champions"/>
+		<translation value="Become the winner of PRO.Champions three times."/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge06">
+		<original value="Champion of Champions"/>
+		<translation value="The Highest Caliber"/>
+	</entry>
+	<entry key="ru_wfpro_legend_badge06_desc">
+		<original value="Four-time champion PRO.Champions"/>
+		<translation value="Become the winner of PRO.Champions four times."/>
+	</entry>
+	<entry key="ru_wfpro_grdfinal_badge01">
+		<original value="Bronze Touch"/>
+		<translation value="Bronze Touch"/>
+	</entry>
+	<entry key="ru_wfpro_grdfinal_badge01_desc">
+		<original value="Seize the 3rd place in PRO.Champions"/>
+		<translation value="Seize the 3rd place in PRO.Champions."/>
+	</entry>
+	<entry key="ru_wfpro_grdfinal_badge02">
+		<original value="Silver Touch"/>
+		<translation value="Silver Touch"/>
+	</entry>
+	<entry key="ru_wfpro_grdfinal_badge02_desc">
+		<original value="Seize the 2nd place in PRO.Champions"/>
+		<translation value="Seize the 2nd place in PRO.Champions."/>
+	</entry>
+	<entry key="ru_wfpro_grdfinal_badge03">
+		<original value="Golden Touch"/>
+		<translation value="Golden Touch"/>
+	</entry>
+	<entry key="ru_wfpro_grdfinal_badge03_desc">
+		<original value="Seize the 1st place in PRO.Champions"/>
+		<translation value="Seize the 1st place in PRO.Champions."/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe01">
+		<original value="Final Straw I"/>
+		<translation value="Final Straw I"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe01_desc">
+		<original value="Participate in the Warface.PRO I LAN-Finals"/>
+		<translation value="Participate in the Warface.PRO I LAN-Finals."/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe02">
+		<original value="Final Straw II"/>
+		<translation value="Final Straw II"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe02_desc">
+		<original value="Participate in the Warface.PRO II LAN-Finals"/>
+		<translation value="Participate in the Warface.PRO II LAN-Finals."/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe03">
+		<original value="Final Straw III"/>
+		<translation value="Final Straw III"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe03_desc">
+		<original value="Participate in the Warface.PRO III LAN-Finals"/>
+		<translation value="Participate in the Warface.PRO III LAN-Finals."/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe04">
+		<original value="Final Straw IV"/>
+		<translation value="Final Straw IV"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe04_desc">
+		<original value="Participate in the Warface.PRO IV LAN-Finals"/>
+		<translation value="Participate in the Warface.PRO IV LAN-Finals."/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe05">
+		<original value="Final Straw V"/>
+		<translation value="Final Straw V"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe05_desc">
+		<original value="Participate in the Warface.PRO V LAN-Finals"/>
+		<translation value="Participate in the Warface.PRO V LAN-Finals."/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe06">
+		<original value="Legendary Contender"/>
+		<translation value="Legendary Contender"/>
+	</entry>
+	<entry key="ru_wfpro_lanfinal_stripe06_desc">
+		<original value="Awarded to the participants of PRO.Legends"/>
+		<translation value="Awarded to the participants of PRO.Legends."/>
+	</entry>
+	<entry key="oc05_mark_01">
+		<original value="Open Cup Summer 2020 Punisher"/>
+		<translation value="Warface.Pro I: Commando"/>
+	</entry>
+	<entry key="oc05_mark_01_desc">
+		<original value="Deal 25,000 damage with Open Cup Summer 2020 weapons"/>
+		<translation value="Deal 25,000 damage with Warface.Pro I weapons."/>
+	</entry>
+	<entry key="oc05_badge_01">
+		<original value="Open Cup Summer 2020 Sharphooter"/>
+		<translation value="Warface.Pro I: Sharphooter"/>
+	</entry>
+	<entry key="oc05_badge_01_desc">
+		<original value="Perform 1,000 headshots with Open Cup Summer 2020 weapons"/>
+		<translation value="Perform 1,000 headshots with Warface.Pro I weapons."/>
+	</entry>
+	<entry key="oc05_stripe_01">
+		<original value="Open Cup Summer 2020 Slayer"/>
+		<translation value="Warface.Pro I: Slayer"/>
+	</entry>
+	<entry key="oc05_stripe_01_desc">
+		<original value="Kill 10,000 enemies with Open Cup Summer 2020 weapons"/>
+		<translation value="Eliminate 10,000 enemies with Warface.Pro I weapons."/>
+	</entry>
+	<entry key="mg26kill">
+		<original value="Bullet Rain"/>
+		<translation value="Bullet Rain"/>
+	</entry>
+	<entry key="mg26kill_desc">
+		<original value="Kill 5,000 enemies with H&amp;K 121 or its gold version"/>
+		<translation value="Eliminate 5,000 enemies with H&amp;K 121 or its golden version."/>
+	</entry>
+	<entry key="mg26kill25">
+		<original value="Advanced Bullet Rain"/>
+		<translation value="Advanced: Bullet Rain"/>
+	</entry>
+	<entry key="mg26kill25_desc">
+		<original value="Kill 10,000 enemies with H&amp;K 121 or its gold version"/>
+		<translation value="Eliminate 10,000 enemies with H&amp;K 121 or its golden version."/>
+	</entry>
+	<entry key="mg26_gold_kill_01">
+		<original value="Better not get close to me!"/>
+		<translation value="Lead the Way"/>
+	</entry>
+	<entry key="mg26_gold_kill_01_desc">
+		<original value="Kill 999 enemies with Gold H&amp;K 121"/>
+		<translation value="Eliminate 999 enemies with a Golden H&amp;K 121."/>
+	</entry>
+	<entry key="ru_bigbon_badge_01">
+		<original value="Instant noodles Medalist"/>
+		<translation value="Ramen Ruler"/>
+	</entry>
+	<entry key="ru_bigbon_badge_01_desc">
+		<original value="Treat your friend with the most delicious instant noodles in the world!"/>
+		<translation value="Treat yourself to the most delicious instant noodles."/>
+	</entry>
+	<entry key="ru_bigbon_mark_01">
+		<original value="Instant noodles protection"/>
+		<translation value="Top Ramen"/>
+	</entry>
+	<entry key="ru_bigbon_mark_01_desc">
+		<original value="Treat your friend with the most delicious instant noodles in the world!"/>
+		<translation value="Treat yourself to the most delicious instant noodles."/>
+	</entry>
+	<entry key="ru_bigbon_stripe_01">
+		<original value="Set of Instant noodles"/>
+		<translation value="Satisfied Team"/>
+	</entry>
+	<entry key="ru_bigbon_stripe_01_desc">
+		<original value="Treat your friend with the most delicious instant noodles in the world!"/>
+		<translation value="Treat yourself to the most delicious instant noodles."/>
+	</entry>
+	<entry key="ru_september3rd_badge_01">
+		<original value="September 3rd Badge"/>
+		<translation value="3rd of September Again"/>
+	</entry>
+	<entry key="ru_september3rd_badge_01_desc">
+		<original value="Flip the calendar"/>
+		<translation value="Know your meme achievement edition: flip the calendar"/>
+	</entry>
+	<entry key="ru_september3rd_mark_01">
+		<original value="September 3rd Mark"/>
+		<translation value="Rowan bonfires"/>
+	</entry>
+	<entry key="ru_september3rd_mark_01_desc">
+		<original value="Flip the calendar"/>
+		<translation value="Know your meme achievement edition: flip the calendar"/>
+	</entry>
+	<entry key="ru_september3rd_stripe_01">
+		<original value="September 3rd Stripe"/>
+		<translation value="Promises burning"/>
+	</entry>
+	<entry key="ru_september3rd_stripe_01_desc">
+		<original value="Flip the calendar"/>
+		<translation value="Know your meme achievement edition: flip the calendar"/>
+	</entry>
+	<entry key="belarus_flag_02">
+		<original value="Flag of Belarus"/>
+		<translation value="Flag of Belarus"/>
+	</entry>
+	<entry key="belarus_flag_02_desc">
+		<original value="Flag of Belarus"/>
+		<translation value="Flag of Belarus."/>
+	</entry>
+	<entry key="ru_bc_badge_01">
+		<original value="There can be only one"/>
+		<translation value="There Can Be Only One"/>
+	</entry>
+	<entry key="ru_bc_badge_01_desc">
+		<original value="Awarded to the finalists of Battle Cup"/>
+		<translation value="Awarded to finalists of the solo Battle Cup tournament."/>
+	</entry>
+	<entry key="ru_bc_badge_02">
+		<original value="Battle Cup: Final Straw"/>
+		<translation value="Battle Cup: Final Straw"/>
+	</entry>
+	<entry key="ru_bc_badge_02_desc">
+		<original value="Awarded to the finalists of Battle Cup"/>
+		<translation value="Awarded to finalists of the team Battle Cup tournament."/>
+	</entry>
+	<entry key="ru_bc_badge_03">
+		<original value="Universal fighter"/>
+		<translation value="Universal Fighter"/>
+	</entry>
+	<entry key="ru_bc_badge_03_desc">
+		<original value="Awarded to the participants of Battle Cup"/>
+		<translation value="Awarded to finalists of the team Battle Cup tournament."/>
+	</entry>
+	<entry key="ru_bc_mark_01">
+		<original value="Battle Cup: MVP"/>
+		<translation value="Battle Cup: Best Player"/>
+	</entry>
+	<entry key="ru_bc_mark_01_desc">
+		<original value="Become the best player of the Battle Cup"/>
+		<translation value="Awarded to finalists of the team Battle Cup tournament."/>
+	</entry>
+	<entry key="ru_bc_stripe_01">
+		<original value="Battle Cup: Winner"/>
+		<translation value="Battle Cup: Winner"/>
+	</entry>
+	<entry key="ru_bc_stripe_01_desc">
+		<original value="Awarded to the winners of Battle Cup"/>
+		<translation value="Awarded to winners of the team Battle Cup tournament."/>
+	</entry>
+	<entry key="ru_bc_stripe_02">
+		<original value="MacLeod"/>
+		<translation value="MacLeod"/>
+	</entry>
+	<entry key="ru_bc_stripe_02_desc">
+		<original value="Awarded to the winners of Battle Cup"/>
+		<translation value="Awarded to winners of the solo Battle Cup tournament."/>
+	</entry>
+	<entry key="ru_bc_stripe_03">
+		<original value="My Name Is Legion"/>
+		<translation value="My Name Is Legion"/>
+	</entry>
+	<entry key="ru_bc_stripe_03_desc">
+		<original value="It's a Secret Challenge. Nobody knows how to complete it."/>
+		<translation value="This is a secret achievement. Nobody knows how to unlock it."/>
+	</entry>
+	<entry key="smg10_viet01Kill">
+		<original value="Lake Bird Tavor CTAR-21"/>
+		<translation value="Lake Bird Tavor CTAR-21"/>
+	</entry>
+	<entry key="smg10_viet01Kill_desc">
+		<original value="Kill 2,500 enemies with Lake Bird Tavor CTAR-21"/>
+		<translation value="Eliminate 2,500 enemies with a Lake Bird Tavor CTAR-21."/>
+	</entry>
+	<entry key="shg07_viet01Kill">
+		<original value="Lake Bird Saiga Bullpup"/>
+		<translation value="Lake Bird Saiga Bullpup"/>
+	</entry>
+	<entry key="shg07_viet01Kill_desc">
+		<original value="Kill 2,500 enemies with Lake Bird Saiga Bullpup"/>
+		<translation value="Eliminate 2,500 enemies with a Lake Bird Saiga Bullpup."/>
+	</entry>
+	<entry key="ar04_viet01Kill">
+		<original value="Lake Bird AK-103"/>
+		<translation value="Lake Bird AK-103"/>
+	</entry>
+	<entry key="ar04_viet01Kill_desc">
+		<original value="Kill 2,500 enemies with Lake Bird AK-103"/>
+		<translation value="Eliminate 2,500 enemies with a Lake Bird AK-103."/>
+	</entry>
+	<entry key="pt21_viet01Kill">
+		<original value="Lake Bird Glock 18C"/>
+		<translation value="Lake Bird Glock 18C"/>
+	</entry>
+	<entry key="pt21_viet01Kill_desc">
+		<original value="Kill 2,500 enemies with Lake Bird Glock 18C"/>
+		<translation value="Eliminate 2,500 enemies with a Lake Bird Glock 18C."/>
+	</entry>
+	<entry key="ar12_viet01Kill">
+		<original value="Lake Bird M16A3 Custom"/>
+		<translation value="Lake Bird M16A3 Custom"/>
+	</entry>
+	<entry key="ar12_viet01Kill_desc">
+		<original value="Kill 2,500 enemies with Lake Bird M16A3 Custom"/>
+		<translation value="Eliminate 2,500 enemies with a Lake Bird M16A3 Custom."/>
+	</entry>
+	<entry key="sr09_viet01Kill">
+		<original value="Lake Bird CS5 McMillan"/>
+		<translation value="Lake Bird CS5 McMillan"/>
+	</entry>
+	<entry key="sr09_viet01Kill_desc">
+		<original value="Kill 2,500 enemies with Lake Bird CS5 McMillan"/>
+		<translation value="Eliminate 2,500 enemies with a Lake Bird CS5 McMillan."/>
+	</entry>
+	<entry key="kn16_viet01Kill">
+		<original value="Lake Bird Tactical Axe"/>
+		<translation value="Lake Bird Tactical Axe"/>
+	</entry>
+	<entry key="kn16_viet01Kill_desc">
+		<original value="Kill 2,500 enemies with Lake Bird Tactical Axe"/>
+		<translation value="Eliminate 2,500 enemies with a Lake Bird Tactical Axe."/>
+	</entry>
+	<entry key="ru_badge_pirate01">
+		<original value="Black label"/>
+		<translation value="Black Spot"/>
+	</entry>
+	<entry key="ru_badge_pirate01_desc">
+		<original value="Black label from Blackbeard"/>
+		<translation value="The mark of the terrifying Blackbeard."/>
+	</entry>
+	<entry key="ru_mark_pirate01">
+		<original value="Pirate sign"/>
+		<translation value="Pirate Banner"/>
+	</entry>
+	<entry key="ru_mark_pirate01_desc">
+		<original value="For the real conqueror of the seas"/>
+		<translation value="Made for a true conqueror of the seas."/>
+	</entry>
+	<entry key="ru_stripe_pirate01">
+		<original value="Treasure map bottle"/>
+		<translation value="Treasure Map in a Bottle"/>
+	</entry>
+	<entry key="ru_stripe_pirate01_desc">
+		<original value="Who knows, what can be found there"/>
+		<translation value="Who knows what will be found there?"/>
+	</entry>
+	<entry key="pirate01_mark_01">
+		<original value="Pirate Punisher"/>
+		<translation value="Corsair"/>
+	</entry>
+	<entry key="pirate01_mark_01_desc">
+		<original value="Deal 25,000 damage with Pirate weapons"/>
+		<translation value="Deal 25,000 damage with Pirate weapons."/>
+	</entry>
+	<entry key="pirate01_badge_01">
+		<original value="Pirate Sharphooter"/>
+		<translation value="Buccaneer"/>
+	</entry>
+	<entry key="pirate01_badge_01_desc">
+		<original value="Perform 1,000 headshots with Pirate weapons"/>
+		<translation value="Eliminate 1,000 enemies with headshots using Pirate weapons."/>
+	</entry>
+	<entry key="pirate01_stripe_01">
+		<original value="Pirate Slayer"/>
+		<translation value="Freebooter"/>
+	</entry>
+	<entry key="pirate01_stripe_01_desc">
+		<original value="Kill 10,000 enemies with Pirate weapons"/>
+		<translation value="Eliminate 10,000 enemies with Pirate weapons."/>
+	</entry>
+	<entry key="ar26_mrgtrnKill">
+		<original value="Lightcycle MSBS Radon"/>
+		<translation value="Light Cycle MSBS Radon"/>
+	</entry>
+	<entry key="ar26_mrgtrnKill_desc">
+		<original value="Kill 2,500 enemies with Lightcycle MSBS Radon"/>
+		<translation value="Eliminate 2,500 enemies with a Light Cycle MSBS Radon"/>
+	</entry>
+	<entry key="ar32_mrgtrnKill">
+		<original value="Lightcycle Hera Arms CQR"/>
+		<translation value="Light Cycle Hera Arms CQR"/>
+	</entry>
+	<entry key="ar32_mrgtrnKill_desc">
+		<original value="Kill 2,500 enemies with Lightcycle Hera Arms CQR"/>
+		<translation value="Eliminate 2,500 enemies with a Light Cycle Hera Arms CQR"/>
+	</entry>
+	<entry key="shg43_mrgtrnKill">
+		<original value="Lightcycle Fabarm P.S.S.10"/>
+		<translation value="Light Cycle Fabarm P.S.S.10"/>
+	</entry>
+	<entry key="shg43_mrgtrnKill_desc">
+		<original value="Kill 2,500 enemies with Lightcycle Fabarm P.S.S.10"/>
+		<translation value="Eliminate 2,500 enemies with a Light Cycle Fabarm P.S.S.10"/>
+	</entry>
+	<entry key="shg47_mrgtrnKill">
+		<original value="Lightcycle Uzkon UNG-12"/>
+		<translation value="Light Cycle Uzkon UNG-12"/>
+	</entry>
+	<entry key="shg47_mrgtrnKill_desc">
+		<original value="Kill 2,500 enemies with Lightcycle Uzkon UNG-12"/>
+		<translation value="Eliminate 2,500 enemies with a Light Cycle Uzkon UNG-12"/>
+	</entry>
+	<entry key="smg39_mrgtrnKill">
+		<original value="Lightcycle H&amp;K MP5A5 Custom"/>
+		<translation value="Light Cycle H&amp;K MP5A5 Custom"/>
+	</entry>
+	<entry key="smg39_mrgtrnKill_desc">
+		<original value="Kill 2,500 enemies with Lightcycle H&amp;K MP5A5 Custom"/>
+		<translation value="Eliminate 2,500 enemies with a Light Cycle H&amp;K MP5A5 Custom"/>
+	</entry>
+	<entry key="smg45_mrgtrnKill">
+		<original value="Lightcycle LWRC SMG-45"/>
+		<translation value="Light Cycle LWRC SMG-45"/>
+	</entry>
+	<entry key="smg45_mrgtrnKill_desc">
+		<original value="Kill 2,500 enemies with Lightcycle LWRC SMG-45"/>
+		<translation value="Eliminate 2,500 enemies with a Light Cycle LWRC SMG-45"/>
+	</entry>
+	<entry key="sr34_mrgtrnKill">
+		<original value="Lightcycle Steyr Scout"/>
+		<translation value="Light Cycle Steyr Scout"/>
+	</entry>
+	<entry key="sr34_mrgtrnKill_desc">
+		<original value="Kill 2,500 enemies with Lightcycle Steyr Scout"/>
+		<translation value="Eliminate 2,500 enemies with a Light Cycle Steyr Scout"/>
+	</entry>
+	<entry key="sr39_mrgtrnKill">
+		<original value="Lightcycle AT308"/>
+		<translation value="Light Cycle AT308"/>
+	</entry>
+	<entry key="sr39_mrgtrnKill_desc">
+		<original value="Kill 2,500 enemies with Lightcycle AT308"/>
+		<translation value="Eliminate 2,500 enemies with a Light Cycle AT308"/>
+	</entry>
+	<entry key="ru_wlan_stripe_08">
+		<original value="Final Winner"/>
+		<translation value="Season VIII Champion"/>
+	</entry>
+	<entry key="ru_wlan_stripe_08_desc">
+		<original value="Open Cup winners season VIII"/>
+		<translation value="Become the Warface Open Cup Season VIII champion."/>
+	</entry>
+	<entry key="ru_wlan_stripe_09">
+		<original value="Final Winner"/>
+		<translation value="Season VII Champion"/>
+	</entry>
+	<entry key="ru_wlan_stripe_09_desc">
+		<original value="Open Cup winners season VII"/>
+		<translation value="Become the Warface Open Cup Season VII champion."/>
+	</entry>
+	<entry key="ru_wlan_stripe_10">
+		<original value="Final Winner"/>
+		<translation value="Season VI Champion"/>
+	</entry>
+	<entry key="ru_wlan_stripe_10_desc">
+		<original value="Open Cup winners season VI"/>
+		<translation value="Become the Warface Open Cup Season VI champion."/>
+	</entry>
+	<entry key="ru_wlan_stripe_11">
+		<original value="Final Winner"/>
+		<translation value="Season V Champion"/>
+	</entry>
+	<entry key="ru_wlan_stripe_11_desc">
+		<original value="Open Cup winners season V"/>
+		<translation value="Become the Warface Open Cup Season V champion."/>
+	</entry>
+	<entry key="ru_wlan_stripe_12">
+		<original value="Final Winner"/>
+		<translation value="Season IV Champion"/>
+	</entry>
+	<entry key="ru_wlan_stripe_12_desc">
+		<original value="Open Cup winners season IV"/>
+		<translation value="Become the Warface Open Cup Season IV champion."/>
+	</entry>
+	<entry key="ru_wlan_stripe_13">
+		<original value="Final Winner"/>
+		<translation value="Season III Champion"/>
+	</entry>
+	<entry key="ru_wlan_stripe_13_desc">
+		<original value="Open Cup winners season III"/>
+		<translation value="Become the Warface Open Cup Season III champion."/>
+	</entry>
+	<entry key="ru_wlan_stripe_14">
+		<original value="Final Winner"/>
+		<translation value="Season II Champion"/>
+	</entry>
+	<entry key="ru_wlan_stripe_14_desc">
+		<original value="Open Cup winners season II"/>
+		<translation value="Become the Warface Open Cup Season II champion."/>
+	</entry>
+	<entry key="ru_wlan_stripe_15">
+		<original value="Final Winner"/>
+		<translation value="Season I Champion"/>
+	</entry>
+	<entry key="ru_wlan_stripe_15_desc">
+		<original value="Open Cup winners season I"/>
+		<translation value="Become the Warface Open Cup Season I champion."/>
+	</entry>
+	<entry key="ru_wlan_stripe_16">
+		<original value="Final Winner"/>
+		<translation value="Season X Champion"/>
+	</entry>
+	<entry key="ru_wlan_stripe_16_desc">
+		<original value="Open Cup winners season X"/>
+		<translation value="Become the Warface Open Cup Season X champion."/>
+	</entry>
+	<entry key="ru_wlan_stripe_17">
+		<original value="Final Winner"/>
+		<translation value="Season IX Champion"/>
+	</entry>
+	<entry key="ru_wlan_stripe_17_desc">
+		<original value="Open Cup winners season IX"/>
+		<translation value="Become the Warface Open Cup Season IX champion."/>
+	</entry>
+	<entry key="kn22Kill">
+		<original value="Revenge with the knife"/>
+		<translation value="Cutting Edge"/>
+	</entry>
+	<entry key="kn22Kill_desc">
+		<original value="Kill 5,000 enemies with HX Outdoors Trident"/>
+		<translation value="Eliminate 5,000 enemies with an HX Outdoors Trident."/>
+	</entry>
+	<entry key="kn22Kill25">
+		<original value="Cold revenge with the knife"/>
+		<translation value="Advanced: Cutting Edge"/>
+	</entry>
+	<entry key="kn22Kill25_desc">
+		<original value="Kill 10,000 enemies with HX Outdoors Trident"/>
+		<translation value="Eliminate 10,000 enemies with an HX Outdoors Trident."/>
+	</entry>
+	<entry key="ar44Kill">
+		<original value="Creeping Death"/>
+		<translation value="Cavalry's Here"/>
+	</entry>
+	<entry key="ar44Kill_desc">
+		<original value="Kill 5,000 enemies with HCAR Auto"/>
+		<translation value="Eliminate 5,000 enemies with an HCAR Auto."/>
+	</entry>
+	<entry key="ar44Kill25">
+		<original value="Advanced Creeping Death"/>
+		<translation value="Advanced: Cavalry's Here"/>
+	</entry>
+	<entry key="ar44Kill25_desc">
+		<original value="Kill 10,000 enemies with HCAR Auto"/>
+		<translation value="Eliminate 10,000 enemies with an HCAR Auto."/>
+	</entry>
+	<entry key="rm_firstplacewin_ach01">
+		<original value="The trophy of first blood"/>
+		<translation value="First Blood Trophy"/>
+	</entry>
+	<entry key="rm_firstplacewin_ach01_desc">
+		<original value="Take first place 10 times in a winning team in ranked matches"/>
+		<translation value="Be the best player on the winning team in Ranked Matches 10 times."/>
+	</entry>
+	<entry key="rm_firstplacewin_ach02">
+		<original value="The trophy of master"/>
+		<translation value="Master Trophy"/>
+	</entry>
+	<entry key="rm_firstplacewin_ach02_desc">
+		<original value="Take first place 50 times in a winning team in ranked matches"/>
+		<translation value="Be the best player on the winning team in Ranked Matches 50 times."/>
+	</entry>
+	<entry key="rm_firstplacewin_ach03">
+		<original value="Leader's path"/>
+		<translation value="Leader Trophy"/>
+	</entry>
+	<entry key="rm_firstplacewin_ach03_desc">
+		<original value="Take first place 100 times in a winning team in ranked matches"/>
+		<translation value="Be the best player on the winning team in Ranked Matches 100 times."/>
+	</entry>
+	<entry key="rm_firstplacewin_ach04">
+		<original value="Hero's path"/>
+		<translation value="Hero Trophy"/>
+	</entry>
+	<entry key="rm_firstplacewin_ach04_desc">
+		<original value="Take first place 500 times in a winning team in ranked matches"/>
+		<translation value="Be the best player on the winning team in Ranked Matches 500 times."/>
+	</entry>
+	<entry key="smg09_customkill">
+		<original value="Deadly Charge"/>
+		<translation value="Deadly Charge"/>
+	</entry>
+	<entry key="smg09_customkill_desc">
+		<original value="Kill 5 000 enemies with FN P90 Custom"/>
+		<translation value="Eliminate 5,000 enemies with a FN P90 Custom"/>
+	</entry>
+	<entry key="smg09_customkill25">
+		<original value="Advanced Deadly Charge"/>
+		<translation value="Advanced: Deadly Charge"/>
+	</entry>
+	<entry key="smg09_customkill25_desc">
+		<original value="Kill 10 000 enemies with FN P90 Custom"/>
+		<translation value="Eliminate 10,000 enemies with a FN P90 Custom"/>
+	</entry>
+	<entry key="cc01_mark_01">
+		<original value="Leaders of Clan Wars"/>
+		<translation value="Clan Wars Leaders"/>
+	</entry>
+	<entry key="cc01_mark_01_desc">
+		<original value="Awarded to the strongest team of the server in the Clans Cup"/>
+		<translation value="Awarded to the strongest team on the server in the Clans Cup."/>
+	</entry>
+	<entry key="cc01_mark_02">
+		<original value="The Hearth Keeper"/>
+		<translation value="Hearth Keeper"/>
+	</entry>
+	<entry key="cc01_mark_02_desc">
+		<original value="The Officer or the Head of the clan, that won the Clans Cup tournament"/>
+		<translation value="The Officer or Head of the clan that won the Clans Cup tournament."/>
+	</entry>
+	<entry key="cc01_badge_01">
+		<original value="Clans Cup Participant"/>
+		<translation value="Clans Cup Participant"/>
+	</entry>
+	<entry key="cc01_badge_01_desc">
+		<original value="Awarded to the participants of the Clans Cup"/>
+		<translation value="Awarded to Clans Cup participants."/>
+	</entry>
+	<entry key="cc01_badge_02">
+		<original value="Spirit of Unity"/>
+		<translation value="Spirit of Unity"/>
+	</entry>
+	<entry key="cc01_badge_02_desc">
+		<original value="The Participant of the strongest clan on the server"/>
+		<translation value="A member of the strongest clan on the server."/>
+	</entry>
+	<entry key="cc01_stripe_01">
+		<original value="The Strongest Clan"/>
+		<translation value="The Strongest Clan"/>
+	</entry>
+	<entry key="cc01_stripe_01_desc">
+		<original value="Awarded to the winners of the Clans Cup"/>
+		<translation value="Awarded to Clans Cup winners."/>
+	</entry>
+	<entry key="cc01_stripe_02">
+		<original value="Strongest Among Equals"/>
+		<translation value="Strongest Among Equals"/>
+	</entry>
+	<entry key="cc01_stripe_02_desc">
+		<original value="The Participant or the Head of the clan, that won the Clans Cup tournament"/>
+		<translation value="Member or Head of the clan that won the Clans Cup tournament."/>
+	</entry>
+	<entry key="ar36_brazil01Kill">
+		<original value="Favelas F90 MBR"/>
+		<translation value="Rogue F90 MBR"/>
+	</entry>
+	<entry key="ar36_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas F90 MBR"/>
+		<translation value="Eliminate 2,500 enemies with a Rogue F90 MBR."/>
+	</entry>
+	<entry key="ar39_brazil01Kill">
+		<original value="Favelas Howa Type 89 Custom"/>
+		<translation value="Rogue Howa Type 89 Custom"/>
+	</entry>
+	<entry key="ar39_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas Howa Type 89 Custom"/>
+		<translation value="Eliminate 2,500 enemies with a Rogue Howa Type 89 Custom."/>
+	</entry>
+	<entry key="mg26_brazil01Kill">
+		<original value="Favelas HK121"/>
+		<translation value="Rogue H&amp;K 121"/>
+	</entry>
+	<entry key="mg26_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas HK121"/>
+		<translation value="Eliminate 2,500 enemies with a Rogue H&amp;K 121."/>
+	</entry>
+	<entry key="shg54_brazil01Kill">
+		<original value="Favelas Kel-Tec KS7"/>
+		<translation value="Rogue Kel-Tec KS7"/>
+	</entry>
+	<entry key="shg54_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas Kel-Tec KS7"/>
+		<translation value="Eliminate 2,500 enemies with a Rogue Kel-Tec KS7."/>
+	</entry>
+	<entry key="shg55_brazil01Kill">
+		<original value="Favelas Chiappa Triple Threat"/>
+		<translation value="Rogue Chiappa Triple Threat"/>
+	</entry>
+	<entry key="shg55_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas Chiappa Triple Threat"/>
+		<translation value="Eliminate 2,500 enemies with a Rogue Chiappa Triple Threat."/>
+	</entry>
+	<entry key="shg38_brazil01Kill">
+		<original value="Favelas Fabarm XLR5 Prestige"/>
+		<translation value="Rogue Fabarm XLR5 Prestige"/>
+	</entry>
+	<entry key="shg38_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas Fabarm XLR5 Prestige"/>
+		<translation value="Eliminate 2,500 enemies with a Rogue Fabarm XLR5 Prestige."/>
+	</entry>
+	<entry key="smg49_brazil01Kill">
+		<original value="Favelas AM-17"/>
+		<translation value="Rogue AM-17"/>
+	</entry>
+	<entry key="smg49_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas AM-17"/>
+		<translation value="Eliminate 2,500 enemies with a Rogue AM-17."/>
+	</entry>
+	<entry key="smg46_brazil01Kill">
+		<original value="Favelas SIG MPX SBR Custom"/>
+		<translation value="Rogue SIG MPX SBR Custom"/>
+	</entry>
+	<entry key="smg46_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas SIG MPX SBR Custom"/>
+		<translation value="Eliminate 2,500 enemies with a Rogue SIG MPX SBR Custom."/>
+	</entry>
+	<entry key="smg45_brazil01Kill">
+		<original value="Favelas LWRC SMG-45"/>
+		<translation value="Rogue LWRC SMG-45"/>
+	</entry>
+	<entry key="smg45_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas LWRC SMG-45"/>
+		<translation value="Eliminate 2,500 enemies with a Rogue LWRC SMG-45."/>
+	</entry>
+	<entry key="sr47_brazil01Kill">
+		<original value="Favelas Truvelo CMS 20x42"/>
+		<translation value="Rogue Truvelo CMS 20x42"/>
+	</entry>
+	<entry key="sr47_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas Truvelo CMS 20x42"/>
+		<translation value="Eliminate 2,500 enemies with a Rogue Truvelo CMS 20x42."/>
+	</entry>
+	<entry key="sr48_brazil01Kill">
+		<original value="Favelas SV-98"/>
+		<translation value="Rogue SV-98"/>
+	</entry>
+	<entry key="sr48_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas SV-98"/>
+		<translation value="Eliminate 2,500 enemies with a Rogue SV-98."/>
+	</entry>
+	<entry key="sr31_brazil01Kill">
+		<original value="Favelas AX308"/>
+		<translation value="Rogue AX308"/>
+	</entry>
+	<entry key="sr31_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas AX308"/>
+		<translation value="Eliminate 2,500 enemies with a Rogue AX308."/>
+	</entry>
+	<entry key="hmg02_brazil01Kill">
+		<original value="Favelas XM556 Microgun"/>
+		<translation value="Rogue XM556 Microgun"/>
+	</entry>
+	<entry key="hmg02_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas XM556 Microgun"/>
+		<translation value="Eliminate 2,500 enemies with a Rogue XM556 Microgun."/>
+	</entry>
+	<entry key="pt39_brazil01Kill">
+		<original value="Favelas Kel-Tec SUB2000"/>
+		<translation value="Rogue Kel-Tec SUB2000"/>
+	</entry>
+	<entry key="pt39_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas Kel-Tec SUB2000"/>
+		<translation value="Eliminate 2,500 enemies with a Rogue Kel-Tec SUB2000."/>
+	</entry>
+	<entry key="pt14_brazil01Kill">
+		<original value="Favelas SIG Sauer P226"/>
+		<translation value="Rogue SIG Sauer P226"/>
+	</entry>
+	<entry key="pt14_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas SIG Sauer P226"/>
+		<translation value="Eliminate 2,500 enemies with a Rogue SIG Sauer P226."/>
+	</entry>
+	<entry key="kn19_brazil01Kill">
+		<original value="Favelas Balisong Knife"/>
+		<translation value="Rogue Balisong Knife"/>
+	</entry>
+	<entry key="kn19_brazil01Kill_desc">
+		<original value="Kill 2,500 enemies with Favelas Balisong Knife"/>
+		<translation value="Eliminate 2,500 enemies with a Rogue Balisong Knife."/>
+	</entry>
+	<entry key="brazil02_mark_01">
+		<original value="Favelas Destroyer"/>
+		<translation value="Law Enforcer"/>
+	</entry>
+	<entry key="brazil02_mark_01_desc">
+		<original value="Deal 25,000 damage with Favelas weapons"/>
+		<translation value="Deal 25,000 damage with Guardian weapons."/>
+	</entry>
+	<entry key="brazil02_badge_01">
+		<original value="Favelas Butcher"/>
+		<translation value="Judge, Jury, and Executioner"/>
+	</entry>
+	<entry key="brazil02_badge_01_desc">
+		<original value="Perform 1,000 headshots with Favelas weapons"/>
+		<translation value="Get 1,000 headshots with Guardian weapons."/>
+	</entry>
+	<entry key="brazil02_stripe_01">
+		<original value="Favelas Smasher"/>
+		<translation value="I Am the Senate"/>
+	</entry>
+	<entry key="brazil02_stripe_01_desc">
+		<original value="Kill 10,000 enemies with Favelas weapons"/>
+		<translation value="Eliminate 10,000 enemies with Guardian weapons."/>
+	</entry>
+	<entry key="winPTB_DISTRICT_UP1">
+		<original value="The Backstreet Tiger"/>
+		<translation value="The Backstreet Tiger"/>
+	</entry>
+	<entry key="winPTB_DISTRICT_UP1_desc">
+		<original value="Win 10 PTB District Up matches"/>
+		<translation value="Win 10 Plant the Bomb matches on District 2.0 map."/>
+	</entry>
+	<entry key="winPTB_DISTRICT_UP2">
+		<original value="The District Thug"/>
+		<translation value="The District Thug"/>
+	</entry>
+	<entry key="winPTB_DISTRICT_UP2_desc">
+		<original value="Win 25 PTB District Up matches"/>
+		<translation value="Win 25 Plant the Bomb matches on District 2.0 map."/>
+	</entry>
+	<entry key="winPTB_DISTRICT_UP3">
+		<original value="Favela's Menace"/>
+		<translation value="Favela's Menace"/>
+	</entry>
+	<entry key="winPTB_DISTRICT_UP3_desc">
+		<original value="Win 50 PTB District Up matches"/>
+		<translation value="Win 50 Plant the Bomb matches on District 2.0 map."/>
+	</entry>
+	<entry key="FirstPlacePTB_DISTRICT_UP1">
+		<original value="Street Scout"/>
+		<translation value="The Voice of the Streets"/>
+	</entry>
+	<entry key="FirstPlacePTB_DISTRICT_UP1_desc">
+		<original value="Take 1st place on PTB District up 25 times"/>
+		<translation value="Place 1st 25 times in Plant the Bomb mode on District 2.0 map."/>
+	</entry>
+	<entry key="FirstPlacePTB_DISTRICT_UP2">
+		<original value="Lane usurper"/>
+		<translation value="Lane Usurper"/>
+	</entry>
+	<entry key="FirstPlacePTB_DISTRICT_UP2_desc">
+		<original value="Take 1st place on PTB District up 50 times"/>
+		<translation value="Place 1st 50 times in Plant the Bomb mode on District 2.0 map."/>
+	</entry>
+	<entry key="FirstPlacePTB_DISTRICT_UP3">
+		<original value="District encroacher"/>
+		<translation value="The King of the Streets"/>
+	</entry>
+	<entry key="FirstPlacePTB_DISTRICT_UP3_desc">
+		<original value="Take 1st place on PTB District up 100 times"/>
+		<translation value="Place 1st 100 times in Plant the Bomb mode on District 2.0 map."/>
+	</entry>
+	<entry key="ru_mvp_badge_01">
+		<original value="Open Cup Final: Most valuable player - Rifleman"/>
+		<translation value="Open Cup: Best Riflemen"/>
+	</entry>
+	<entry key="ru_mvp_badge_01_desc">
+		<original value="Awarded to the best Rifleman of final event of Warface Open Cup"/>
+		<translation value="Become the best rifleman of Warface Open Cup finals."/>
+	</entry>
+	<entry key="ru_mvp_badge_02">
+		<original value="Open Cup Final: Most valuable player - Medic"/>
+		<translation value="Open Cup: Best Medic"/>
+	</entry>
+	<entry key="ru_mvp_badge_02_desc">
+		<original value="Awarded to the best Medic of final event of Warface Open Cup"/>
+		<translation value="Become the best medic of Warface Open Cup finals."/>
+	</entry>
+	<entry key="ru_mvp_badge_03">
+		<original value="Open Cup Final: Most valuable player - Engineer"/>
+		<translation value="Open Cup: Best Engineer"/>
+	</entry>
+	<entry key="ru_mvp_badge_03_desc">
+		<original value="Awarded to the best Engineer of final event of Warface Open Cup"/>
+		<translation value="Become the best engineer of Warface Open Cup finals."/>
+	</entry>
+	<entry key="ru_mvp_badge_04">
+		<original value="Open Cup Final: Most valuable player - Sniper"/>
+		<translation value="Open Cup: Best Sniper"/>
+	</entry>
+	<entry key="ru_mvp_badge_04_desc">
+		<original value="Awarded to the best Sniper of final event of Warface Open Cup"/>
+		<translation value="Become the best sniper of Warface Open Cup finals."/>
+	</entry>
+	<entry key="ru_mvp_badge_05">
+		<original value="Open Cup Final: Most valuable player - SED"/>
+		<translation value="Open Cup: Best SED"/>
+	</entry>
+	<entry key="ru_mvp_badge_05_desc">
+		<original value="Awarded to the best SED of final event of Warface Open Cup"/>
+		<translation value="Become the best SED of Warface Open Cup finals."/>
+	</entry>
+	<entry key="ru_mvp_badge_06">
+		<original value="Open Cup Final: Most valuable player - Rifleman"/>
+		<translation value="Open Cup: Best Riflemen"/>
+	</entry>
+	<entry key="ru_mvp_badge_06_desc">
+		<original value="Awarded to the best Rifleman of final event of Warface Open Cup"/>
+		<translation value="Become the best rifleman of Warface Open Cup finals."/>
+	</entry>
+	<entry key="ru_mvp_badge_07">
+		<original value="Open Cup Final: Most valuable player - Medic"/>
+		<translation value="Open Cup: Best Medic"/>
+	</entry>
+	<entry key="ru_mvp_badge_07_desc">
+		<original value="Awarded to the best Medic of final event of Warface Open Cup"/>
+		<translation value="Become the best medic of Warface Open Cup finals."/>
+	</entry>
+	<entry key="ru_mvp_badge_08">
+		<original value="Open Cup Final: Most valuable player - Engineer"/>
+		<translation value="Open Cup: Best Engineer"/>
+	</entry>
+	<entry key="ru_mvp_badge_08_desc">
+		<original value="Awarded to the best Engineer of final event of Warface Open Cup"/>
+		<translation value="Become the best engineer of Warface Open Cup finals."/>
+	</entry>
+	<entry key="ru_mvp_badge_09">
+		<original value="Open Cup Final: Most valuable player - Sniper"/>
+		<translation value="Open Cup: Best Sniper"/>
+	</entry>
+	<entry key="ru_mvp_badge_09_desc">
+		<original value="Awarded to the best Sniper of final event of Warface Open Cup"/>
+		<translation value="Become the best sniper of Warface Open Cup finals."/>
+	</entry>
+	<entry key="ru_mvp_badge_10">
+		<original value="Open Cup Final: Most valuable player - SED"/>
+		<translation value="Open Cup: Best SED"/>
+	</entry>
+	<entry key="ru_mvp_badge_10_desc">
+		<original value="Awarded to the best SED of final event of Warface Open Cup"/>
+		<translation value="Become the best SED of Warface Open Cup finals."/>
+	</entry>
+	<entry key="ru_mvp_badge_11">
+		<original value="Open Cup Final: Most valuable player - Rifleman"/>
+		<translation value="Open Cup: Best Riflemen"/>
+	</entry>
+	<entry key="ru_mvp_badge_11_desc">
+		<original value="Awarded to the best Rifleman of final event of Warface Open Cup"/>
+		<translation value="Become the best rifleman of Warface Open Cup finals."/>
+	</entry>
+	<entry key="ru_mvp_badge_12">
+		<original value="Open Cup Final: Most valuable player - Medic"/>
+		<translation value="Open Cup: Best Medic"/>
+	</entry>
+	<entry key="ru_mvp_badge_12_desc">
+		<original value="Awarded to the best Medic of final event of Warface Open Cup"/>
+		<translation value="Become the best medic of Warface Open Cup finals."/>
+	</entry>
+	<entry key="ru_mvp_badge_13">
+		<original value="Open Cup Final: Most valuable player - Engineer"/>
+		<translation value="Open Cup: Best Engineer"/>
+	</entry>
+	<entry key="ru_mvp_badge_13_desc">
+		<original value="Awarded to the best Engineer of final event of Warface Open Cup"/>
+		<translation value="Become the best engineer of Warface Open Cup finals."/>
+	</entry>
+	<entry key="ru_mvp_badge_14">
+		<original value="Open Cup Final: Most valuable player - Sniper"/>
+		<translation value="Open Cup: Best Sniper"/>
+	</entry>
+	<entry key="ru_mvp_badge_14_desc">
+		<original value="Awarded to the best Sniper of final event of Warface Open Cup"/>
+		<translation value="Become the best sniper of Warface Open Cup finals."/>
+	</entry>
+	<entry key="ru_mvp_badge_15">
+		<original value="Open Cup Final: Most valuable player - SED"/>
+		<translation value="Open Cup: Best SED"/>
+	</entry>
+	<entry key="ru_mvp_badge_15_desc">
+		<original value="Awarded to the best SED of final event of Warface Open Cup"/>
+		<translation value="Become the best SED of Warface Open Cup finals."/>
+	</entry>
+	<entry key="sr51_Kill">
+		<original value="Hawkeye"/>
+		<translation value="Hawkeye"/>
+	</entry>
+	<entry key="sr51_Kill_desc">
+		<original value="Kill 5,000 enemies with DVL-10 M2"/>
+		<translation value="Eliminate 5,000 enemies with a DVL-10 M2."/>
+	</entry>
+	<entry key="sr51Kill25">
+		<original value="Advanced Hawkeye"/>
+		<translation value="Advanced: Hawkeye"/>
+	</entry>
+	<entry key="sr51Kill25_desc">
+		<original value="Kill 10,000 enemies with DVL-10 M2"/>
+		<translation value="Eliminate 10,000 enemies with a DVL-10 M2."/>
+	</entry>
+	<entry key="smg53_Kill">
+		<original value="Dead Silence"/>
+		<translation value="Vampire"/>
+	</entry>
+	<entry key="smg53_Kill_desc">
+		<original value="Kill 5,000 enemies with AMB-17 or its gold version"/>
+		<translation value="Eliminate 5,000 enemies with an AMB-17 or its golden version."/>
+	</entry>
+	<entry key="smg53_Kill25">
+		<original value="Advanced Dead Silence"/>
+		<translation value="Advanced: Vampire"/>
+	</entry>
+	<entry key="smg53_Kill25_desc">
+		<original value="Kill 10,000 enemies with AMB-17 or its gold version"/>
+		<translation value="Eliminate 10,000 enemies with an AMB-17 or its golden version."/>
+	</entry>
+	<entry key="smg53_gold_kill_01">
+		<original value="Cruel Vampire"/>
+		<translation value="Lord Dracula"/>
+	</entry>
+	<entry key="smg53_gold_kill_01_desc">
+		<original value="Make 999 kills with GoldВ AMB-17"/>
+		<translation value="Eliminate 999 enemies with a golden AMB-17."/>
 	</entry>
 </localization>

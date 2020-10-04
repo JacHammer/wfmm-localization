@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
 	<entry key="free_card_default_name">
 		<original value="Free Card"/>
 		<translation value="自由牌"/>
@@ -215,5 +219,125 @@
 	<entry key="ui_hmg03_apache01_card">
 		<original value="Collect these cards to get Apache M134-GAU19b Hybrid"/>
 		<translation value="这些卡牌可用于制造阿帕奇 M134-GAU19b Hybrid。"/>
+	</entry>
+	<entry key="mg26_card_name">
+		<original value="Card H&amp;K 121"/>
+		<translation value="H&amp;K 121 卡牌"/>
+	</entry>
+	<entry key="ui_mg26_card">
+		<original value="Collect these cards to get H&amp;K 121"/>
+		<translation value="这些卡牌可用于制造 H&amp;K 121。"/>
+	</entry>
+	<entry key="kn22_card_name">
+		<original value="Card HX Outdoors Trident"/>
+		<translation value="HX Outdoors Trident 卡牌"/>
+	</entry>
+	<entry key="ui_kn22_card">
+		<original value="Collect these cards to get HX Outdoors Trident"/>
+		<translation value="这些卡牌可用于制造 HX Outdoors Trident。"/>
+	</entry>
+	<entry key="ar29_card_name">
+		<original value="Card AK Alpha"/>
+		<translation value="AK 阿尔法卡牌"/>
+	</entry>
+	<entry key="ui_ar29_card">
+		<original value="Collect these cards to get AK Alpha"/>
+		<translation value="这些卡牌可用于制造 AK 阿尔法。"/>
+	</entry>
+	<entry key="pt36_card_name">
+		<original value="Card TEC-9"/>
+		<translation value="TEC-9 卡牌"/>
+	</entry>
+	<entry key="ui_pt36_card">
+		<original value="Collect these cards to get TEC-9"/>
+		<translation value="这些卡牌可用于制造 TEC-9。"/>
+	</entry>
+	<entry key="shg51_card_name">
+		<original value="Card Typhoon F12"/>
+		<translation value="台风 F12 卡牌"/>
+	</entry>
+	<entry key="ui_shg51_card">
+		<original value="Collect these cards to get Typhoon F12"/>
+		<translation value="这些卡牌可用于制造台风 F12。"/>
+	</entry>
+	<entry key="smg44_card_name">
+		<original value="Card KRISS Super V Custom"/>
+		<translation value="KRISS Super V Custom 卡牌"/>
+	</entry>
+	<entry key="ui_smg44_card">
+		<original value="Collect these cards to get KRISS Super V Custom"/>
+		<translation value="这些卡牌可用于制造 KRISS Super V Custom。"/>
+	</entry>
+	<entry key="sr46_card_name">
+		<original value="Card CDX-MC Kraken"/>
+		<translation value="CDX-MC 北海巨妖卡牌"/>
+	</entry>
+	<entry key="ui_sr46_card">
+		<original value="Collect these cards to get CDX-MC Kraken"/>
+		<translation value="这些卡牌可用于制造 CDX-MC 北海巨妖。"/>
+	</entry>
+	<entry key="ar38_pirate01_card_name">
+		<original value="Card Pirate Cobalt Kinetics EDGE"/>
+		<translation value="海盗版科伯特动力公司 EDGE 卡牌"/>
+	</entry>
+	<entry key="ui_ar38_pirate01_card">
+		<original value="Collect these cards to get Pirate Cobalt Kinetics EDGE"/>
+		<translation value="这些卡牌可用于制造海盗版科伯特动力公司 EDGE。"/>
+	</entry>
+	<entry key="shg53_pirate01_card_name">
+		<original value="Card Pirate Typhoon F12 Custom"/>
+		<translation value="海盗版台风 F12 定制版卡牌"/>
+	</entry>
+	<entry key="ui_shg53_pirate01_card">
+		<original value="Collect these cards to get Pirate Typhoon F12 Custom"/>
+		<translation value="这些卡牌可用于制造海盗版台风 F12 定制版。"/>
+	</entry>
+	<entry key="smg48_pirate01_card_name">
+		<original value="Card Pirate Cobalt Kinetics Stealth Pistol"/>
+		<translation value="海盗版科伯特动力公司隐形手枪卡牌"/>
+	</entry>
+	<entry key="ui_smg48_pirate01_card">
+		<original value="Collect these cards to get Pirate Cobalt Kinetics Stealth Pistol"/>
+		<translation value="这些卡牌可用于制造海盗版科伯特动力公司隐形手枪。"/>
+	</entry>
+	<entry key="sr49_pirate01_card_name">
+		<original value="Card Pirate Cobalt Kinetics Twenty-Seven"/>
+		<translation value="海盗版 Cobalt Kinetics 27 卡牌"/>
+	</entry>
+	<entry key="ui_sr49_pirate01_card">
+		<original value="Collect these cards to get Pirate Cobalt Kinetics Twenty-Seven"/>
+		<translation value="这些卡牌可用于制造海盗版 Cobalt Kinetics 27。"/>
+	</entry>
+	<entry key="ar44_card_name">
+		<original value="Card HCAR Auto"/>
+		<translation value="HCAR Auto 卡牌"/>
+	</entry>
+	<entry key="ui_ar44_card">
+		<original value="Collect these cards to get HCAR Auto"/>
+		<translation value="这些卡牌可用于制造 HCAR Auto。"/>
+	</entry>
+	<entry key="smg09_custom_card_name">
+		<original value="Card FN P90 Custom"/>
+		<translation value="FN P90 Custom 卡牌"/>
+	</entry>
+	<entry key="ui_smg09_custom_card">
+		<original value="Collect these cards to get FN P90 Custom"/>
+		<translation value="这些卡牌可用于制造 FN P90 Custom。"/>
+	</entry>
+	<entry key="sr51_card_name">
+		<original value="Card DVL-10 M2"/>
+		<translation value="DVL-10 M2 卡牌"/>
+	</entry>
+	<entry key="ui_sr51_card">
+		<original value="Collect these cards to get DVL-10 M2"/>
+		<translation value="这些卡牌可用于制造 DVL-10 M2。"/>
+	</entry>
+	<entry key="smg53_card_name">
+		<original value="Card AMB-17"/>
+		<translation value="AMB-17 卡牌"/>
+	</entry>
+	<entry key="ui_smg53_card">
+		<original value="Collect these cards to get AMB-17"/>
+		<translation value="这些卡牌可用于制造 AMB-17。"/>
 	</entry>
 </localization>

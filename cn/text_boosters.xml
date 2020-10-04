@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
 	<entry key="ui_booster_ic">
 		<original value="Temporary curency Boost"/>
 		<translation value="时效性货币增益"/>
@@ -2049,68 +2053,68 @@
 		<translation value="这个箱子能让你获得 3 件随机物品。"/>
 	</entry>
 	<entry key="random_box_skin_11_shop_name">
-		<original value="AK-103 &quot;Lac Bird&quot; Skin box"/>
-		<translation value="AK-103 “湖鸟”皮肤箱"/>
+		<original value="AK-103 &quot;Lake Bird&quot; Weapon box"/>
+		<translation value="湖鸟 AK-103 武器箱"/>
 	</entry>
 	<entry key="ui_random_box_skin_11_description">
-		<original value="Contains 1 ultrarare skin for AK-103 assault rifle"/>
-		<translation value="包含了 AK-103 突击步枪的 1 个超稀有皮肤"/>
+		<original value="Contains AK-103 rare Lake Bird weapon"/>
+		<translation value="这个箱子会带来 3 件步枪手的随机物品。"/>
 	</entry>
 	<entry key="random_box_skin_12_shop_name">
-		<original value="Saiga Bullpup &quot;Lac Bird&quot; Skin box"/>
-		<translation value="Saiga 无托型 “湖鸟”皮肤箱"/>
+		<original value="Saiga Bullpup &quot;Lake Bird&quot; Weapon box"/>
+		<translation value="湖鸟 Saiga 无托型武器箱"/>
 	</entry>
 	<entry key="ui_random_box_skin_12_description">
-		<original value="Contains 1 ultrarare skin for Saiga Bullpup shotgun"/>
-		<translation value="包含了 Saiga 无托型霰弹枪的 1 个超稀有皮肤"/>
+		<original value="Contains Saiga Bullpup rare Lake Bird weapon"/>
+		<translation value="这个箱子会带来 3 件医疗兵的随机物品。"/>
 	</entry>
 	<entry key="random_box_skin_13_shop_name">
-		<original value="Tavor CTAR-21 &quot;Lac Bird&quot; Skin box"/>
-		<translation value="Tavor CTAR-21 “湖鸟”皮肤箱"/>
+		<original value="Tavor CTAR-21 &quot;Lake Bird&quot; Weapon box"/>
+		<translation value="湖鸟 Tavor CTAR-21 武器箱"/>
 	</entry>
 	<entry key="ui_random_box_skin_13_description">
-		<original value="Contains 1 ultrarare skin for Tavor CTAR-21 sub-machinegun"/>
-		<translation value="包含了 Tavor CTAR-21 冲锋枪的 1 个超稀有皮肤"/>
+		<original value="Contains Tavor CTAR-21 rare Lake Bird weapon"/>
+		<translation value="这个箱子会带来 3 件工程师的随机物品。"/>
 	</entry>
 	<entry key="random_box_skin_14_shop_name">
-		<original value="McMillan CS5 &quot;Lac Bird&quot; Skin box"/>
-		<translation value="CS5 McMillan “湖鸟”皮肤箱"/>
+		<original value="McMillan CS5 &quot;Lake Bird&quot; Weapon box"/>
+		<translation value="湖鸟 CS5 McMillan 武器箱"/>
 	</entry>
 	<entry key="ui_random_box_skin_14_description">
-		<original value="Contains 1 ultrarare skin for McMillan CS5 sniper rifle"/>
-		<translation value="包含了 CS5 McMillan 狙击步枪的 1 个超稀有皮肤"/>
+		<original value="Contains McMillan CS5 rare Lake Bird weapon"/>
+		<translation value="这个箱子会带来 3 件狙击手的随机物品。"/>
 	</entry>
 	<entry key="random_box_skin_15_shop_name">
-		<original value="Glock 18c &quot;Lac Bird&quot; Skin box"/>
-		<translation value="Glock 18C “湖鸟”皮肤箱"/>
+		<original value="Glock 18c &quot;Lake Bird&quot; Weapon box"/>
+		<translation value="湖鸟 Glock 18C 武器箱"/>
 	</entry>
 	<entry key="ui_random_box_skin_15_description">
-		<original value="Contains 1 ultrarare skin for Glock 18c pistol"/>
-		<translation value="包含了 Glock 18C 手枪的 1 个超稀有皮肤"/>
+		<original value="Contains Glock 18c rare Lake Bird weapon"/>
+		<translation value="这个箱子会带来所有职业的 3 件随机物品。"/>
 	</entry>
 	<entry key="random_box_skin_16_shop_name">
-		<original value="Tactical Axe &quot;Lac Bird&quot; Skin box"/>
-		<translation value="战术斧“湖鸟”皮肤箱"/>
+		<original value="Tactical Axe &quot;Lake Bird&quot; Weapon box"/>
+		<translation value="湖鸟战术斧武器箱"/>
 	</entry>
 	<entry key="ui_random_box_skin_16_description">
-		<original value="Contains 1 ultrarare skin for Tactical Axe"/>
-		<translation value="包含了战术斧的 1 个超稀有皮肤"/>
+		<original value="Contains Tactical Axe rare Lake Bird weapon"/>
+		<translation value="这个箱子会带来所有职业的 3 件随机物品。"/>
 	</entry>
 	<entry key="random_box_43_shop_name">
-		<original value="Magmatic Mega Random Box Second Edition"/>
+		<original value="Contain 3 unique skins with different rarity for AK-47 rifle"/>
 		<translation value="撼地者超级随机武器箱第二版"/>
 	</entry>
 	<entry key="ui_random_box_43_description">
-		<original value="The box allows to win 2 random items. It contains awesome Magma weapons!"/>
+		<original value="AK-47 Skin box"/>
 		<translation value="这个箱子能让你获得两件随机物品。它包含了顶呱呱的撼地者武器！"/>
 	</entry>
 	<entry key="random_box_skin_18_shop_name">
-		<original value="M16A3 &quot;Lac Bird&quot; Skin box"/>
-		<translation value="M16A3 Custom “湖鸟”皮肤箱"/>
+		<original value="M16A3 &quot;Lake Bird&quot; Weapon box"/>
+		<translation value="湖鸟 M16A3 Custom 武器箱"/>
 	</entry>
 	<entry key="ui_random_box_skin_18_description">
-		<original value="Contains 1 ultrarare skin for M16A3 assault rifle"/>
-		<translation value="包含了 M16A3 Custom 突击步枪的 1 个超稀有皮肤"/>
+		<original value="Contains M16A3 rare Lake Bird weapon"/>
+		<translation value="这个箱子会带来 3 件步枪手的随机物品。"/>
 	</entry>
 	<entry key="random_box_90_shop_name">
 		<original value="Beretta ARX160 Random Box"/>
@@ -5171,5 +5175,309 @@
 	<entry key="ui_key_box_shg55">
 		<original value="Provides you with a Chiappa Triple Threat for a limited time and an offer for its direct purchase"/>
 		<translation value="限时提供 Chiappa 三重威胁，直接购买可优惠"/>
+	</entry>
+	<entry key="box_ar29_shop_name">
+		<original value="AK Alpha Random Box"/>
+		<translation value="AK 阿尔法武器箱"/>
+	</entry>
+	<entry key="ui_box_ar29_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="这个箱子会带来 3 件步枪手的随机物品。"/>
+	</entry>
+	<entry key="box_crown_ar29_shop_name">
+		<original value="AK Alpha Crown Random Box"/>
+		<translation value="AK 阿尔法武器箱"/>
+	</entry>
+	<entry key="ui_box_crown_ar29_description">
+		<original value="This box allows to win 3 random items"/>
+		<translation value="这个皇冠箱子会带来 3 件步枪手的随机物品。"/>
+	</entry>
+	<entry key="ui_key_box_ar29">
+		<original value="Provides you with a AK Alpha for a limited time and an offer for its direct purchase"/>
+		<translation value="限时提供 AK 阿尔法，直接购买可优惠。"/>
+	</entry>
+	<entry key="box_mg26_shop_name">
+		<original value="H&amp;K 121 Random Box"/>
+		<translation value="H&amp;K 121 武器箱"/>
+	</entry>
+	<entry key="ui_box_mg26_description">
+		<original value="This box allows to win 3 random items for rifleman"/>
+		<translation value="这个箱子会带来 3 件步枪手的随机物品。"/>
+	</entry>
+	<entry key="box_crown_mg26_shop_name">
+		<original value="H&amp;K 121 Crown Random Box"/>
+		<translation value="H&amp;K 121 武器箱"/>
+	</entry>
+	<entry key="ui_box_crown_mg26_description">
+		<original value="This box allows to win 3 random items for rifleman"/>
+		<translation value="这个皇冠箱子会带来 3 件步枪手的随机物品。"/>
+	</entry>
+	<entry key="ui_key_box_mg26">
+		<original value="Provides you with a H&amp;K 121 for a limited time and an offer for its direct purchase"/>
+		<translation value="限时提供 H&amp;K 121，直接购买可优惠"/>
+	</entry>
+	<entry key="belarus_flag_02_shop">
+		<original value="Flag of Belarus"/>
+		<translation value="白俄罗斯国旗"/>
+	</entry>
+	<entry key="belarus_flag_02_shop_desc">
+		<original value="This item allows you to purchase flag of Belarus.\nThe flag-stripe can be used for your personal banner."/>
+		<translation value="此物品可帮助你购买白俄罗斯国旗。\n 这个国旗条纹可设为你的个人战旗。"/>
+	</entry>
+	<entry key="box_ar36_raid02_cards_shop_name">
+		<original value="Raid F90 MBR Cards Random Box"/>
+		<translation value="黑木 F90 MBR 卡牌箱"/>
+	</entry>
+	<entry key="ui_box_ar36_raid02_cards_description">
+		<original value="This box allows to win 1 random items"/>
+		<translation value="这个箱子会带来 1 张步枪手的随机卡牌。"/>
+	</entry>
+	<entry key="box_shg52_raid02_cards_shop_name">
+		<original value="Raid TAVOR TS12 Custom Cards Random Box"/>
+		<translation value="黑木 Tavor TS12 Custom 卡牌箱"/>
+	</entry>
+	<entry key="ui_box_shg52_raid02_cards_description">
+		<original value="This box allows to win 1 random items"/>
+		<translation value="这个箱子会带来 1 张医疗兵的随机卡牌。"/>
+	</entry>
+	<entry key="box_smg52_raid02_cards_shop_name">
+		<original value="Raid ACR CQB Custom Cards Random Box"/>
+		<translation value="黑木 ACR CQB Custom 卡牌箱"/>
+	</entry>
+	<entry key="ui_box_smg52_raid02_cards_description">
+		<original value="This box allows to win 1 random items"/>
+		<translation value="这个箱子会带来 1 张工程师的随机卡牌。"/>
+	</entry>
+	<entry key="box_sr45_raid02_cards_shop_name">
+		<original value="Raid HK G28 Cards Random Box"/>
+		<translation value="黑木 H&amp;K G28 卡牌箱"/>
+	</entry>
+	<entry key="ui_box_sr45_raid02_cards_description">
+		<original value="This box allows to win 1 random items"/>
+		<translation value="这个箱子会带来 1 张医疗兵的随机卡牌。"/>
+	</entry>
+	<entry key="box_hmg03_raid02_cards_shop_name">
+		<original value="Raid M134-GAU19b Hybrid Cards Random Box"/>
+		<translation value="黑木 M134-GAU19b Hybrid 卡牌箱"/>
+	</entry>
+	<entry key="ui_box_hmg03_raid02_cards_description">
+		<original value="This box allows to win 1 random items"/>
+		<translation value="这个箱子会带来 1 张狙击手的随机卡牌。"/>
+	</entry>
+	<entry key="box_bundle_kn22_s10">
+		<original value="Jungle wood Skin"/>
+		<translation value="热带皮肤"/>
+	</entry>
+	<entry key="box_bundle_kn22_s10_description">
+		<original value="This bundle allows you to win jungle wood skin for HX Outdoors Trident."/>
+		<translation value="包含 HX Outdoors Trident 的热带皮肤。"/>
+	</entry>
+	<entry key="box_bundle_kn22_s11">
+		<original value="Cyberpunk Skin"/>
+		<translation value="氪皮肤"/>
+	</entry>
+	<entry key="box_bundle_kn22_s11_description">
+		<original value="This bundle allows you to win cyberpunk skin for HX Outdoors Trident."/>
+		<translation value="包含 HX Outdoors Trident 的氪皮肤。"/>
+	</entry>
+	<entry key="box_bundle_kn22_s12">
+		<original value="Solid steel Skin"/>
+		<translation value="萨凡纳皮肤"/>
+	</entry>
+	<entry key="box_bundle_kn22_s12_description">
+		<original value="This bundle allows you to win solid steel skin for HX Outdoors Trident."/>
+		<translation value="包含 HX Outdoors Trident 的萨凡纳皮肤。"/>
+	</entry>
+	<entry key="box_bundle_kn22_s13">
+		<original value="Black Wing Skin"/>
+		<translation value="精英皮肤"/>
+	</entry>
+	<entry key="box_bundle_kn22_s13_description">
+		<original value="This bundle allows you to win black wing skin for HX Outdoors Trident."/>
+		<translation value="包含 HX Outdoors Trident 的精英皮肤。"/>
+	</entry>
+	<entry key="box_bundle_kn22_s14">
+		<original value="Moon Warrior Skin"/>
+		<translation value="月亮战士皮肤"/>
+	</entry>
+	<entry key="box_bundle_kn22_s14_description">
+		<original value="This bundle allows you to win moon warrior skin for HX Outdoors Trident."/>
+		<translation value="包含 HX Outdoors Trident 的月亮战士皮肤。"/>
+	</entry>
+	<entry key="box_bundle_kn22_s15">
+		<original value="Pixel Skin"/>
+		<translation value="战争前线皮肤"/>
+	</entry>
+	<entry key="box_bundle_kn22_s15_description">
+		<original value="This bundle allows you to win pixel skin for HX Outdoors Trident."/>
+		<translation value="包含 HX Outdoors Trident 的战争前线皮肤。"/>
+	</entry>
+	<entry key="box_bundle_kn22_s16">
+		<original value="Volcanic Skin"/>
+		<translation value="火山皮肤"/>
+	</entry>
+	<entry key="box_bundle_kn22_s16_description">
+		<original value="This bundle allows you to win volcanic skin for HX Outdoors Trident."/>
+		<translation value="包含 HX Outdoors Trident 的火山皮肤。"/>
+	</entry>
+	<entry key="box_skin_kn22_shop_name">
+		<original value="HX Outdoors Trident Skins Random Box"/>
+		<translation value="HX Outdoors Trident 皮肤箱"/>
+	</entry>
+	<entry key="ui_box_skin_kn22_description">
+		<original value="This box allows to win HX Outdoors Trident skins"/>
+		<translation value="每个箱子里中包含以下列表中的随机物品。"/>
+	</entry>
+	<entry key="box_ar38_pirate01_cards_shop_name">
+		<original value="Pirate Cobalt Kinetics EDGE Cards Random Box"/>
+		<translation value="海盗版科伯特动力公司 EDGE 卡牌箱"/>
+	</entry>
+	<entry key="ui_box_ar38_pirate01_cards_description">
+		<original value="This box allows to win 1 random items"/>
+		<translation value="这个箱子会带来 1 张步枪手的随机卡牌。"/>
+	</entry>
+	<entry key="box_shg53_pirate01_cards_shop_name">
+		<original value="Pirate Typhoon F12 Custom Cards Random Box"/>
+		<translation value="海盗版台风 F12 定制版卡牌箱"/>
+	</entry>
+	<entry key="ui_box_shg53_pirate01_cards_description">
+		<original value="This box allows to win 1 random items"/>
+		<translation value="这个箱子会带来 1 张医疗兵的随机卡牌。"/>
+	</entry>
+	<entry key="box_smg48_pirate01_cards_shop_name">
+		<original value="Pirate Cobalt Kinetics Stealth Pistol Cards Random Box"/>
+		<translation value="海盗版科伯特动力公司隐形手枪卡牌箱"/>
+	</entry>
+	<entry key="ui_box_smg48_pirate01_cards_description">
+		<original value="This box allows to win 1 random items"/>
+		<translation value="这个箱子会带来 1 张工程师的随机卡牌。"/>
+	</entry>
+	<entry key="box_sr49_pirate01_cards_shop_name">
+		<original value="Pirate Cobalt Kinetics Twenty-Seven Cards Random Box"/>
+		<translation value="海盗版 Cobalt Kinetics 27 卡牌箱"/>
+	</entry>
+	<entry key="ui_box_sr49_pirate01_cards_description">
+		<original value="This box allows to win 1 random items"/>
+		<translation value="这个箱子会带来 1 张狙击手的随机卡牌。"/>
+	</entry>
+	<entry key="box_ar44_shop_name">
+		<original value="HCAR Auto Random Box"/>
+		<translation value="HCAR Auto 随机武器箱"/>
+	</entry>
+	<entry key="ui_box_ar44_description">
+		<original value="This box allows to win 2 random items for rifleman"/>
+		<translation value="这个箱子能让你获得 2 件步枪手的随机物品。"/>
+	</entry>
+	<entry key="box_ar44_cards_shop_name">
+		<original value="HCAR Auto Cards Random Box"/>
+		<translation value="HCAR Auto 卡牌箱"/>
+	</entry>
+	<entry key="ui_box_ar44_cards_description">
+		<original value="This box allows to win 1 random items"/>
+		<translation value="这个箱子会带来 1 张步枪手的随机卡牌。"/>
+	</entry>
+	<entry key="box_smg09_custom_cards_shop_name">
+		<original value="FN P90 Custom Cards Random Box"/>
+		<translation value="FN P90 Custom 卡牌箱"/>
+	</entry>
+	<entry key="ui_box_smg09_custom_cards_description">
+		<original value="This box allows to win 1 random items"/>
+		<translation value="这个箱子会带来 1 张工程师的随机卡牌。"/>
+	</entry>
+	<entry key="bundle_brazil_fbs_01">
+		<original value="Brazil fbs Bundle"/>
+		<translation value="维和行动迷彩捆绑包"/>
+	</entry>
+	<entry key="bundle_brazil_fbs_01_description">
+		<original value="Complete set of Brazil full body suits"/>
+		<translation value="全套维和行动服饰迷彩。"/>
+	</entry>
+	<entry key="random_box_solo_01_shop_name">
+		<original value="Special Solo Mission Reward"/>
+		<translation value="单人任务特殊奖励"/>
+	</entry>
+	<entry key="ui_random_box_solo_01_description">
+		<original value="Reward for completing the Solo mission."/>
+		<translation value="在单人任务中生存下来可获得的奖励。"/>
+	</entry>
+	<entry key="ui_cohtml_no_money_boosters">
+		<original value="No &lt;span style=&quot;color:#dddddd&quot;&gt;Money Reward Boosters&lt;/span&gt; in use&lt;br&gt;Boosters are available in the&lt;br&gt;&lt;span style=&quot;color:#feb200&quot;&gt;Shop, Misc section&lt;/span&gt;"/>
+		<translation value="无使用中的&lt;span style=&quot;color:#dddddd&quot;&gt;W 币增益道具&lt;/span&gt;&lt;br&gt;增益道具可从&lt;br&gt;&lt;span style=&quot;color:#feb200&quot;&gt;商店的其他页面&lt;/span&gt;获得"/>
+	</entry>
+	<entry key="ui_cohtml_no_xp_boosters">
+		<original value="No &lt;span style=&quot;color:#dddddd&quot;&gt;XP Boosters&lt;/span&gt; in use&lt;br&gt;Boosters are available in the&lt;br&gt;&lt;span style=&quot;color:#feb200&quot;&gt;Shop, Misc section&lt;/span&gt;"/>
+		<translation value="无使用中的&lt;span style=&quot;color:#dddddd&quot;&gt;经验值增益道具&lt;/span&gt;&lt;br&gt;增益道具可从&lt;br&gt;&lt;span style=&quot;color:#feb200&quot;&gt;商店的其他页面&lt;/span&gt;获得"/>
+	</entry>
+	<entry key="ui_cohtml_no_vp_boosters">
+		<original value="No &lt;span style=&quot;color:#dddddd&quot;&gt;Vendor Unlock Boosters &lt;/span&gt;in use.&lt;br&gt;&lt;span&gt;Boosters are available in the&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color:#feb200&quot;&gt;Shop, Misc section&lt;/span&gt;"/>
+		<translation value="无使用中的&lt;span style=&quot;color:#dddddd&quot;&gt;供应商解锁增益道具&lt;/span&gt;&lt;br&gt;&lt;span&gt;增益道具可从&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;color:#feb200&quot;&gt;商店的其他页面&lt;/span&gt;获得"/>
+	</entry>
+	<entry key="ui_cohtml_booster_tooltip">
+		<original value="&lt;span&gt;%1: +%2%&lt;/span&gt;"/>
+		<translation value="&lt;span&gt;%1：+%2%&lt;/span&gt;"/>
+	</entry>
+	<entry key="ui_cohtml_booster_limit">
+		<original value="&lt;br&gt;&lt;span&gt;Max booster effect: +%1%&lt;/span&gt;"/>
+		<translation value="&lt;br&gt;&lt;span&gt;最大增益道具效果：+%1%&lt;/span&gt;"/>
+	</entry>
+	<entry key="box_ar29_cards_shop_name">
+		<original value="AK Alpha Cards Random Box"/>
+		<translation value="AK 阿尔法随机卡牌箱"/>
+	</entry>
+	<entry key="ui_box_ar29_cards_description">
+		<original value="This box allows to win 1 random items"/>
+		<translation value="这个箱子会带来 1 张步枪手的随机卡牌。"/>
+	</entry>
+	<entry key="box_pt36_cards_shop_name">
+		<original value="TEC-9 Cards Random Box"/>
+		<translation value="TEC-9 卡牌箱"/>
+	</entry>
+	<entry key="ui_box_pt36_cards_description">
+		<original value="This box allows to win 1 random items"/>
+		<translation value="这个箱子会带来所有职业的 1 张随机卡牌。"/>
+	</entry>
+	<entry key="box_shg51_cards_shop_name">
+		<original value="Typhoon F12 Cards Random Box"/>
+		<translation value="台风 F12 卡牌箱"/>
+	</entry>
+	<entry key="ui_box_shg51_cards_description">
+		<original value="This box allows to win 1 random items"/>
+		<translation value="这个箱子会带来 1 张医疗兵的随机卡牌。"/>
+	</entry>
+	<entry key="box_smg44_cards_shop_name">
+		<original value="KRISS Super V Custom Cards Random Box"/>
+		<translation value="KRISS Super V Custom 卡牌箱"/>
+	</entry>
+	<entry key="ui_box_smg44_cards_description">
+		<original value="This box allows to win 1 random items"/>
+		<translation value="这个箱子会带来 1 张工程师的随机卡牌。"/>
+	</entry>
+	<entry key="box_sr46_cards_shop_name">
+		<original value="CDX-MC Kraken Cards Random Box"/>
+		<translation value="CDX-MC 北海巨妖卡牌箱"/>
+	</entry>
+	<entry key="ui_box_sr46_cards_description">
+		<original value="This box allows to win 1 random items"/>
+		<translation value="这个箱子会带来 1 张狙击手的随机卡牌。"/>
+	</entry>
+	<entry key="box_smg53_shop_name">
+		<original value="AMB-17 Random Box"/>
+		<translation value="AMB-17 箱子"/>
+	</entry>
+	<entry key="ui_box_smg53_description">
+		<original value="This box allows to win 3 random items for engineer"/>
+		<translation value="这个箱子会带来 3 件工程师的随机物品。"/>
+	</entry>
+	<entry key="box_crown_smg53_shop_name">
+		<original value="AMB-17 Crown Random Box"/>
+		<translation value="AMB-17 箱子"/>
+	</entry>
+	<entry key="ui_box_crown_smg53_description">
+		<original value="This box allows to win 3 random items for engineer"/>
+		<translation value="这个皇冠箱子会带来 3 件工程师的随机物品。"/>
+	</entry>
+	<entry key="ui_key_box_smg53">
+		<original value="Provides you with a AMB-17 for a limited time and an offer for its direct purchase"/>
+		<translation value="限时提供 AMB-17，直接购买可优惠。"/>
 	</entry>
 </localization>

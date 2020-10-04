@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
 	<entry key="sp_default_name">
 		<original value="Default Suppressor"/>
 		<translation value="Default Suppressor"/>
@@ -2253,7 +2257,7 @@
 		<translation value="OSS Elite Suppressor"/>
 	</entry>
 	<entry key="ui_sr49_sc_d_ingame">
-		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage by 50%&lt;/font&gt;"/>
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font color='#ff6660'&gt;Decreases damage by 50%&lt;/font&gt;&#xA;"/>
 		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt;\n&lt;font color='#ff6660'&gt;Decreases damage by 50%&lt;/font&gt;"/>
 	</entry>
 	<entry key="sr49_gp01_d_name">
@@ -2277,7 +2281,7 @@
 		<translation value="Holosun MK4"/>
 	</entry>
 	<entry key="ui_sr49_rds_d_ingame">
-		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.8X zoom&lt;/font&gt; \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;1.8X zoom&lt;/font&gt; \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;&#xA;"/>
 		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.8X zoom&lt;/font&gt; in aiming mode \nGreatly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
 	</entry>
 	<entry key="sr49_sp_d_name">
@@ -2317,8 +2321,8 @@
 		<translation value="CZ 805 BREN A2 Laser Sight"/>
 	</entry>
 	<entry key="ui_ls01_ingame">
-		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly increases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil shake&lt;/font&gt;\n"/>
-		<translation value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \nLightly increases&lt;font size='14'&gt;&lt;font color='#ff6660'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#ff6660'&gt;recoil shake&lt;/font&gt;\n"/>
+		<original value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt;\n"/>
+		<translation value="Greatly increases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;hip accuracy&lt;/font&gt; \n"/>
 	</entry>
 	<entry key="shg54_sp_d_name">
 		<original value="KS7 Supressor"/>
@@ -2461,6 +2465,102 @@
 		<translation value="Vism Flip Dot SPD"/>
 	</entry>
 	<entry key="ui_smg51_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+	</entry>
+	<entry key="mg26_gp_d_name">
+		<original value="Special H&amp;K 121 Grippod"/>
+		<translation value="Special H&amp;K 121 Grippod"/>
+	</entry>
+	<entry key="ui_mg26_gp_d_ingame">
+		<original value="Lightly improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nGreatly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nDecrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone and slide&lt;/font&gt;\n"/>
+		<translation value="Lightly improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;accuracy&lt;/font&gt;\nGreatly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;recoil&lt;/font&gt;\nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone and slide&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="mg26_as_d_name">
+		<original value="Hensoldt Zo Sight"/>
+		<translation value="Hensoldt Zo Sight"/>
+	</entry>
+	<entry key="ui_mg26_as_d_ingame">
+		<original value="Fast &lt;font color='#42ebf8'&gt;1.8X &lt;/font&gt;zoom in aiming mode&lt;/font&gt;"/>
+		<translation value="Fast &lt;font color='#42ebf8'&gt;1.8X &lt;/font&gt;zoom in aiming mode"/>
+	</entry>
+	<entry key="ar44_sp_d_shop_name">
+		<original value="HCAR Auto Special Suppressor"/>
+		<translation value="HCAR Auto Special Suppressor"/>
+	</entry>
+	<entry key="ui_ar44_sp_d_ingame">
+		<original value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;spread&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;spread&lt;/font&gt; \nImproves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="ar44_rds_d_shop_name">
+		<original value="HCAR Auto Special RDS"/>
+		<translation value="Redring MK3 Sight"/>
+	</entry>
+	<entry key="ui_ar44_rds_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode. \n"/>
+	</entry>
+	<entry key="smg09_custom_sc_d_name">
+		<original value="FN P90 Custom Special Silencer"/>
+		<translation value="FN P90 Custom Special Silencer"/>
+	</entry>
+	<entry key="ui_smg09_custom_sc_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound &lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff4400'&gt;Decreases damage by 2%&lt;/font&gt;\n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Eliminates sound&lt;/font&gt; and &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;conceals attack direction&lt;/font&gt; \n&lt;font size='14'&gt;&lt;font color='#ff4400'&gt;Decreases damage by 2%&lt;/font&gt;"/>
+	</entry>
+	<entry key="smg09_custom_rds_d_name">
+		<original value="FN P90 Custom Special RDS"/>
+		<translation value="Vism Flip Dot SPD"/>
+	</entry>
+	<entry key="ui_accessories_smg09_custom_rds_d">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
+	</entry>
+	<entry key="sr51_sp01_d_name">
+		<original value="DVL-10 M2 Special Suppressor"/>
+		<translation value="DVL-10 M2 Special Suppressor"/>
+	</entry>
+	<entry key="ui_sr51_sp01_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nDecreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nDecreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr51_sp02_d_name">
+		<original value="DVL-10 M2 Supressor"/>
+		<translation value="DVL-10 M2 Supressor"/>
+	</entry>
+	<entry key="ui_sr51_sp02_d_ingame">
+		<original value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly improves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt;\n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;muzzle flash&lt;/font&gt; \nDecreases &lt;font color='#42ebf8'&gt;damage drop&lt;/font&gt; \nImproves &lt;font color='#42ebf8'&gt;penetration&lt;/font&gt; \nLightly improves&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt;\n"/>
+	</entry>
+	<entry key="sr51_bp_d_name">
+		<original value="UTG recon flex bipod"/>
+		<translation value="UTG Recon 360 TL Bipod"/>
+	</entry>
+	<entry key="ui_sr51_bp_d_ingame">
+		<original value="Decrease &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt; \n"/>
+		<translation value="Decreases &lt;font color='#42ebf8'&gt;sway&lt;/font&gt; in prone&lt;/font&gt; \nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt; \n"/>
+	</entry>
+	<entry key="sr51_ss_d_name">
+		<original value="March 4.5x scope"/>
+		<translation value="March 4.5x Scope"/>
+	</entry>
+	<entry key="ui_sr51_ss_d_ingame">
+		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.5X zoom&lt;/font&gt; in aiming mode. \n"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 4.5X zoom&lt;/font&gt; in aiming mode \n"/>
+	</entry>
+	<entry key="smg53_gp_d_name">
+		<original value="MFT Forend Grip"/>
+		<translation value="MFT React Folding Grip"/>
+	</entry>
+	<entry key="ui_smg53_gp_d_ingame">
+		<original value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt; \nDecreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\n"/>
+		<translation value="Improves &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; accuracy&lt;/font&gt; \nDecreases&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt; recoil&lt;/font&gt;\nIncreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;select and deselect speed&lt;/font&gt;\nNot applied in prone"/>
+	</entry>
+	<entry key="smg53_rds_d_name">
+		<original value="Truglo TruPoint Sight"/>
+		<translation value="Truglo Tru-Point Sight"/>
+	</entry>
+	<entry key="ui_smg53_rds_d_ingame">
 		<original value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decrease &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
 		<translation value="&lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;Fast 1.3X zoom&lt;/font&gt; in aiming mode \nGreatly decreases &lt;font size='14'&gt;&lt;font color='#42ebf8'&gt;sway&lt;/font&gt;"/>
 	</entry>

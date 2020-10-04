@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
 	<entry key="ui_armor_shared_pants_01">
 		<original value="Default pants"/>
 		<translation value="默认裤子"/>
@@ -225,8 +229,8 @@
 		<translation value="增速靴"/>
 	</entry>
 	<entry key="ui_armor_shared_shoes_03">
-		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Protective shoes&lt;/b&gt;&lt;/font&gt; \n Protect from damage to the legs by &lt;font size='15' color='#42ebf8'&gt;20%&lt;/font&gt;"/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;防护鞋&lt;/b&gt;&lt;/font&gt;\n对腿部造成的伤害降低&lt;font size='15' color='#42ebf8'&gt;20%&lt;/font&gt;。\n冲刺速度提升&lt;font size='15' color='#42ebf8'&gt;10%&lt;/font&gt;。"/>
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Protective Shoes&lt;/b&gt;&lt;/font&gt;\nDecreases damage taken to legs by &lt;font size='15' color='#42ebf8'&gt;20%&lt;/font&gt;.\nDecreases sprint distance by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\nIncreases sprint speed by &lt;font size='15' color='#42ebf8'&gt;5%&lt;/font&gt;"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;防护鞋&lt;/b&gt;&lt;/font&gt;\n对腿部造成的伤害降低&lt;font size='15' color='#42ebf8'&gt;20%&lt;/font&gt;。\n冲刺距离减少&lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\n冲刺速度提升&lt;font size='15' color='#42ebf8'&gt;5%&lt;/font&gt;。"/>
 	</entry>
 	<entry key="ui_armor_shared_shoes_03_name">
 		<original value="Protective shoes"/>
@@ -1214,39 +1218,39 @@
 	</entry>
 	<entry key="ui_armor_engineer_fbs_exo_01">
 		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt; Engineer's Augmented Operational ExoSuit M2&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt; \nThe next step of warfare suits development from already famous military bureau &quot;Spor ants&quot; inc. Chief designer was the famous Mr. &quot;Keeman&quot;. With a &quot;touch of genius&quot; he put his hand to the famous military things, such as &quot;Mech&quot;, set of weapons named &quot;Crown&quot; and some previous versions of bodysuits, etc. Bureau is independent supplier of equipment for Warface and Blackwood."/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;工程师动力外骨骼 M2&lt;/b&gt;&lt;/font&gt;\n远近闻名的军务部“世安”公司将战斗服装的研发推上了下一个大阶段。该公司也是战争前线小队和黑木集团的独立装备供应商。首席设计师正是大名鼎鼎的“基曼”先生。享有“天才之手”之名的他曾参与过著名军事装备“机师”、命名为“皇冠”的武器套装和某些上世代贴身战斗服装的研发。"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;工程师动力外骨骼 M2&lt;/b&gt;&lt;/font&gt;\n使冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt;\n远近闻名的军务部“世安”公司将战斗服装的研发推上了下一个大阶段。该公司也是战争前线小队和黑木集团的独立装备供应商。"/>
 	</entry>
 	<entry key="ui_armor_soldier_fbs_exo_01_name">
 		<original value="Soldier Exosuit &quot;AOS M2&quot;"/>
-		<translation value="工程师 “AOS M2” 外骨骼"/>
+		<translation value="步枪手 “AOS M2” 外骨骼"/>
 	</entry>
 	<entry key="ui_armor_soldier_fbs_exo_01">
 		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt; Soldier's Augmented Operational ExoSuit M2&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt; \nThe next step of warfare suits development from already famous military bureau &quot;Spor ants&quot; inc. Chief designer was the famous Mr. &quot;Keeman&quot;. With a &quot;touch of genius&quot; he put his hand to the famous military things, such as &quot;Mech&quot;, set of weapons named &quot;Crown&quot; and some previous versions of bodysuits, etc. Bureau is independent supplier of equipment for Warface and Blackwood."/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;工程师动力外骨骼 M2&lt;/b&gt;&lt;/font&gt;\n使冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt;\n远近闻名的军务部“世安”公司将战斗服装的研发推上了下一个大阶段。该公司也是战争前线小队和黑木集团的独立装备供应商。"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;步枪手动力外骨骼 M2&lt;/b&gt;&lt;/font&gt;\n使冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt;\n远近闻名的军务部“世安”公司将战斗服装的研发推上了下一个大阶段。该公司也是战争前线小队和黑木集团的独立装备供应商。"/>
 	</entry>
 	<entry key="ui_armor_sniper_fbs_exo_01_name">
 		<original value="Sniper Exosuit &quot;AOS M2&quot;"/>
-		<translation value="步枪手 “AOS M2” 外骨骼"/>
+		<translation value="狙击手 “AOS M2” 外骨骼"/>
 	</entry>
 	<entry key="ui_armor_sniper_fbs_exo_01">
 		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt; Sniper's Augmented Operational ExoSuit M2&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt; \nThe next step of warfare suits development from already famous military bureau &quot;Spor ants&quot; inc. Chief designer was the famous Mr. &quot;Keeman&quot;. With a &quot;touch of genius&quot; he put his hand to the famous military things, such as &quot;Mech&quot;, set of weapons named &quot;Crown&quot; and some previous versions of bodysuits, etc. Bureau is independent supplier of equipment for Warface and Blackwood."/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;步枪手动力外骨骼 M2&lt;/b&gt;&lt;/font&gt;\n使冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt;\n远近闻名的军务部“世安”公司将战斗服装的研发推上了下一个大阶段。该公司也是战争前线小队和黑木集团的独立装备供应商。"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;狙击手动力外骨骼 M2&lt;/b&gt;&lt;/font&gt;\n使冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt;\n远近闻名的军务部“世安”公司将战斗服装的研发推上了下一个大阶段。该公司也是战争前线小队和黑木集团的独立装备供应商。"/>
 	</entry>
 	<entry key="ui_armor_medic_fbs_exo_01_name">
 		<original value="Medic Exosuit &quot;AOS M2&quot;"/>
-		<translation value="狙击手 “AOS M2” 外骨骼"/>
+		<translation value="医疗兵 “AOS M2” 外骨骼"/>
 	</entry>
 	<entry key="ui_armor_medic_fbs_exo_01">
 		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Medic's Augmented Operational ExoSuit M2&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt; \nThe next step of warfare suits development from already famous military bureau &quot;Spor ants&quot; inc. Chief designer was the famous Mr. &quot;Keeman&quot;. With a &quot;touch of genius&quot; he put his hand to the famous military things, such as &quot;Mech&quot;, set of weapons named &quot;Crown&quot; and some previous versions of bodysuits, etc. Bureau is independent supplier of equipment for Warface and Blackwood."/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;狙击手动力外骨骼 M2&lt;/b&gt;&lt;/font&gt;\n使冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt;\n远近闻名的军务部“世安”公司将战斗服装的研发推上了下一个大阶段。该公司也是战争前线小队和黑木集团的独立装备供应商。"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;医疗兵动力外骨骼 M2&lt;/b&gt;&lt;/font&gt;\n使冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt;\n远近闻名的军务部“世安”公司将战斗服装的研发推上了下一个大阶段。该公司也是战争前线小队和黑木集团的独立装备供应商。"/>
 	</entry>
 	<entry key="ui_armor_soldier_helmet_07_name">
 		<original value="Warlord soldier helmet"/>
-		<translation value="医疗兵 “AOS M2” 外骨骼"/>
+		<translation value="步枪手军阀头盔"/>
 	</entry>
 	<entry key="ui_armor_soldier_helmet_07">
 		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Warlord soldier helmet&lt;/b&gt;&lt;/font&gt; \n Increases head protection by &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt; \n Regenerate &lt;font size='15' color='#42ebf8'&gt; 8 health &lt;/font&gt;points over time (after &lt;font size='15' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)"/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;医疗兵动力外骨骼 M2&lt;/b&gt;&lt;/font&gt;\n使冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt;\n远近闻名的军务部“世安”公司将战斗服装的研发推上了下一个大阶段。该公司也是战争前线小队和黑木集团的独立装备供应商。"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;步枪手军阀头盔&lt;/b&gt;&lt;/font&gt;\n对头部的保护提升 &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt;\n如果角色未受到更强大的同类效果影响，一段时间内会恢复&lt;font size='15' color='#42ebf8'&gt; 8 点生命值&lt;/font&gt;（&lt;font size='15' color='#42ebf8'&gt;5 秒&lt;/font&gt;未受到伤害后）\n"/>
 	</entry>
 	<entry key="ui_armor_sniper_helmet_07_name">
 		<original value="Warlord sniper helmet"/>
@@ -3189,31 +3193,63 @@
 		<translation value="帝国风暴兵"/>
 	</entry>
 	<entry key="ui_armor_soldier_fbs_samurai_01">
-		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Soldier the elite squad of samurai.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nSamurai are legendary Japanese warriors who do not know fear, pain and fatigue. They are able to turn the enemy into a panic with one stroke of the sword.\n"/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;帝国风暴兵&lt;/b&gt;&lt;/font&gt;\n使冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt;\n强大而又充满智慧的大合王朝的勇士。务必给予他足够的尊重，千万不要惹怒这个力量堪比数千次海啸的强者。\n"/>
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Soldier the elite squad of samurai.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt; \nSamurai are legendary Japanese warriors who do not know fear, pain and fatigue. They are able to turn the enemy into a panic with one stroke of the sword.\n"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;帝国风暴兵&lt;/b&gt;&lt;/font&gt;\n使冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt;\n强大而又充满智慧的大合王朝的勇士。务必给予他足够的尊重，千万不要惹怒这个力量堪比数千次海啸的强者。\n"/>
 	</entry>
 	<entry key="ui_armor_sniper_fbs_samurai_01_name">
 		<original value="Samurai Sniper Suit"/>
 		<translation value="帝国狙击兵"/>
 	</entry>
 	<entry key="ui_armor_sniper_fbs_samurai_01">
-		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Sniper of the elite squad of samurai.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nSamurai are legendary Japanese warriors who do not know fear, pain and fatigue. They are able to turn the enemy into a panic with one stroke of the sword.\n"/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;帝国狙击兵&lt;/b&gt;&lt;/font&gt;\n使冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt;\n隐形的腾源氏族勇士，藏匿于阴影之中，出手极快，悄无声息，就像武士刀扫过，杀人于无形。\n"/>
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Sniper of the elite squad of samurai.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt; \nSamurai are legendary Japanese warriors who do not know fear, pain and fatigue. They are able to turn the enemy into a panic with one stroke of the sword.\n"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;帝国狙击兵&lt;/b&gt;&lt;/font&gt;\n使冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt;\n隐形的腾源氏族勇士，藏匿于阴影之中，出手极快，悄无声息，就像武士刀扫过，杀人于无形。\n"/>
 	</entry>
 	<entry key="ui_armor_medic_fbs_samurai_01_name">
 		<original value="Samurai Medic Suit"/>
 		<translation value="帝国医疗兵"/>
 	</entry>
 	<entry key="ui_armor_medic_fbs_samurai_01">
-		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Medic of the elite squad of samurai.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nSamurai are legendary Japanese warriors who do not know fear, pain and fatigue. They are able to turn the enemy into a panic with one stroke of the sword.\n"/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;帝国医疗兵&lt;/b&gt;&lt;/font&gt;\n使冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt;\n太空氏族成员，该氏族拥有古代传奇武士，背后受到幕府将军的保护，并掌控其一切权力。\n"/>
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Medic of the elite squad of samurai.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt; \nSamurai are legendary Japanese warriors who do not know fear, pain and fatigue. They are able to turn the enemy into a panic with one stroke of the sword.\n"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;帝国医疗兵&lt;/b&gt;&lt;/font&gt;\n使冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt;\n太空氏族成员，该氏族拥有古代传奇武士，背后受到幕府将军的保护，并掌控其一切权力。\n"/>
 	</entry>
 	<entry key="ui_armor_engineer_fbs_samurai_01_name">
 		<original value="Samurai Engineer Suit"/>
 		<translation value="帝国工兵"/>
 	</entry>
 	<entry key="ui_armor_engineer_fbs_samurai_01">
-		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Engineer of the elite squad of samurai.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nSamurai are legendary Japanese warriors who do not know fear, pain and fatigue. They are able to turn the enemy into a panic with one stroke of the sword.\n"/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;帝国工兵&lt;/b&gt;&lt;/font&gt;\n使冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt;\n源氏族武士个个都是骁勇的战士和出色的战略家。他们擅长使用最玄妙的战术和最致命的陷阱。\n"/>
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Engineer of the elite squad of samurai.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt; \nSamurai are legendary Japanese warriors who do not know fear, pain and fatigue. They are able to turn the enemy into a panic with one stroke of the sword.\n"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;帝国工兵&lt;/b&gt;&lt;/font&gt;\n使冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt;\n源氏族武士个个都是骁勇的战士和出色的战略家。他们擅长使用最玄妙的战术和最致命的陷阱。\n"/>
+	</entry>
+	<entry key="ui_armor_soldier_fbs_brazil_01_name">
+		<original value="Brazil Soldier's Suit"/>
+		<translation value="维和行动步枪手服装"/>
+	</entry>
+	<entry key="ui_armor_soldier_fbs_brazil_01">
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Soldier of the special forces of Brazil.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nThese elite forces are engaged in black ops all over the world.\n"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;维和部队步枪手。&lt;/b&gt;&lt;/font&gt;\n冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt;\n这些精英部队在全世界执行黑色行动。\n"/>
+	</entry>
+	<entry key="ui_armor_engineer_fbs_brazil_01_name">
+		<original value="Brazil Engineer's Suit"/>
+		<translation value="维和行动工程师服装"/>
+	</entry>
+	<entry key="ui_armor_engineer_fbs_brazil_01">
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Engineer of the special forces of Brazil.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nThese elite forces are engaged in black ops all over the world.\n"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;维和部队工程师。&lt;/b&gt;&lt;/font&gt;\n冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt;\n这些精英部队在全世界执行黑色行动。\n"/>
+	</entry>
+	<entry key="ui_armor_sniper_fbs_brazil_01_name">
+		<original value="Brazil Sniper's Suit"/>
+		<translation value="维和行动狙击手服装"/>
+	</entry>
+	<entry key="ui_armor_sniper_fbs_brazil_01">
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Sniper of the special forces of Brazil.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nThese elite forces are engaged in black ops all over the world.\n"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;维和部队狙击手。&lt;/b&gt;&lt;/font&gt;\n冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt;\n这些精英部队在全世界执行黑色行动。\n"/>
+	</entry>
+	<entry key="ui_armor_medic_fbs_brazil_01_name">
+		<original value="Brazil Medic's Suit"/>
+		<translation value="维和行动医疗兵服装"/>
+	</entry>
+	<entry key="ui_armor_medic_fbs_brazil_01">
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Medic of the special forces of Brazil.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nThese elite forces are engaged in black ops all over the world.\n"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;维和部队医疗兵。&lt;/b&gt;&lt;/font&gt;\n冲刺距离增加 &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt;\n这些精英部队在全世界执行黑色行动。\n"/>
 	</entry>
 </localization>

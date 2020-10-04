@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <localization>
+	<entry>
+		<original/>
+		<translation/>
+	</entry>
 	<entry key="ui_armor_shared_pants_01">
 		<original value="Default pants"/>
 		<translation value="Default pants"/>
@@ -225,8 +229,8 @@
 		<translation value="Fast Shoes"/>
 	</entry>
 	<entry key="ui_armor_shared_shoes_03">
-		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Protective shoes&lt;/b&gt;&lt;/font&gt; \n Protect from damage to the legs by &lt;font size='15' color='#42ebf8'&gt;20%&lt;/font&gt;"/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Protective shoes&lt;/b&gt;&lt;/font&gt;\nDecreases damage taken to legs by &lt;font size='15' color='#42ebf8'&gt;20%&lt;/font&gt;.\nIncreases sprint speed by &lt;font size='15' color='#42ebf8'&gt;10%&lt;/font&gt;."/>
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Protective Shoes&lt;/b&gt;&lt;/font&gt;\nDecreases damage taken to legs by &lt;font size='15' color='#42ebf8'&gt;20%&lt;/font&gt;.\nDecreases sprint distance by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\nIncreases sprint speed by &lt;font size='15' color='#42ebf8'&gt;5%&lt;/font&gt;"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Protective boots&lt;/b&gt;&lt;/font&gt;\nDecrease damage taken to legs by &lt;font size='15' color='#42ebf8'&gt;20%&lt;/font&gt;.\nDecrease sprint distance by &lt;font size='16' color='#42ebf8'&gt;10%&lt;/font&gt;\nIncrease sprint speed by &lt;font size='15' color='#42ebf8'&gt;5%&lt;/font&gt;."/>
 	</entry>
 	<entry key="ui_armor_shared_shoes_03_name">
 		<original value="Protective shoes"/>
@@ -1218,35 +1222,35 @@
 	</entry>
 	<entry key="ui_armor_soldier_fbs_exo_01_name">
 		<original value="Soldier Exosuit &quot;AOS M2&quot;"/>
-		<translation value="Engineer Exosuit &quot;AOS M2&quot;"/>
+		<translation value="Rifleman Exosuit &quot;AOS M2&quot;"/>
 	</entry>
 	<entry key="ui_armor_soldier_fbs_exo_01">
 		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt; Soldier's Augmented Operational ExoSuit M2&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt; \nThe next step of warfare suits development from already famous military bureau &quot;Spor ants&quot; inc. Chief designer was the famous Mr. &quot;Keeman&quot;. With a &quot;touch of genius&quot; he put his hand to the famous military things, such as &quot;Mech&quot;, set of weapons named &quot;Crown&quot; and some previous versions of bodysuits, etc. Bureau is independent supplier of equipment for Warface and Blackwood."/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt; Engineer's Augmented Operational ExoSuit M2&lt;/b&gt;&lt;/font&gt;\nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt;\nThe next big step of warfare suit development by the famous military bureau &quot;Spor ants&quot; Inc. which is an independent supplier of equipment for Warface and Blackwood."/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt; Rifleman's Augmented Operational ExoSuit M2&lt;/b&gt;&lt;/font&gt;\nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt;\nThe next big step of warfare suit development by the famous military bureau &quot;Spor ants&quot; Inc. which is an independent supplier of equipment for Warface and Blackwood."/>
 	</entry>
 	<entry key="ui_armor_sniper_fbs_exo_01_name">
 		<original value="Sniper Exosuit &quot;AOS M2&quot;"/>
-		<translation value="Rifleman Exosuit &quot;AOS M2&quot;"/>
+		<translation value="Sniper Exosuit &quot;AOS M2&quot;"/>
 	</entry>
 	<entry key="ui_armor_sniper_fbs_exo_01">
 		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt; Sniper's Augmented Operational ExoSuit M2&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt; \nThe next step of warfare suits development from already famous military bureau &quot;Spor ants&quot; inc. Chief designer was the famous Mr. &quot;Keeman&quot;. With a &quot;touch of genius&quot; he put his hand to the famous military things, such as &quot;Mech&quot;, set of weapons named &quot;Crown&quot; and some previous versions of bodysuits, etc. Bureau is independent supplier of equipment for Warface and Blackwood."/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt; Rifleman's Augmented Operational ExoSuit M2&lt;/b&gt;&lt;/font&gt;\nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt;\nThe next big step of warfare suit development by the famous military bureau &quot;Spor ants&quot; Inc. which is an independent supplier of equipment for Warface and Blackwood."/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt; Sniper's Augmented Operational ExoSuit M2&lt;/b&gt;&lt;/font&gt;\nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt;\nThe next big step of warfare suit development by the famous military bureau &quot;Spor ants&quot; Inc. which is an independent supplier of equipment for Warface and Blackwood."/>
 	</entry>
 	<entry key="ui_armor_medic_fbs_exo_01_name">
 		<original value="Medic Exosuit &quot;AOS M2&quot;"/>
-		<translation value="Sniper Exosuit &quot;AOS M2&quot;"/>
+		<translation value="Medic Exosuit &quot;AOS M2&quot;"/>
 	</entry>
 	<entry key="ui_armor_medic_fbs_exo_01">
 		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Medic's Augmented Operational ExoSuit M2&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt; \nThe next step of warfare suits development from already famous military bureau &quot;Spor ants&quot; inc. Chief designer was the famous Mr. &quot;Keeman&quot;. With a &quot;touch of genius&quot; he put his hand to the famous military things, such as &quot;Mech&quot;, set of weapons named &quot;Crown&quot; and some previous versions of bodysuits, etc. Bureau is independent supplier of equipment for Warface and Blackwood."/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt; Sniper's Augmented Operational ExoSuit M2&lt;/b&gt;&lt;/font&gt;\nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt;\nThe next big step of warfare suit development by the famous military bureau &quot;Spor ants&quot; Inc. which is an independent supplier of equipment for Warface and Blackwood."/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Medic's Augmented Operational ExoSuit M2&lt;/b&gt;&lt;/font&gt;\nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt;\nThe next big step of warfare suit development by the famous military bureau &quot;Spor ants&quot; Inc. which is an independent supplier of equipment for Warface and Blackwood."/>
 	</entry>
 	<entry key="ui_armor_soldier_helmet_07_name">
 		<original value="Warlord soldier helmet"/>
-		<translation value="Medic Exosuit &quot;AOS M2&quot;"/>
+		<translation value="Warlord Rifleman Helmet"/>
 	</entry>
 	<entry key="ui_armor_soldier_helmet_07">
 		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Warlord soldier helmet&lt;/b&gt;&lt;/font&gt; \n Increases head protection by &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt; \n Regenerate &lt;font size='15' color='#42ebf8'&gt; 8 health &lt;/font&gt;points over time (after &lt;font size='15' color='#42ebf8'&gt;5 secs&lt;/font&gt; with no hits)"/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Medic's Augmented Operational ExoSuit M2&lt;/b&gt;&lt;/font&gt;\nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;40%&lt;/font&gt;\nThe next big step of warfare suit development by the famous military bureau &quot;Spor ants&quot; Inc. which is an independent supplier of equipment for Warface and Blackwood."/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Warlord Rifleman Helmet&lt;/b&gt;&lt;/font&gt;\nIncreases head protection by &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt;\nRegenerates &lt;font size='15' color='#42ebf8'&gt;8 health points&lt;/font&gt; over time (after &lt;font size='15' color='#42ebf8'&gt;5 secs&lt;/font&gt; without getting hit), if the character is not affected by a stronger effect of similar nature\n"/>
 	</entry>
 	<entry key="ui_armor_sniper_helmet_07_name">
 		<original value="Warlord sniper helmet"/>
@@ -1349,7 +1353,7 @@
 		<translation value="Warlord Gloves"/>
 	</entry>
 	<entry key="ui_armor_shared_hands_07">
-		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt; Warlord gloves&lt;/b&gt;&lt;/font&gt; \n Increase weapon reload duration by &lt;font size='15' color='#42ebf8'&gt;15%&lt;/font&gt; \nIncreases selection and deselection speed by &lt;font size='15' color='#42ebf8'&gt;25%&lt;/font&gt; \n"/>
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt; Warlord gloves&lt;/b&gt;&lt;/font&gt; \n Increase weapon reload duration by &lt;font size='15' color='#42ebf8'&gt;15%&lt;/font&gt; \nIncreases selection and deselection speed by &lt;font size='15' color='#42ebf8'&gt;25%&lt;/font&gt; \n "/>
 		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Warlord Gloves&lt;/b&gt;&lt;/font&gt;\nIncreases reloading speed by &lt;font size='15' color='#42ebf8'&gt;15%&lt;/font&gt;.\nIncreases selection and deselection speed by &lt;font size='15' color='#42ebf8'&gt;25%&lt;/font&gt;.\nDecreases recoil by &lt;font size='15' color='#42ebf8'&gt;15%&lt;/font&gt;.\n"/>
 	</entry>
 	<entry key="ui_armor_shared_helmet_04_name">
@@ -1461,7 +1465,7 @@
 		<translation value="Rifleman Nanosuit"/>
 	</entry>
 	<entry key="ui_armor_soldier_fbs_nano_01">
-		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt; Nanosuit&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nSoldier Nanosuit is an extremely versatile tactical-combat outfit originally designed for the Special Forces. Innovative material allows an operator to adapt to every weather conditions in different climatic zones.\n"/>
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt; Nanosuit&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nSoldier Nanosuit is an extremely versatile tactical-combat outfit originally designed for the Special Forces. Innovative material allows an operator to adapt to every weather conditions in different climatic zones.\n&#xA;"/>
 		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Rifleman nanosuit&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nThe Nanosuit is an extremely versatile tactical-combat outfit originally designed for the Special Forces. The innovative material allows the operator to adapt to every weather condition in any climate zone."/>
 	</entry>
 	<entry key="ui_armor_engineer_fbs_nano_01_name">
@@ -1469,7 +1473,7 @@
 		<translation value="Engineer Nanosuit"/>
 	</entry>
 	<entry key="ui_armor_engineer_fbs_nano_01">
-		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt; Nanosuit&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nEngineer Nanosuit is an extremely versatile tactical-combat outfit originally designed for the Special Forces. Innovative material allows an operator to adapt to every weather conditions in different climatic zones.\n"/>
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt; Nanosuit&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nEngineer Nanosuit is an extremely versatile tactical-combat outfit originally designed for the Special Forces. Innovative material allows an operator to adapt to every weather conditions in different climatic zones.\n&#xA;"/>
 		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Engineer Nanosuit&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nThe Nanosuit is an extremely versatile tactical-combat outfit originally designed for the Special Forces. The innovative material allows the operator to adapt to every weather condition in any climate zone."/>
 	</entry>
 	<entry key="ui_armor_medic_fbs_nano_01_name">
@@ -1909,7 +1913,7 @@
 		<translation value="Absolute Set"/>
 	</entry>
 	<entry key="ui_set_comp_02_description">
-		<original/>
+		<original value="   "/>
 		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_comp_02_bonus03_description">
@@ -1981,7 +1985,7 @@
 		<translation value="K.I.W.I. Set"/>
 	</entry>
 	<entry key="ui_set_newgeneration_01_description">
-		<original/>
+		<original value="   "/>
 		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_newgeneration_01_bonus01_description">
@@ -2081,7 +2085,7 @@
 		<translation value="Syndicate Set"/>
 	</entry>
 	<entry key="ui_set_syndicat_01_description">
-		<original/>
+		<original value="   "/>
 		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_syndicat_01_bonus01_description">
@@ -2105,7 +2109,7 @@
 		<translation value="Provides &lt;font size='15' color='#42ebf8'&gt;15&lt;/font&gt; additional armor points&lt;/font&gt;\n"/>
 	</entry>
 	<entry key="ui_set_opc_01_description">
-		<original/>
+		<original value="   "/>
 		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_modernforce_01">
@@ -2113,7 +2117,7 @@
 		<translation value="Spectre Engineer Set"/>
 	</entry>
 	<entry key="ui_set_modernforce_01_description">
-		<original/>
+		<original value="   "/>
 		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_modernforce_01_bonus01_description">
@@ -2125,7 +2129,7 @@
 		<translation value="Spectre Rifleman Set"/>
 	</entry>
 	<entry key="ui_set_modernforce_02_description">
-		<original/>
+		<original value="   "/>
 		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_modernforce_02_bonus01_description">
@@ -2137,7 +2141,7 @@
 		<translation value="Spectre Medic Set"/>
 	</entry>
 	<entry key="ui_set_modernforce_03_description">
-		<original/>
+		<original value="   "/>
 		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_modernforce_03_bonus01_description">
@@ -2149,7 +2153,7 @@
 		<translation value="Spectre Sniper Set"/>
 	</entry>
 	<entry key="ui_set_modernforce_04_description">
-		<original/>
+		<original value="   "/>
 		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_modernforce_04_bonus01_description">
@@ -2417,7 +2421,7 @@
 		<translation value="Armageddon Set"/>
 	</entry>
 	<entry key="ui_set_armagedon_01_description">
-		<original/>
+		<original value="   "/>
 		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_armagedon_01_bonus01_description">
@@ -2661,7 +2665,7 @@
 		<translation value="Salamander Set"/>
 	</entry>
 	<entry key="ui_set_warlord_engineer_description">
-		<original/>
+		<original value="   "/>
 		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_warlord_engineer_bonus01_description">
@@ -2681,7 +2685,7 @@
 		<translation value="Salamander Set"/>
 	</entry>
 	<entry key="ui_set_warlord_soldier_description">
-		<original/>
+		<original value="   "/>
 		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_warlord_soldier_bonus01_description">
@@ -2701,7 +2705,7 @@
 		<translation value="Salamander Set"/>
 	</entry>
 	<entry key="ui_set_warlord_medic_description">
-		<original/>
+		<original value="   "/>
 		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_warlord_medic_bonus01_description">
@@ -2721,7 +2725,7 @@
 		<translation value="Salamander Set"/>
 	</entry>
 	<entry key="ui_set_warlord_sniper_description">
-		<original/>
+		<original value="   "/>
 		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_warlord_sniper_bonus01_description">
@@ -2813,7 +2817,7 @@
 		<translation value="Chromium set for SED"/>
 	</entry>
 	<entry key="ui_set_gunner_01_description">
-		<original/>
+		<original value="   "/>
 		<translation value="   "/>
 	</entry>
 	<entry key="ui_set_gunner_01_bonus01_description">
@@ -2969,7 +2973,7 @@
 		<translation value="Blackwood set"/>
 	</entry>
 	<entry key="ui_set_blackwood_01_soldier_desc">
-		<original/>
+		<original value="  "/>
 		<translation/>
 	</entry>
 	<entry key="ui_set_blackwood_01_soldier_bonus01_desc">
@@ -2989,7 +2993,7 @@
 		<translation value="Blackwood set"/>
 	</entry>
 	<entry key="ui_set_blackwood_01_engineer_desc">
-		<original/>
+		<original value="  "/>
 		<translation/>
 	</entry>
 	<entry key="ui_set_blackwood_01_engineer_bonus01_desc">
@@ -3009,7 +3013,7 @@
 		<translation value="Blackwood set"/>
 	</entry>
 	<entry key="ui_set_blackwood_01_medic_desc">
-		<original/>
+		<original value="  "/>
 		<translation/>
 	</entry>
 	<entry key="ui_set_blackwood_01_medic_bonus01_desc">
@@ -3029,7 +3033,7 @@
 		<translation value="Blackwood set"/>
 	</entry>
 	<entry key="ui_set_blackwood_01_sniper_desc">
-		<original/>
+		<original value="  "/>
 		<translation/>
 	</entry>
 	<entry key="ui_set_blackwood_01_sniper_bonus01_desc">
@@ -3113,7 +3117,7 @@
 		<translation value="Mercury set for SED"/>
 	</entry>
 	<entry key="ui_set_gunner_02_description">
-		<original/>
+		<original value="  "/>
 		<translation value="  "/>
 	</entry>
 	<entry key="ui_set_gunner_02_bonus01_description">
@@ -3189,31 +3193,63 @@
 		<translation value="Sutomutorupa"/>
 	</entry>
 	<entry key="ui_armor_soldier_fbs_samurai_01">
-		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Soldier the elite squad of samurai.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nSamurai are legendary Japanese warriors who do not know fear, pain and fatigue. They are able to turn the enemy into a panic with one stroke of the sword.\n"/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Sutomutorupa&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nA warrior of the powerful and wise Iamoto dynasty. Be respectful with him not to anger a force equal to thousands of tsunamis.\n"/>
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Soldier the elite squad of samurai.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt; \nSamurai are legendary Japanese warriors who do not know fear, pain and fatigue. They are able to turn the enemy into a panic with one stroke of the sword.\n"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Sutomutorupa&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt; \nA warrior of the powerful and wise Iamoto dynasty. Be respectful with him not to anger a force equal to thousands of tsunamis.\n"/>
 	</entry>
 	<entry key="ui_armor_sniper_fbs_samurai_01_name">
 		<original value="Samurai Sniper Suit"/>
 		<translation value="Sunaipa"/>
 	</entry>
 	<entry key="ui_armor_sniper_fbs_samurai_01">
-		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Sniper of the elite squad of samurai.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nSamurai are legendary Japanese warriors who do not know fear, pain and fatigue. They are able to turn the enemy into a panic with one stroke of the sword.\n"/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Sunaipa&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nAn invisible Fijiwur warrior, hiding in the shadows, kills silently and quickly, like a sweep of a katana.\n"/>
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Sniper of the elite squad of samurai.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt; \nSamurai are legendary Japanese warriors who do not know fear, pain and fatigue. They are able to turn the enemy into a panic with one stroke of the sword.\n"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Sunaipa&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt; \nAn invisible Fijiwur warrior, hiding in the shadows, kills silently and quickly, like a sweep of a katana.\n"/>
 	</entry>
 	<entry key="ui_armor_medic_fbs_samurai_01_name">
 		<original value="Samurai Medic Suit"/>
 		<translation value="Medikku"/>
 	</entry>
 	<entry key="ui_armor_medic_fbs_samurai_01">
-		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Medic of the elite squad of samurai.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nSamurai are legendary Japanese warriors who do not know fear, pain and fatigue. They are able to turn the enemy into a panic with one stroke of the sword.\n"/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Medikku&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nA member of the Taiora clan that includes ancient and legendary samurai who have all the power and protection of the shogun behind them.\n"/>
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Medic of the elite squad of samurai.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt; \nSamurai are legendary Japanese warriors who do not know fear, pain and fatigue. They are able to turn the enemy into a panic with one stroke of the sword.\n"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Medikku&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt; \nA member of the Taiora clan that includes ancient and legendary samurai who have all the power and protection of the shogun behind them.\n"/>
 	</entry>
 	<entry key="ui_armor_engineer_fbs_samurai_01_name">
 		<original value="Samurai Engineer Suit"/>
 		<translation value="Enjinia"/>
 	</entry>
 	<entry key="ui_armor_engineer_fbs_samurai_01">
-		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Engineer of the elite squad of samurai.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nSamurai are legendary Japanese warriors who do not know fear, pain and fatigue. They are able to turn the enemy into a panic with one stroke of the sword.\n"/>
-		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Enjinia&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nSamurai of the Minomato clan are valiant fighters and excellent strategists. They employ the most cunning tactics and deadly traps.\n"/>
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Engineer of the elite squad of samurai.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt; \nSamurai are legendary Japanese warriors who do not know fear, pain and fatigue. They are able to turn the enemy into a panic with one stroke of the sword.\n"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Enjinia&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;60%&lt;/font&gt; \nSamurai of the Minomato clan are valiant fighters and excellent strategists. They employ the most cunning tactics and deadly traps.\n"/>
+	</entry>
+	<entry key="ui_armor_soldier_fbs_brazil_01_name">
+		<original value="Brazil Soldier's Suit"/>
+		<translation value="Peacekeeper Rifleman's Uniform"/>
+	</entry>
+	<entry key="ui_armor_soldier_fbs_brazil_01">
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Soldier of the special forces of Brazil.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nThese elite forces are engaged in black ops all over the world.\n"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Rifleman of the Peacekeeper forces.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt;. \nThese elite forces are engaged in black ops all over the world.\n"/>
+	</entry>
+	<entry key="ui_armor_engineer_fbs_brazil_01_name">
+		<original value="Brazil Engineer's Suit"/>
+		<translation value="Peacekeeper Engineer's Uniform"/>
+	</entry>
+	<entry key="ui_armor_engineer_fbs_brazil_01">
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Engineer of the special forces of Brazil.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nThese elite forces are engaged in black ops all over the world.\n"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Engineer of the Peacekeeper forces.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt;. \nThese elite forces are engaged in black ops all over the world.\n"/>
+	</entry>
+	<entry key="ui_armor_sniper_fbs_brazil_01_name">
+		<original value="Brazil Sniper's Suit"/>
+		<translation value="Peacekeeper Sniper's Uniform"/>
+	</entry>
+	<entry key="ui_armor_sniper_fbs_brazil_01">
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Sniper of the special forces of Brazil.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nThese elite forces are engaged in black ops all over the world.\n"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Sniper of the Peacekeeper forces.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt;. \nThese elite forces are engaged in black ops all over the world.\n"/>
+	</entry>
+	<entry key="ui_armor_medic_fbs_brazil_01_name">
+		<original value="Brazil Medic's Suit"/>
+		<translation value="Peacekeeper Medic's Uniform"/>
+	</entry>
+	<entry key="ui_armor_medic_fbs_brazil_01">
+		<original value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Medic of the special forces of Brazil.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt; \nThese elite forces are engaged in black ops all over the world.\n"/>
+		<translation value="&lt;font size='15' color='#dddddd'&gt;&lt;b&gt;Medic of the Peacekeeper forces.&lt;/b&gt;&lt;/font&gt; \nIncreases sprint distance by &lt;font size='15' color='#42ebf8'&gt;50%&lt;/font&gt;. \nThese elite forces are engaged in black ops all over the world.\n"/>
 	</entry>
 </localization>

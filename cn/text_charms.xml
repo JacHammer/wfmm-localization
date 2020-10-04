@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localization>
+	<entry key="token">
+		<original value="Trunk"/>
+		<translation value="CN"/>
+	</entry>
+	<entry key="charm_pirate01_name">
+		<original value="Pirate Treasures"/>
+		<translation value="“金达布隆”护符"/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate01">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Pirate Treasures&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;金达布隆&lt;/font&gt;\n美丽的装饰。\n此护符可以装到武器上。"/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate01_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;不会改善武器统计数据。&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_pirate02_name">
+		<original value="Jolly Roger"/>
+		<translation value="“海盗旗”护符"/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate02">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Jolly Roger&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;海盗旗&lt;/font&gt;\n美丽的装饰。\n此护符可以装到武器上。"/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate02_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;不会改善武器统计数据。&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_pirate03_name">
+		<original value="Treasure map"/>
+		<translation value="“宝藏图”护符"/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate03">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Treasure map&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;宝藏图&lt;/font&gt;\n美丽的装饰。\n此护符可以装到武器上。"/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate03_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;不会改善武器统计数据。&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_pirate04_name">
+		<original value="Chest of gold"/>
+		<translation value="“死者宝箱”护符"/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate04">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Chest of gold&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;死者宝箱&lt;/font&gt;\n美丽的装饰。\n此护符可以装到武器上。"/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate04_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;不会改善武器统计数据。&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_pirate05_name">
+		<original value="Starfish"/>
+		<translation value="“虎克船长”护符"/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate05">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Starfish&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;虎克船长&lt;/font&gt;\n美丽的装饰。\n此护符可以装到武器上。"/>
+	</entry>
+	<entry key="ui_accessories_charm_pirate05_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;不会改善武器统计数据。&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_brazil06_name">
+		<original value="Gangster"/>
+		<translation value="“匪徒标志”护符"/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil06">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Gangster&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;匪徒标志&lt;/font&gt;\n美丽的装饰。\n此护符可以装到武器上。"/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil06_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;不会改善武器性能。&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_brazil07_name">
+		<original value="Dog"/>
+		<translation value="“斗牛犬”护符"/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil07">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Dog&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;斗牛犬&lt;/font&gt;\n美丽的装饰。\n此护符可以装到武器上。"/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil07_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;不会改善武器性能。&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_brazil08_name">
+		<original value="Police badge"/>
+		<translation value="“警徽”护符"/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil08">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Police badge&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;警徽&lt;/font&gt;\n美丽的装饰。\n此护符可以装到武器上。"/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil08_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;不会改善武器性能。&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_brazil09_name">
+		<original value="Gang symbol"/>
+		<translation value="“墨西哥毒枭标志”护符"/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil09">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Gang symbol&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;墨西哥毒枭标志&lt;/font&gt;\n美丽的装饰。\n此护符可以装到武器上。"/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil09_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;不会改善武器性能。&lt;/font&gt;"/>
+	</entry>
+	<entry key="charm_brazil10_name">
+		<original value="Badge of honor"/>
+		<translation value="“狗牌”护符"/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil10">
+		<original value="&lt;font size='14' color='#42EBF8'&gt;Badge of honor&lt;/font&gt;\nBeautiful trinket to decorate weapons\nThe trinket can be attached on weapons"/>
+		<translation value="&lt;font size='14' color='#42EBF8'&gt;狗牌&lt;/font&gt;\n美丽的装饰。\n此护符可以装到武器上。"/>
+	</entry>
+	<entry key="ui_accessories_charm_brazil10_stats">
+		<original value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;No improvements for weapon&lt;/font&gt;"/>
+		<translation value="&lt;font size='14'&gt;&lt;font color='#ff6660'&gt;不会改善武器性能。&lt;/font&gt;"/>
+	</entry>
+</localization>
